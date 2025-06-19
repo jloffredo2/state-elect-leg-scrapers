@@ -1,7 +1,7 @@
 ##################################################
 ## Project: State Election Legislation Scrapers
 ## Script purpose: Scrape NY Bill Text
-## Date: May 2025
+## Date: June 2025
 ## Author: Joe Loffredo
 ##################################################
 
