@@ -4,9 +4,13 @@ anyio==4.8.0
 asyncio==3.4.3
 attrs==25.3.0
 beautifulsoup4==4.13.4
+bs4==0.0.2
 cachetools==5.5.2
-certifi==2024.12.14
-charset-normalizer==3.4.1
+certifi==2025.4.26
+cffi==1.17.1
+charset-normalizer==3.4.2
+colorama==0.4.6
+cryptography==45.0.2
 distro==1.9.0
 exceptiongroup==1.2.2
 google-auth==2.40.1
@@ -25,6 +29,7 @@ pandas==2.2.3
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pycryptodome==3.23.0
+pycparser==2.22
 pydantic==2.10.6
 pydantic_core==2.27.2
 PyMuPDF==1.25.5
@@ -44,9 +49,9 @@ striprtf==0.0.29
 tqdm==4.67.1
 trio==0.30.0
 trio-websocket==0.12.2
-typing_extensions==4.12.2
+typing_extensions==4.13.2
 tzdata==2025.1
-urllib3==2.3.0
+urllib3==2.4.0
 webdriver-manager==4.0.2
 websocket-client==1.8.0
 websockets==15.0.1
