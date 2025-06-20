@@ -267,6 +267,5 @@ master <- vrleg_master_file |>
 
 master |>
   filter(!(UUID %in% list.files(path = "/Users/josephloffredo/MIT Dropbox/Joseph Loffredo/election_bill_text/data/virginia"))) |>
-  #future_pmap(scrape_text, .progress = TRUE, .options = furrr_options(seed = TRUE))
-  pmap(scrape_text)
+  future_pmap(scrape_text, .progress = TRUE, .options = furrr_options(seed = TRUE))
 
