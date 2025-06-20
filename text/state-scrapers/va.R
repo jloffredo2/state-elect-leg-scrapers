@@ -15,7 +15,7 @@ library(furrr)
 library(fs)
 library(polite)
 
-plan(multisession, workers = 7)
+plan(multisession, workers = 11)
 
 clean_html <- function(html_content) {
   
@@ -142,56 +142,91 @@ scrape_text <- function(UUID, session, source_houseorig, source_billtype, source
   TEXT_OUTPUT_PATH <- '/Users/josephloffredo/MIT Dropbox/Joseph Loffredo/election_bill_text/data/virginia'
   
   url <- build_url(session, bill_number)
-  
   response <- httr::GET(url, config = httr::config(ssl_verifypeer = FALSE, followlocation = TRUE))
   
   if (response$status_code != 200) {
     message(url)
     message(glue("Failed to fetch {UUID} - status code: {response$status_code}"))
     return(NULL)
-  } else {
-    page <- read_html(response)
-    
-    # Check if server error
-    if (str_detect(page |> as.character(), "Sorry, your query could not be completed")) {
-      message("server error, need to retry after delay")
-      
-      valid_call <- FALSE
-      while (!valid_call) {
-        Sys.sleep(20)
-        response <- httr::GET(url, config = httr::config(ssl_verifypeer = FALSE, followlocation = TRUE))
-        page <- read_html(response)
-        valid_call <- response$status_code == 200 &&
-          !str_detect(page |> as.character(), "Sorry, your query could not be completed")
-      }
-    }
-    
-    summary <- page |> html_nodes("p") |> html_text() |> tail(1) |> str_trim() |> str_squish()
-    
-    text_link <- page |>html_nodes("a") |>  html_attr("href") |>  str_subset("\\+ful") |>  str_subset("pdf", negate = TRUE) |>  tail(1)
-    
-    text_link <- glue("https://legacylis.virginia.gov/{text_link}") |> as.character()
-    
-    text <- bow(text_link, force = TRUE) |> scrape() |> html_node("#mainC") |>  as.character() |> clean_html() |> str_trim() |> str_squish()
-    
-    if (is.na(text)) {
-      message("Issue getting text")
-      valid_text <- FALSE
-      
-      while (!valid_text) {
-        Sys.sleep(10)
-        text <- bow(text_link, force = TRUE) |> scrape() |> html_node("#mainC") |>  as.character() |> clean_html() |> str_trim() |> str_squish()
-        valid_text <- !is.na(text)
-      }
-    }
-    
-    output <- glue("Summary: {summary}\n\n{text}")
-    file_name <- glue("{TEXT_OUTPUT_PATH}/{UUID}/{UUID}_html.txt")
-    
-    dir_create(glue("{TEXT_OUTPUT_PATH}/{UUID}"))
-    write_lines(output, file_name)
   }
+  
+  page <- read_html(response)
+  
+  if (str_detect(as.character(page), "Sorry, the document you requested does not exist or is not available")) {
+    message(glue("Document does not exist for {UUID}"))
+    return(NULL)
+  }
+  
+  if (str_detect(as.character(page), "Sorry, your query could not be completed")) {
+    message(glue("Temporary server error for {UUID}, retrying..."))
+    
+    attempts <- 0
+    success <- FALSE
+    
+    while (!success && attempts < 4) {
+      Sys.sleep(5)
+      response <- httr::GET(url, config = httr::config(ssl_verifypeer = FALSE, followlocation = TRUE))
+      if (response$status_code == 200) {
+        page <- read_html(response)
+        if (!str_detect(as.character(page), "Sorry, your query could not be completed")) {
+          success <- TRUE
+        }
+      }
+      attempts <- attempts + 1
+    }
+    
+    if (!success) {
+      message(glue("Failed to fetch page for {UUID} after {attempts} attempts"))
+      return(NULL)
+    }
+  }
+  
+  summary <- page |> html_nodes("p") |> html_text() |> tail(1) |> str_trim() |> str_squish()
+  
+  text_link <- page |> 
+    html_nodes("a") |> 
+    html_attr("href") |> 
+    str_subset("\\+ful") |> 
+    str_subset("pdf", negate = TRUE) |> 
+    tail(1)
+  
+  text_link <- glue("https://legacylis.virginia.gov/{text_link}") |> as.character()
+  
+  text <- tryCatch(
+    bow(text_link, force = TRUE) |> scrape() |> html_node("#mainC") |> 
+      as.character() |> clean_html() |> str_trim() |> str_squish(),
+    error = function(e) {
+      message(glue("Initial text fetch failed for {UUID}: {e$message}"))
+      NA_character_
+    }
+  )
+  
+  attempts <- 0
+  while (is.na(text) && attempts < 4) {
+    Sys.sleep(10)
+    text <- tryCatch(
+      bow(text_link, force = TRUE) |> scrape() |> html_node("#mainC") |> 
+        as.character() |> clean_html() |> str_trim() |> str_squish(),
+      error = function(e) {
+        message(glue("Retry {attempts + 1} failed for {UUID}: {e$message}"))
+        NA_character_
+      }
+    )
+    attempts <- attempts + 1
+  }
+  
+  if (is.na(text)) {
+    message(glue("Failed to fetch text for {UUID} after {attempts} attempts"))
+    return(NULL)
+  }
+  
+  output <- glue("Summary: {summary}\n\n{text}")
+  file_name <- glue("{TEXT_OUTPUT_PATH}/{UUID}/{UUID}_html.txt")
+  
+  dir_create(glue("{TEXT_OUTPUT_PATH}/{UUID}"))
+  write_lines(output, file_name)
 }
+
 
 vrleg_master_file <- readRDS("~/Desktop/GitHub/election-roll-call/bills/vrleg_master_file.rds")
 master <- vrleg_master_file |> 
@@ -232,6 +267,6 @@ master <- vrleg_master_file |>
 
 master |>
   filter(!(UUID %in% list.files(path = "/Users/josephloffredo/MIT Dropbox/Joseph Loffredo/election_bill_text/data/virginia"))) |>
-  future_pmap(scrape_text, .progress = TRUE, .options = furrr_options(seed = TRUE))
-  #pmap(scrape_text)
+  #future_pmap(scrape_text, .progress = TRUE, .options = furrr_options(seed = TRUE))
+  pmap(scrape_text)
 
