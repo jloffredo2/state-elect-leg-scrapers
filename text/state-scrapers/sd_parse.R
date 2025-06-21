@@ -65,8 +65,20 @@ clean_html <- function(html_content) {
     str_squish() |>
     str_trim() |>
     str_replace_all("(?i)(Insertions into existing statutes.*|Legislative Research Council.*|[0-9]+ copies of this document.*)", "") |>
-    str_replace_all("(?is)(I certify that the attached Act originated in the HOUSE.*)", "") |>
-    str_replace_all("(?is)(I certify that the attached Act originated in the SENATE.*)", "") |>
+    str_replace_all(
+      regex(
+        paste(
+          "Insertions into existing statutes.*",
+          "Legislative Research Council.*",
+          "[0-9]+ copies of this document.*",
+          "I certify that the attached (Act|Resolution) originated in the (HOUSE|SENATE).*",
+          sep = "|"
+        ),
+        ignore_case = TRUE,
+        dotall = TRUE
+      ),
+      ""
+    ) |>
     str_remove("\\.\\s*\\.$") |>   # remove ". ."
     str_trim()
   
