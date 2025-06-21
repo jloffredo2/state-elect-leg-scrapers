@@ -66,14 +66,15 @@ clean_html <- function(html_content) {
     str_trim() |>
     str_replace_all("(?i)(Insertions into existing statutes.*|Legislative Research Council.*|[0-9]+ copies of this document.*)", "") |>
     str_replace_all("(?is)(I certify that the attached Act originated in the HOUSE.*)", "") |>
+    str_replace_all("(?is)(I certify that the attached Act originated in the SENATE.*)", "") |>
     str_remove("\\.\\s*\\.$") |>   # remove ". ."
     str_trim()
   
   return(cleaned)
 }
 
-get_bill_id <- function(year, bill_number){
-  text_links |> filter(session == year & state_bill_number == bill_number) |> pull(state_bill_id)
+get_bill_id <- function(bill_session, bill_number){
+  text_links |> filter(year == bill_session, state_bill_number == bill_number) |> pull(state_bill_id)
 }
 
 scrape_text <- function(UUID, session, bill_number){
@@ -99,9 +100,10 @@ scrape_text <- function(UUID, session, bill_number){
     text <- fromJSON(document_url) |> pluck('DocumentHtml') |> clean_html() |> str_trim() |> str_squish()
     
     file_name <- glue("{TEXT_OUTPUT_PATH}/{UUID}/{UUID}_html.txt")
-    
     write_lines(text, file_name)
   }
+  
+  Sys.sleep(5)
 }
 
 vrleg_master_file <- readRDS("~/Desktop/GitHub/election-roll-call/bills/vrleg_master_file.rds")
