@@ -100,7 +100,6 @@ get_rank <- function(path) {
   )
 }
 
-
 bill_text_files <- data.frame(
   file_path = list.files(path = "/Users/josephloffredo/MIT Dropbox/Joseph Loffredo/election_bill_text/data/new_mexico", pattern = "*.pdf", full.names = TRUE, recursive = TRUE)) |>
   mutate(
