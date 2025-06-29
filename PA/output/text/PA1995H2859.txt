@@ -1,0 +1,297 @@
+11     Section 1.  Section 102 of the act of June 30, 1995 (P.L.170,
+12  No.25), known as the Pennsylvania Voter Registration Act, is
+13  amended by adding a definition to read:
+14  Section 102.  Definitions.
+15     The following words and phrases when used in this act shall
+16  have the meanings given to them in this section unless the
+17  context clearly indicates otherwise:
+18     * * *
+19     "Qualifying educational institution."  Any of the following:
+1         (1)  A university which is a member of the State System
+2     of Higher Education.
+3         (2)  A State-related university.
+4         (3)  A community college.
+5         (4)  A private college or university.
+6     * * *
+7     Section 2.  Sections 521, 525, 526, 527(c) and (d) and 5102
+8  of the act are amended to read:
+9  Section 521.  Methods of voter registration.
+10     An individual qualified to register to vote under section
+11  501(a) may apply to register as follows:
+12         (1)  In person under section 522.
+13         (2)  In conjunction with an application for a motor
+14     vehicle driver's license under section 523.
+15         (3)  By mail application under section 524.
+16         (4)  In conjunction with certain government agency or
+17     educational services under section 525.
+18  Section 525.  Government agencies and affiliated entities.
+19     (a)  General rule.--The secretary shall administer a system
+20  whereby all offices in this Commonwealth that provide public
+21  assistance, each county clerk of Orphan's Court, including each
+22  marriage license bureau, all offices in this Commonwealth that
+23  provide State-funded programs primarily engaged in providing
+24  services to persons with disabilities, all qualifying
+25  educational institutions and all armed forces recruitment
+26  centers do all of the following:
+27         (1)  Distribute voter registration applications with each
+28     application; reapplication; and application for
+29     recertification, renewal or change of address. A qualifying
+30     educational institution shall make the distribution under
+1     this paragraph at registration, issuance of a student
+2     identification number, application for financial aid, payment
+3     of tuition and student orientation and at other appropriate
+4     times.
+5         (2)  Assist applicants with completion of the
+6     registration application unless assistance is refused.
+7         (3)  Accept completed registration applications.
+8         (4)  Transmit completed applications to the appropriate
+9     registration commission.
+10     (b)  Forms.--An agency or qualifying educational institution
+11  designated in subsection (a) shall provide a form for office
+12  visits or, if the agency provides services to persons with
+13  disabilities, for home visits which contains all of the
+14  following:
+15         (1)  The question, "If you are not registered to vote
+16     where you live now, would you like to apply to register to
+17     vote today?"
+18         (2)  If [the] an agency provides public assistance, the
+19     statement, "Applying to register or declining to register to
+20     vote will not affect the amount of assistance that you will
+21     be provided by this agency."
+22         (3)  Boxes for the applicant to check to indicate whether
+23     the applicant would like to register or decline to register
+24     to vote. In close proximity to the boxes the following words
+25     shall appear in prominent type: "IF YOU DO NOT CHECK EITHER
+26     BOX, YOU WILL BE CONSIDERED TO HAVE DECIDED NOT TO REGISTER
+27     TO VOTE AT THIS TIME."
+28         (4)  The statement, "In order to be qualified to register
+29     to vote, you must be at least 18 years of age on the day of
+30     the next election, you must have been a citizen of the United
+1     States for at least one month prior to the next election and
+2     have resided in Pennsylvania and the election district where
+3     you plan to vote for at least 30 days prior to the next
+4     election, and you must not have been confined to a penal
+5     institution for a conviction of a felony within the last five
+6     years."
+7         (5)  The statement, "If you would like help in filling
+8     out the voter registration application form, we will help
+9     you. The decision whether to seek help is yours. You may fill
+10     out the form in private."
+11         (6)  The statement, "If you believe that someone has
+12     interfered with your right to register or to decline to
+13     register to vote, your right to privacy in deciding whether
+14     to register or in applying to register to vote or your right
+15     to choose your own political party or other political
+16     preference, you may file a complaint with the Secretary of
+17     the Commonwealth, Pennsylvania Department of State,
+18     Harrisburg, PA 17120." The secretary shall establish and
+19     publish a toll-free telephone number for the purpose of
+20     receiving complaints.
+21     (c)  Effect.--Failure to check either box under subsection
+22  (b)(3) shall be considered a declination to register to vote.
+23     (d)  Staff.--[Agency employees] Employees assisting in the
+24  completion of voter registration applications shall conduct
+25  themselves in a manner consistent with the following principles:
+26         (1)  They shall not seek to influence an applicant's
+27     political preference or party registration or display
+28     political preference or party allegiance.
+29         (2)  They shall not make any statement to an applicant or
+30     take any action the purpose of or effect of which is to
+1     discourage the applicant from registering to vote.
+2         (3)  They shall not make any statement to an applicant or
+3     take any action the purpose or effect of which is to lead the
+4     applicant to believe that a decision to register or not to
+5     register has any bearing on the availability of services or
+6     benefits.
+7  Agency employees who violate this subsection shall be removed
+8  from employment, provided that the agency at its discretion may
+9  impose a penalty of suspension without pay for at least 30 days,
+10  but not more than 120 days, if it finds that the violation does
+11  not warrant termination.
+12     (e)  Encouraging registration.--An agency or qualifying
+13  educational institution designated in subsection (a) shall
+14  provide reasonable space for nonpartisan signs or posters
+15  encouraging voter registration. The signs and posters shall be
+16  provided by the secretary.
+17     (f)  Transmission.--An agency or qualifying educational
+18  institution designated in subsection (a) shall forward all
+19  completed registration applications to the appropriate
+20  registration commission within ten days after the date of
+21  receipt. If a voter registration application is received within
+22  five days before the last day to register before an election,
+23  the application shall be transmitted to the appropriate
+24  commission not later than five days after the date of its
+25  receipt by the agency or qualifying educational institution.
+26     (g)  Confidentiality.--The identity of the voter registration
+27  agency through which any particular voter is registered in
+28  accordance with this section shall not be disclosed to the
+29  public.
+30     (h)  Use of information.--No information relating to a
+1  declination to register to vote in connection with an
+2  application made at an office described in this section may be
+3  used for any purpose other than voter registration.
+4     (i)  Assistance.--Each agency or qualifying educational
+5  institution shall provide to each applicant who chooses to
+6  register to vote the same degree of assistance with regard to
+7  the completion of the registration application form as is
+8  provided by the office with regard to the completion of its own
+9  forms, unless the applicant refuses such assistance.
+10     (j)  Regulation.--The secretary shall promulgate regulations
+11  regarding the maintenance and destruction of forms used pursuant
+12  to this section.
+13  Section 526.  Time.
+14     (a)  General rule.--Except as provided in subsection (b),
+15  each registration commission, commissioners and registrars or
+16  clerks appointed by the commission shall receive, during
+17  ordinary business hours and during additional hours as the
+18  commission prescribes, at the office of the commission and at
+19  additional places as the commission designates, applications
+20  from individuals who appear and claim that they are entitled to
+21  be registered as electors of a municipality.
+22     (b)  Deadlines.--In the administration of voter registration,
+23  each commission shall ensure that any eligible applicant is
+24  registered to vote in an election when the applicant has met any
+25  of the following conditions:
+26         (1)  In the case of voter registration with a motor
+27     vehicle driver's license application under section 523, if
+28     the valid voter registration application is submitted to the
+29     appropriate Department of Transportation office not later
+30     than 30 days before the date of the election.
+1         (2)  In the case of registration by mail under section
+2     524, if the valid voter registration mail application is
+3     postmarked not later than the deadline to register for the
+4     ensuing election or, in the case of an illegible or missing
+5     postmark, it is received not later than five days after the
+6     deadline to register for the ensuing election.
+7         (3)  In the case of voter registration [at a voter
+8     registration agency] under section 525, if the valid voter
+9     registration application is accepted at the voter
+10     registration agency or qualifying educational institution not
+11     later than 30 days before the date of the election.
+12         (4)  In any other case, if the valid voter registration
+13     application of the applicant is received by the appropriate
+14     commission not later than 30 days before the election.
+15     (c)  Special rules.--
+16         (1)  In the case of a special election within a
+17     congressional, senatorial or representative district held on
+18     a day other than the day of a primary, general or municipal
+19     election, the registration application forms shall not be
+20     processed in the wards and election districts comprising the
+21     district for the 30 days prior to the special election for
+22     such election.
+23         (2)  No applications shall be received as follows:
+24             (i)  On Sundays.
+25             (ii)  On holidays.
+26             (iii)  On the day of the election.
+27             (iv)  During the 30 days next preceding each
+28         general, municipal and primary election, except as
+29         provided in subsection (b).
+30  Section 527.  Preparation and distribution of applications.
+1     * * *
+2     (c)  Distribution.--
+3         (1)  The secretary shall supply official registration
+4     applications to commissions.
+5         (2)  The secretary shall make available for distribution
+6     official voter registration applications to public libraries,
+7     public schools, [State-related] qualifying educational
+8     institutions [of higher education], offices operated by the
+9     Department of Revenue, offices operated by the Department of
+10     Aging, area agencies on aging, offices operated by the
+11     Pennsylvania Game Commission or any of its authorized
+12     license-issuing agents, offices operated by the Pennsylvania
+13     Fish and Boat Commission or any of its issuing agents, and
+14     offices that provide unemployment compensation.
+15         (3)  Each participating [agency] entity identified under
+16     paragraph (2) shall:
+17             (i)  Provide that official voter registration mail
+18         applications are available on the premises and displayed
+19         prominently in a conspicuous location during normal
+20         business hours.
+21             (ii)  Provide an official voter registration mail
+22         application to any individual requesting one.
+23             (iii)  Provide reasonable space for nonpartisan signs
+24         or posters indicating the availability of official voter
+25         registration mail applications on the premises.
+26         (4)  The secretary may provide technical assistance to
+27     commissions upon request and [agencies] entities designated
+28     under paragraph (2).
+29         (5)  The secretary shall print and distribute mail
+30     registration applications which are not postage paid and
+1     which shall not be specific to any county registration
+2     office. Along with the distribution of such applications, the
+3     secretary shall also include instructions to inform the
+4     applicant where the application is to be sent.
+5         (6)  The secretary and commissions shall supply
+6         applications to all of the following:
+7             (i)  Persons and organizations who request
+8         applications.
+9             (ii)  Federal, State and political subdivision
+10         offices.
+11             (iii)  Political parties and political bodies.
+12             (iv)  Candidates.
+13     (d)  Staff.--[Agency employees] Employees assisting in the
+14  distribution of voter registration applications under subsection
+15  (c) shall conduct themselves in a manner consistent with the
+16  following principles:
+17         (1)  They shall not seek to influence an applicant's
+18     political preference or party registration or display
+19     political preference or party allegiance.
+20         (2)  They shall not make any statement to an applicant or
+21     take any action the purpose of or effect of which is to
+22     discourage the applicant from registering to vote.
+23         (3)  They shall not make any statement to an applicant or
+24     take any action the purpose or effect of which is to lead the
+25     applicant to believe that a decision to register or not to
+26     register has any bearing on the availability of services or
+27     benefits.
+28  Agency employees who violate this subsection shall be removed
+29  from employment, provided that the agency at its discretion may
+30  impose a penalty of suspension without pay for at least 30 days,
+1  but not more than 120 days, if it finds that the violation does
+2  not warrant termination.
+3  Section 5102.  Application for absentee ballots.
+4     (a)  General rule.--Notwithstanding the provisions of this
+5  act or the act of June 3, 1937 (P.L.1333, No.320), known as the
+6  Pennsylvania Election Code, the following persons may make
+7  application for an absentee ballot by sending a letter or other
+8  signed document to the county board of elections in the county
+9  in which the person's voting address is located:
+10         (1)  Any qualified elector who is unable to attend his
+11     polling place on the day of any primary or election because
+12     of illness or physical disability.
+13         (2)  Any qualified elector who expects to be absent from
+14     this Commonwealth or the county of residence because duties,
+15     occupation or business require him to be elsewhere the day of
+16     any primary or election.
+17         (3)  A county employee who cannot vote due to duties
+18     relating to the conduct of elections.
+19         (4)  A person who will not attend a polling place because
+20     of an observance of a religious holiday.
+21     (b)  Contents of letter or document.--The letter or document
+22  under subsection (a) shall provide the same information as is
+23  provided on forms prescribed by the secretary.
+24     (c)  Review and processing.--The letter or document shall be
+25  subject to the same schedule as other applications for absentee
+26  ballots and upon receipt by the county board of elections shall
+27  be reviewed and processed in the same fashion as other
+28  applications for absentee ballots.
+29     (d)  Application prepared by political party.--An absentee
+30  ballot application form containing the same information as that
+1  contained on the form prescribed by the secretary, which was
+2  prepared or distributed by a political party and signed by a
+3  qualified elector, shall be deemed for all purposes as valid and
+4  shall be reviewed and processed by the county board of elections
+5  in the same manner as applications on forms prescribed by the
+6  secretary and supplied by the county board of elections.
+7     (e)  Qualifying educational institutions.--Qualifying
+8  educational institutions shall distribute absentee ballot
+9  application forms at conspicuous locations. A form under this
+10  subsection must contain the same information as that contained
+11  on the form prescribed by the secretary. A form under this
+12  subsection signed by a qualified elector shall be deemed for all
+13  purposes as valid and shall be reviewed and processed by the
+14  county board of elections in the same manner as applications on
+15  forms prescribed by the secretary and supplied by the county
+16  board of elections.
+17     Section 3.  This act shall take effect in 60 days.
+D19L25SAF/19960H2859B3969       - 11 -

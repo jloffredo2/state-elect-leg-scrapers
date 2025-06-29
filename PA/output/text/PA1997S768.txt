@@ -1,0 +1,165 @@
+15     Section 1.  Section 1002 of the act of June 3, 1937
+16  (P.L.1333, No.320), known as the Pennsylvania Election Code, is
+17  amended by adding a subsection to read:
+18     Section 1002.  Form of Official Primary Ballot.--* * *
+19     (e)  At primaries separate official ballots shall be prepared
+20  for use by qualified electors enrolled as independents which
+21  ballots shall list the name of any candidate who has cross-filed
+22  nomination petitions and whose name is to be printed on the
+1  official primary ballot of more than one party. The candidate's
+2  name shall be printed once and the names of each political party
+3  for which the person has consented to be a candidate shall be
+4  printed opposite the name of the candidate, arranged in the same
+5  order as candidates' names are required to be arranged under
+6  section 1003(b) of this act. At the right of each party name
+7  shall be a single square of sufficient size for the convenient
+8  insertion of a cross (X) or check ( ) mark. The separate
+9  official ballots for use by qualified electors enrolled as
+10  independents shall be in substantially the following form:
+11       Official.......................Independent Primary Ballot.
+12  ........District,........Ward, City of.......................,
+13  County of............................, State of Pennsylvania
+14  ........Primary election held on the.....day of........., 19...
+15     Make a cross (X) or check ( ) in the square to the right of
+16  one of the party names opposite each candidate for whom you wish
+17  to vote. Mark ballot only in black lead pencil, indelible pencil
+18  or blue, black or blue-black ink in fountain pen or ball point
+19  pen. Use the same pencil or pen for all markings you place on
+20  the ballot.
+21     On the back of each ballot for use by qualified electors
+22  enrolled as independents shall be printed in prominent type the
+23  words "OFFICIAL PRIMARY BALLOT OF INDEPENDENT ELECTORS FOR"
+24  followed by the designation of the election district for which
+25  it is prepared, the date of the primary and the facsimile
+26  signatures of the members of the county board of elections. The
+27  names of candidates shall in all cases be arranged under the
+28  title of the office for which they are candidates, and be
+29  printed thereunder in the order determined by the casting of
+30  lots as provided by this act. Under the title of such offices
+1  where more than one candidate is to be voted for, shall be
+2  printed "Vote for not more than ........" (the blank space to
+3  indicate the number of candidates to be voted for the particular
+4  office.) At the right of the name of each candidate there shall
+5  be a square of sufficient size for the convenient insertion of a
+6  cross (x) or check ( ) mark. Opposite or under the name of each
+7  candidate, who is to be voted for by the electors of more than
+8  one county, shall be printed the name of the county in which
+9  such candidate resides; and opposite or under the name of each
+10  candidate shall be printed the name of the city, borough,
+11  township or ward, as the case may be, in which such candidate
+12  resides.
+13     Section 2.  Sections 1107(f) and 1111(a) of the act are
+14  amended to read:
+15     Section 1107.  Requirements of Voting Machines.--No voting
+16  machine shall, upon any examination or reexamination, be
+17  approved by the Secretary of the Commonwealth, or by any
+18  examiner appointed by him, unless it shall, at the time, satisfy
+19  the following requirements:
+20     * * *
+21     (f) It shall be capable of adjustment by election officers,
+22  so as to permit each voter at a primary election to vote only
+23  for the candidates for nonpartisan nomination, if any, and for
+24  the candidates seeking nomination by the political party in
+25  which he is registered and enrolled, if he is enrolled as a
+26  member of a political party, and so as to preclude him from
+27  voting for the candidates seeking nomination by any political
+28  party in which he is not enrolled and in the case of voters
+29  enrolled as independent, for candidates who have cross-filed
+30  nomination petitions and whose names are on the official primary
+1  ballot of more than one party, if any.
+2     * * *
+3     Section 1111.  Preparation of Voting Machines by County
+4  Election Boards.--
+5     (a) The county election board of each county shall cause the
+6  proper ballot labels to be placed on each voting machine which
+7  is to be used in any election district within such county; and
+8  shall cause each machine to be placed in proper order for
+9  voting; shall examine each machine before it is sent out to a
+10  polling place; shall see that each registering counter, except
+11  the protective counter, on each machine is set at zero (000);
+12  shall lock each machine so that the counting machinery cannot be
+13  operated, and shall seal each machine with a numbered seal. The
+14  county election board or their duly authorized agent shall
+15  adjust each machine to be used at a primary election, so that
+16  the election officers may lock it on primary election day, in
+17  such a way that each voter can vote only for the candidates for
+18  nonpartisan nomination, if any, and for the candidates seeking
+19  nomination by the political party in which he is enrolled, if he
+20  is enrolled as a member of a political party, and so that no
+21  voter can vote for the candidates seeking nomination by any
+22  political party in which he is not enrolled and, in the case of
+23  voters enrolled as independent, for candidates who have cross-
+24  filed nomination petitions and whose names are on the official
+25  primary ballot of more than one party, if any.
+26     * * *
+27     Section 3.  Sections 1107-A(9) and 1112-A(a)(1) of the act,
+28  added July 11, 1980 (P.L.600, No.128), are amended to read:
+29     Section 1107-A.  Requirements of Electronic Voting Systems.--
+30  No electronic voting system shall, upon any examination or
+1  reexamination, be approved by the Secretary of the Commonwealth,
+2  or by any examiner appointed by him, unless it shall be
+3  established that such system, at the time of such examination or
+4  reexamination:
+5     * * *
+6     (9)  Permits each voter at a primary election to vote only
+7  for the candidates seeking nomination by a political party in
+8  which such voter is registered and enrolled, [and] for any
+9  candidate for nonpartisan nomination, and for any question upon
+10  which he is entitled to vote and, in the case of voters enrolled
+11  as independent, for any candidate who has cross-filed nomination
+12  petitions and whose name is on the official primary ballot of
+13  more than one party.
+14     * * *
+15     Section 1112-A.  Election Day Procedures and the Process of
+16  Voting.--(a)  In an election district which uses an electronic
+17  voting system in which votes are registered electronically, the
+18  following procedures will be applicable for the conduct of the
+19  election at the election district:
+20     (1)  At primary elections, the election officer in charge
+21  shall adjust the voting system before the voter records any vote
+22  so that the voter will only be able to register a vote for
+23  candidates on the ballot of the party in which he is registered
+24  and enrolled or for persons whose names are not on the official
+25  ballot, for candidates for nonpartisan nominations, if any,
+26  [and] for any questions upon which he is entitled to vote and,
+27  in the case of voters enrolled as independent, for candidates
+28  who have cross-filed nomination petitions and whose names are on
+29  the official primary ballot of more than one party, if any.
+30     * * *
+1     Section 4.  Section 1216(c) of the act is amended to read:
+2     Section 1216.  Instructions of Voters and Manner of Voting in
+3  Districts in Which Voting Machines are Used.--
+4     * * *
+5     (c) At primaries, before a voter is admitted to the voting
+6  machine, it shall be adjusted by the election officer in charge
+7  thereof, so that such voter will only be able to vote for the
+8  candidates of the party in which he is registered and enrolled
+9  and for candidates for nonpartisan nomination, if any, and, in
+10  the case of voters enrolled as independent, for candidates who
+11  have cross-filed nomination petitions and whose names are on the
+12  official primary ballot of more than one party, if any.
+13     * * *
+14     Section 5.  (a)  Section 9 of the act of July 25, 1913
+15  (P.L.1043, No.472), entitled "An act to provide for the
+16  registration and enrollment of the voters of the State according
+17  to their respective party preferences; fixing the compensation
+18  of assessors and registry assessors for making said registration
+19  and enrollment; and prescribing penalties for false registration
+20  or enrollment, and for voters voting or attempting to vote, and
+21  for election officers wilfully permitting or conspiring to
+22  permit them to vote, at a primary, by or on any other than their
+23  own party ticket," is repealed to the extent that it prohibits
+24  qualified electors, properly enrolled as independents, from
+25  voting at a primary election for candidates who have cross-filed
+26  nomination petitions.
+27     (b)  The following acts and parts of acts are repealed
+28  insofar as they are inconsistent with this act:
+29     Section 19.1(a)(5) of the act of March 30, 1937 (P.L.115,
+30  No.40), known as The First Class City Permanent Registration
+1  Act.
+2     Section 17.1(a)(5) of the act of April 29, 1937 (P.L.487,
+3  No.115), known as The Permanent Registration Act for Cities of
+4  the Second Class, Cities of the Second Class A, Cities of the
+5  Third Class, Boroughs, Towns, and Townships.
+6     Section 6.  This act shall take effect in 60 days.
+B26L25JRW/19970S0768B0824        - 7 -

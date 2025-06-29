@@ -1,0 +1,1579 @@
+31     Section 1.  Section 102(w) of the act of June 3, 1937
+32  (P.L.1333, No.320), known as the Pennsylvania Election Code,
+33  amended or added August 13, 1963 (P.L.707, No.379), December 11,
+34  1968 (P.L.1183, No.375), May 5, 1986 (P.L.150, No.47) and
+35  December 7, 1990 (P.L.681, No.169), is amended and the section
+36  is amended by adding a clause to read:
+37     Section 102.  Definitions.--The following words, when used in
+38  this act, shall have the following meanings, unless otherwise
+39  clearly apparent from the context:
+40     * * *
+41     (w)  The words "qualified absentee elector" shall mean:
+42     (1)  Any qualified elector who is or who may be in the
+1  military service of the United States regardless of whether at
+2  the time of voting he is present in the election district of his
+3  residence or is within or without this Commonwealth and
+4  regardless of whether he is registered or enrolled; or
+5     (2)  Any qualified elector who is a spouse or dependent
+6  residing with or accompanying a person in the military service
+7  of the United States if at the time of voting such spouse or
+8  dependent is absent from the [State or county] municipality of
+9  his residence: Provided, however, That the said elector has been
+10  registered or enrolled according to law or is entitled, under
+11  provisions of the Permanent Registration Law as now or
+12  hereinafter enacted by the General Assembly, to absentee
+13  registration prior to or concurrently with the time of voting;
+14  or
+15     (3)  Any qualified elector who is or who may be in the
+16  service of the Merchant Marine of the United States if at the
+17  time of voting he is absent from the [State or county]
+18  municipality of his residence: Provided, however, That the said
+19  elector has been registered or enrolled according to law or is
+20  entitled, under provisions of the Permanent Registration Law as
+21  now or hereinafter enacted by the General Assembly, to absentee
+22  registration prior to or concurrently with the time of voting;
+23  or
+24     (4)  Any qualified elector who is a spouse or dependent
+25  residing with or accompanying a person who is in the service of
+26  the Merchant Marine of the United States if at the time of
+27  voting such spouse or dependent is absent from the [State or
+28  county] municipality of his residence: Provided, however, That
+29  the said elector has been registered or enrolled according to
+30  law or is entitled, under provisions of the Permanent
+1  Registration Law as now or hereinafter enacted by the General
+2  Assembly, to absentee registration prior to or concurrently with
+3  the time of voting; or
+4     (5)  Any qualified elector who is or who may be in a
+5  religious or welfare group officially attached to and serving
+6  with the armed forces if at the time of voting he is absent from
+7  the [State or county] municipality of his residence: Provided,
+8  however, That the said elector has been registered or enrolled
+9  according to law or is entitled, under provisions of the
+10  Permanent Registration Law as now or hereinafter enacted by the
+11  General Assembly, to absentee registration prior to or
+12  concurrently with the time of voting; or
+13     (6)  Any qualified elector who is a spouse or dependent
+14  residing with or accompanying a person in a religious or welfare
+15  group officially attached to and serving with the armed forces
+16  if at the time of voting such spouse or dependent is absent from
+17  the [State or county] municipality of his residence: Provided,
+18  however, That the said elector has been registered or enrolled
+19  according to law or is entitled, under provisions of the
+20  Permanent Registration Law as now or hereinafter enacted by the
+21  General Assembly, to absentee registration prior to or
+22  concurrently with the time of voting; or
+23     (7)  Any qualified elector who expects to be or is outside
+24  the territorial limits of the several States of the United
+25  States and the District of Columbia because his duties,
+26  occupation or business require him to be elsewhere during the
+27  entire period the polls are open for voting on the day of any
+28  primary or election or who is or who may be a civilian employee
+29  of the United States outside the territorial limits of the
+30  several States of the United States and the District of
+1  Columbia, whether or not such elector is subject to civil-
+2  service laws and the Classification Act of 1949 and whether or
+3  not paid from funds appropriated by the Congress, if at the time
+4  of voting he is absent from the [State or county] municipality
+5  of his residence: Provided, however, That said elector has been
+6  registered or enrolled according to law or is entitled, under
+7  provisions of the Permanent Registration Law as now or
+8  hereinafter enacted by the General Assembly, to absentee
+9  registration prior to or concurrently with the time of voting;
+10  or
+11     (8)  Any qualified elector who is a spouse or dependent
+12  residing with or accompanying a person who expects to be or is
+13  outside the territorial limits of the several States of the
+14  United States and the District of Columbia because his duties,
+15  occupation or business require him to be elsewhere during the
+16  entire period the polls are open for voting on the day of any
+17  primary or election or who is a spouse or dependent residing
+18  with or accompanying a person who is a civilian employee of the
+19  United States outside the territorial limits of the several
+20  States of the United States and the District of Columbia whether
+21  or not such person is subject to civil-service laws and the
+22  Classification Act of 1949 and whether or not paid from funds
+23  appropriated by the Congress if at the time of voting such
+24  spouse or dependent is absent from the [State or county]
+25  municipality of his residence: Provided, however, That the said
+26  elector has been registered or enrolled according to law or is
+27  entitled, under provisions of the Permanent Registration Law as
+28  now or hereinafter enacted by the General Assembly, to absentee
+29  registration prior to or concurrently with the time of voting;
+30  or
+1     (9)  Any qualified war veteran elector who is bedridden or
+2  hospitalized due to illness or physical disability if he is
+3  absent from the [Commonwealth or county] municipality of his
+4  residence and unable to attend his polling place because of such
+5  illness or physical disability regardless of whether he is
+6  registered and enrolled; or
+7     (10)  Any qualified, registered and enrolled elector who
+8  expects to be or is absent from the [Commonwealth or county]
+9  municipality of his residence because his duties, occupation or
+10  business require him to be elsewhere during the entire period
+11  the polls are open for voting on the day of any primary or
+12  election; or
+13     (11)  Any qualified, registered and enrolled elector who is
+14  unable to attend his polling place because of illness or
+15  physical disability; or
+16     (12)  Any qualified, registered and enrolled elector who is a
+17  spouse or dependent accompanying a person employed in the
+18  service of this Commonwealth or in the service of the Federal
+19  Government within the territorial limits of the several States
+20  of the United States and the District of Columbia in the event
+21  the duties, profession or occupation of such person require him
+22  to be absent from the [Commonwealth or county] municipality of
+23  his residence; or
+24     (13)  Any qualified elector who is a county employe who
+25  cannot vote due to duties on election day relating to the
+26  conduct of the election; or
+27     (14)  Any qualified elector who will not attend a polling
+28  place because of the observance of a religious holiday:
+29     Provided, however, That the words "qualified absentee
+30  elector" shall in nowise be construed to include persons
+1  confined in a penal institution or a mental institution nor
+2  shall it in anywise be construed to include a person not
+3  otherwise qualified as a qualified elector in accordance with
+4  the definition set forth in section 102(t) of this act.
+5     * * *
+6     (z.4)  The word "municipality" shall mean a city, borough,
+7  incorporated town, township or any similar general purpose unit
+8  of government which may be created by the General Assembly.
+9     Section 2.  Section 302(m) of the act, amended October 13,
+10  1965 (P.L.579, No.299), is amended to read:
+11     Section 302.  Powers and Duties of County Boards.--The county
+12  boards of elections, within their respective counties, shall
+13  exercise, in the manner provided by this act, all powers granted
+14  to them by this act, and shall perform all the duties imposed
+15  upon them by this act, which shall include the following:
+16     * * *
+17     (m) To prepare and submit, [not less than twenty days prior
+18  to] within twenty days after the last day to register to vote in
+19  each primary, municipal and general election, a report to the
+20  Secretary of the Commonwealth in the form prescribed by him,
+21  which shall contain a statement of the total number of electors
+22  registered in each election district, together with a breakdown
+23  [by party registration] of registration by each political party
+24  or other designation. Copies of said statement shall be
+25  furnished, upon request, to the county chairman of each
+26  political party and political body. The Secretary of the
+27  Commonwealth shall forthwith submit such information to the
+28  Legislative Data Processing Center and shall publicly report the
+29  total number of registered electors for each political party or
+30  other designation in each county not later than five days prior
+1  to the primary, municipal or general election.
+2     * * *
+3     Section 3.  Sections 502, 503 and 504 of the act, amended
+4  February 19, 1986 (P.L.29, No.11), are amended to read:
+5     Section 502.  Court to Create New Election Districts.--
+6  Subject to the provisions of section 501 of this act, the court
+7  of common pleas of the county in which the same are located, may
+8  form or create new election districts by dividing or redividing
+9  any borough, township, ward or election district into two or
+10  more election districts of compact and contiguous territory,
+11  having boundaries with clearly visible physical features and
+12  wholly contained within any larger district from which any
+13  Federal, State, county, municipal or school district officers
+14  are elected, or alter the bounds of any election district, or
+15  form an election district out of two or more adjacent districts
+16  or parts of districts, or consolidate adjoining election
+17  districts or form an election district out of two or more
+18  adjacent wards, so as to suit the convenience of the electors
+19  and to promote the public interests. [Election] Except for good
+20  cause shown, election districts so formed shall [contain between
+21  six hundred (600) and eight hundred (800)] not contain more than
+22  one thousand two hundred (1,200) registered electors [as nearly
+23  as may be]. No election district shall be formed that shall
+24  contain less than one hundred (100) registered electors. When a
+25  school district crosses county lines, the regions of the school
+26  district shall be composed of contiguous election districts.
+27     Section 503.  Petitions for New Election Districts; Reference
+28  to County Board of Elections; Report.--Upon the petition of
+29  twenty registered electors of any township, borough, ward or
+30  election district, to the court of the proper county, praying
+1  for the division or redivision of such township, borough, ward
+2  or election district into two or more election districts, or for
+3  the alteration of the bounds of any election district, or for
+4  the formation of one or more election districts out of two or
+5  more existing election districts, or parts thereof, or for the
+6  consolidation of adjoining election districts, the said court
+7  shall refer the said petition to the county board of elections,
+8  which shall make a full investigation of the facts, and shall
+9  report to the court its findings and recommendations as to the
+10  division, redivision, alteration, formation or consolidation of
+11  election districts prayed for. If the county board shall find
+12  that a division, redivision, alteration, formation or
+13  consolidation of election districts will promote the convenience
+14  of the electors and the public interests, it shall recommend a
+15  proper division, redivision, alteration, formation or
+16  consolidation of election districts, which must have clearly
+17  visible physical boundaries, and shall accompany its report with
+18  a map and a verbal description of the boundaries[.], as well as
+19  a certification of the number of electors registered in each of
+20  the resulting election districts for the immediately preceding
+21  general or municipal election. Such petitions may specify the
+22  boundaries desired by the petitioners, and may be accompanied by
+23  a map setting forth such boundaries. When petitioners request
+24  specific boundaries their petition shall include a certification
+25  from the county board of elections of the electors registered in
+26  each proposed election district for the immediately preceding
+27  general or municipal election.
+28     Section 504.  Petitions by County Board; Action by Court on
+29  Petition or Report.--The county board of elections may also
+30  petition the court for the division or redivision of any
+1  township, borough, ward or election district into two or more
+2  election districts, or for the alteration of the bounds of any
+3  election district, or for the formation of one or more election
+4  districts out of two or more existing election districts, or
+5  parts thereof, or for the consolidation of adjoining election
+6  districts, accompanying its petition with a map and a verbal
+7  description of the boundaries of the proposed new election
+8  districts which must have clearly visible physical features. The
+9  petition must also include a certification of the number of
+10  electors registered in each of the resulting election districts
+11  for the immediately preceding general or municipal election.
+12  Upon the presentation of any such petition by the county board,
+13  or upon the filing by the board of its report and
+14  recommendations as to any petition presented by qualified
+15  electors under the provisions of section 503 of this act, the
+16  court may make such order for the division, redivision,
+17  alteration, formation or consolidation of election districts, as
+18  will, in its opinion, promote the convenience of electors and
+19  the public interests: Provided, however, That the court shall
+20  not make any final order for the division, redivision,
+21  alteration, formation or consolidation of election districts
+22  until at least ten days after notice shall have been posted in
+23  at least five public and conspicuous places in the district or
+24  districts to be affected thereby, one of which notices shall be
+25  posted on or in the immediate vicinity of the polling place in
+26  each such district. Such notice shall state in brief form the
+27  division, redivision, alteration, formation or consolidation of
+28  election districts recommended by the county board, the number
+29  of electors registered in each district at the immediately
+30  preceding general or municipal election, and the date upon which
+1  the same will be considered by the court, and shall contain a
+2  warning that any person objecting thereto must file his
+3  objections with the clerk of the court prior to such date. Upon
+4  the making of any such final order by the court, a copy thereof
+5  shall be certified by the clerk to the county board of
+6  elections.
+7     Section 4.  Section 530(b) of the act is amended to read:
+8     Section 530.  Equipment and Arrangement of Polling Places;
+9  Guard Rail; Number of Voting Compartments or Voting Machines.--
+10     * * *
+11     (b) The number of voting compartments to be furnished to each
+12  polling place shall not be less than one for every [100 voters]
+13  two hundred (200) registered qualified electors, or fraction
+14  thereof[, and in no case less than three] in the election
+15  district. The number of voting machines to be furnished [in
+16  districts] to polling places in which voting machines are used
+17  shall be not more than one machine for each three hundred and
+18  fifty (350) registered [voters] electors, or fraction thereof,
+19  nor less than one machine for each six hundred (600) registered
+20  [voters] electors, or fraction thereof, in such election
+21  district; Provided, however, That the court of common pleas
+22  having jurisdiction, upon petition presented by either the
+23  county election board or by ten (10) or more registered
+24  qualified electors of an election district, may order that
+25  additional voting machines or voting compartments be provided
+26  for any such election district, if the court shall be of the
+27  opinion that such additional voting machines or voting
+28  compartments shall be necessary in such district for the
+29  convenience of the electors and the public interests. The county
+30  shall provide equal distribution of voting machines or voting
+1  compartments in election districts containing a similar number
+2  of electors.
+3     * * *
+4     Section 5.  Section 628 of the act, amended August 13, 1963
+5  (P.L.707, No.379), is amended to read:
+6     Section 628.  Special Elections for Senator and
+7  Representative in the General Assembly.--Whenever a vacancy
+8  shall occur in either house of the General Assembly whether or
+9  not it then be in session, the presiding officer of such house
+10  shall, within ten (10) days after the happening of the vacancy,
+11  issue a writ of election to the proper county board or boards of
+12  election and to the Secretary of the Commonwealth, for a special
+13  election to fill said vacancy, which election shall be held [on
+14  a date named in the writ, which shall be not less than sixty
+15  (60) days after the issuance of said writ. The presiding officer
+16  may fix, in such writ of election, the date of the next ensuing
+17  primary, municipal or general election as the date for holding
+18  any such special election] at the next ensuing primary,
+19  municipal or general election scheduled at least sixty (60) days
+20  after the issuance of the writ or such other earlier date which
+21  is at least sixty (60) days following the issuance of the writ
+22  as the presiding officer may deem appropriate: Provided,
+23  however, That should the Governor after the issuance of the said
+24  writ of election advise the presiding officer that the General
+25  Assembly will be called into extraordinary session prior to the
+26  date set for such special election, the presiding officer may
+27  countermand the writ theretofore issued and shall issue a new
+28  writ of election, fixing therein such earlier date therefor as
+29  is deemed expedient, but which shall not be less than sixty (60)
+30  days after the issuance of said writ[.]: Provided further, That
+1  if the vacancy shall occur less than seven (7) months prior to
+2  the expiration of the term, a special election shall be held
+3  only if, in the opinion of the presiding officer, the election
+4  is in the public interest.
+5     Section 6.  Section 630.1 of the act, amended February 19,
+6  1986 (P.L.29, No.11), is amended to read:
+7     Section 630.1.  Affidavits of Candidates.--Each candidate for
+8  any State, county, city, borough, incorporated town, township,
+9  school district or poor district office, or for the office of
+10  United States Senator or Representative in Congress, selected as
+11  provided in section 630 of this act, shall file with the
+12  nomination certificate an affidavit stating--(a) his residence,
+13  with street and number, if any, and his post-office address; (b)
+14  his election district, giving city, borough, town or township;
+15  (c) the name of the office for which he consents to be a
+16  candidate; (d) that he is eligible for such office; (e) that he
+17  will not knowingly violate any provision of this act, or of any
+18  law regulating and limiting election expenses and prohibiting
+19  corrupt practices in connection therewith; (f) unless he is a
+20  candidate for judge of a court of common pleas, the Philadelphia
+21  Municipal Court or the Traffic Court of Philadelphia, or for the
+22  office of school board in a district where that office is
+23  elective or for the office of justice of the peace, that he is
+24  not a candidate for the same office of any party or political
+25  body other than the one designated in such certificate; and (g)
+26  that he is aware of the provisions of section 1626 of this act
+27  requiring election and post-election reporting of campaign
+28  contributions and expenditures. [In cases of certificates for
+29  candidates for the General Assembly, the candidate's affidavit
+30  shall state (1) that the candidate will satisfy the eligibility
+1  requirements contained in sections 5 and 7 of Article II of the
+2  Constitution of Pennsylvania; (2) (i) that, in the case of a
+3  candidate for the office of Senator in the General Assembly, the
+4  candidate will be twenty-five (25) years of age on or before the
+5  first day of the term for which the candidate seeks election or
+6  (ii) that, in the case of a candidate for the office of
+7  Representative in the General Assembly, the candidate will be
+8  twenty-one (21) years of age on or before the first day of the
+9  term for which the candidate seeks election; (3) that the
+10  candidate shall have been a citizen and an inhabitant of
+11  Pennsylvania four (4) years and an inhabitant of the respective
+12  district one (1) year next before the election (unless absent on
+13  the public business of the United States or of this State); and
+14  (4) that the candidate has not been convicted of embezzlement of
+15  public moneys, bribery, perjury or other infamous crime.]
+16     Section 7.  Section 632 of the act, amended April 18, 1985
+17  (P.L.5, No.4), is amended to read:
+18     Section 632.  Objections to Certificates of Nomination and
+19  Nomination Papers Filed for a Special Election; Hearing;
+20  Determination.--All certificates of nomination and nomination
+21  papers to fill a vacancy as herein provided, which have been
+22  accepted and filed shall be deemed to be valid, unless
+23  objections thereto are duly made in writing and filed in the
+24  court and with the officer or board with whom said nomination
+25  certificates or papers were filed, and within three (3) days
+26  next succeeding the last day for filing such certificates or
+27  papers. [For purposes of this section, a certificate shall
+28  include all affidavits required to be filed with such
+29  certificate under this act.] Any objections shall set forth
+30  specifically the matters objected to. Upon the filing of the
+1  objections, the court shall make an order fixing a time for
+2  hearing, which shall not be later than seven (7) days after the
+3  last day for filing nomination certificates or papers, and
+4  specifying the time and manner of notice that shall be given to
+5  the candidate named in the nomination certificate or paper
+6  objected to. On the day fixed for said hearing, the court shall
+7  proceed without delay to hear said objections, and shall give
+8  such hearing precedence over any other business before it, and
+9  shall finally determine said matter not later than twelve (12)
+10  days after the last day for filing said nomination certificates
+11  or papers. In determining such matter, the court shall be
+12  governed in its order or decree by the provisions of section 977
+13  of this act.
+14     Section 8.  Section 910 of the act, amended February 19, 1986
+15  (P.L.29, No.11), is amended to read:
+16     Section 910.  Affidavits of Candidates.--Each candidate for
+17  any State, county, city, borough, incorporated town, township,
+18  ward, school district, poor district, election district, party
+19  office, party delegate or alternate, or for the office of United
+20  States Senator or Representative in Congress, shall file with
+21  his nomination petition his affidavit stating--(a) his
+22  residence, with street and number, if any, and his post-office
+23  address; (b) his election district, giving city, borough, town
+24  or township; (c) the name of the office for which he consents to
+25  be a candidate; (d) that he is eligible for such office; (e)
+26  that he will not knowingly violate any provision of this act, or
+27  of any law regulating and limiting nomination and election
+28  expenses and prohibiting corrupt practices in connection
+29  therewith; (f) unless he is a candidate for judge of a court of
+30  common pleas, the Philadelphia Municipal Court or the Traffic
+1  Court of Philadelphia, or for the office of school director in a
+2  district where that office is elective or for the office of
+3  justice of the peace that he is not a candidate for nomination
+4  for the same office of any party other than the one designated
+5  in such petition; (g) if he is a candidate for a delegate, or
+6  alternate delegate, member of State committee, National
+7  committee or party officer, that he is a registered and enrolled
+8  member of the designated party; (h) if he is a candidate for
+9  delegate or alternate delegate the presidential candidate to
+10  whom he is committed or the term "uncommitted"; and (i) that he
+11  is aware of the provisions of section 1626 of this act requiring
+12  pre-election and post-election reporting of campaign
+13  contributions and expenditures. [In cases of petitions for
+14  candidates for the General Assembly, the candidate's affidavit
+15  shall state (1) that the candidate will satisfy the eligibility
+16  requirements contained in sections 5 and 7 of Article II of the
+17  Constitution of Pennsylvania; (2) (i) that in the case of a
+18  candidate for the office of Senator in the General Assembly that
+19  the candidate will be twenty-five (25) years of age on or before
+20  the first day of the term for which the candidate seeks election
+21  or (ii) that in the case of a candidate for the office of
+22  Representative in the General Assembly that the candidate will
+23  be twenty-one (21) years of age on or before the first day of
+24  the term for which the candidate seeks election; (3) that the
+25  candidate shall have been a citizen and inhabitant of
+26  Pennsylvania four (4) years and an inhabitant of the respective
+27  district one (1) year next before the election (unless absent on
+28  the public business of the United States or of this State); and
+29  (4) that the candidate has not been convicted of embezzlement of
+30  public moneys, bribery, perjury or other infamous crime.] In
+1  cases of petitions for delegate and alternate delegate to
+2  National conventions, the candidate's affidavit shall state that
+3  his signature to the delegate's statement, as hereinafter set
+4  forth, if such statement is signed by said candidate, was
+5  affixed to the sheet or sheets of said petition prior to the
+6  circulation of same. In the case of a candidate for nomination
+7  as President of the United States, it shall not be necessary for
+8  such candidate to file the affidavit required in this section to
+9  be filed by candidates, but the post-office address of such
+10  candidate shall be stated in such nomination petition.
+11     Section 9.  Sections 951(e) and 977 of the act, amended April
+12  18, 1985 (P.L.5, No.4), are amended to read:
+13     Section 951.  Nominations by Political Bodies.--* * *
+14     (e)  There shall be appended to each nomination paper offered
+15  for filing an affidavit of each candidate nominated therein,
+16  stating--(1) the election district in which he resides; (2) the
+17  name of the office for which he consents to be a candidate; (3)
+18  that he is eligible for such office; (4) that he will not
+19  knowingly violate any provision of this act, or of any law
+20  regulating and limiting election expenses, and prohibiting
+21  corrupt practices in connection therewith; (5) that his name has
+22  not been presented as a candidate by nomination petitions for
+23  any public office to be voted for at the ensuing primary
+24  election, nor has he been nominated by any other nomination
+25  papers filed for any such office; (6) that in the case where he
+26  is a candidate for election at a general or municipal election,
+27  he was not a registered and enrolled member of a party thirty
+28  (30) days before the primary held prior to the general or
+29  municipal election in that same year; (7) that, in the case
+30  where he is a candidate for election at a special election, he
+1  is not a registered and enrolled member of a party. [In cases of
+2  papers for candidates for the General Assembly, the candidate's
+3  affidavit shall state (i) that the candidate will satisfy the
+4  eligibility requirements contained in sections 5 and 7 of
+5  Article II of the Constitution of Pennsylvania; (ii) (a) that in
+6  the case of a candidate for the office of Senator in the General
+7  Assembly that the candidate will be twenty-five (25) years of
+8  age on or before the first day of the term for which the
+9  candidate seeks election or (b) that in the case of a candidate
+10  for the office of Representative in the General Assembly that
+11  the candidate will be twenty-one (21) years of age on or before
+12  the first day of the term for which the candidate seeks
+13  election; (iii) that the candidate shall have been a citizen and
+14  inhabitant of Pennsylvania four (4) years and an inhabitant of
+15  the respective district one (1) year next before the election
+16  (unless absent on the public business of the United States or of
+17  this State); and (iv) that the candidate has not been convicted
+18  of embezzlement of public moneys, bribery, perjury or other
+19  infamous crime.]
+20     Section 977.  Objections to Nomination Petitions and
+21  Papers.--All nomination petitions and papers received and filed
+22  within the periods limited by this act shall be deemed to be
+23  valid, unless, within seven days after the last day for filing
+24  said nomination petition or paper, a petition is presented to
+25  the court specifically setting forth the objections thereto, and
+26  praying that the said petition or paper be set aside. A copy of
+27  said petition shall, within said period, be served on the
+28  officer or board with whom said nomination petition or paper was
+29  filed. Upon the presentation of such a petition, the court shall
+30  make an order fixing a time for hearing which shall not be later
+1  than ten days after the last day for filing said nomination
+2  petition or paper, and specifying the time and manner of notice
+3  that shall be given to the candidate or candidates named in the
+4  nomination petition or paper sought to be set aside. On the day
+5  fixed for said hearing, the court shall proceed without delay to
+6  hear said objections, and shall give such hearing precedence
+7  over other business before it, and shall finally determine said
+8  matter not later than fifteen (15) days after the last day for
+9  filing said nomination petitions or papers. If the court shall
+10  find that said nomination petition or paper is defective under
+11  the provisions of section 976, or does not contain a sufficient
+12  number of genuine signatures of electors entitled to sign the
+13  same under the provisions of this act, or was not filed by
+14  persons entitled to file the same, [or if any accompanying or
+15  appended affidavit contains a material defect or error,] it
+16  shall be set aside. [For purposes of this section, a nomination
+17  petition or paper shall include all affidavits required to be
+18  filed with such nomination petition or paper under this act.] If
+19  the objections relate to material errors or defects apparent on
+20  the face of the nomination petition or paper, [or on the face of
+21  the accompanying or appended affidavits,] the court, after
+22  hearing, may, in its discretion, permit amendments within such
+23  time and upon such terms as to payment of costs, as the said
+24  court may specify. In case any such petition is dismissed, the
+25  court shall make such order as to the payment of the costs of
+26  the proceedings, including witness fees, as it shall deem just.
+27  If a person shall sign any nomination petitions or papers for a
+28  greater number of candidates than he is permitted under the
+29  provisions of this act, if said signatures bear the same date,
+30  they shall, upon objections filed thereto, not be counted on any
+1  petition or paper and if they bear different dates, they shall
+2  be counted in the order of their priority of date, for only so
+3  many persons as there are candidates to be nominated or elected.
+4  The office of the Prothonotary of the Commonwealth Court and the
+5  office of the Secretary of the Commonwealth and the various
+6  offices of prothonotary of the court of common pleas shall be
+7  open between the hours of eight-thirty o'clock A.M. and five
+8  o'clock P.M. on the last day to withdraw after filing nomination
+9  petitions and on the last day to file objections to nomination
+10  petitions.
+11     Section 10.  Section 981.1 of the act, amended February 19,
+12  1986 (P.L.29, No.11), is amended to read:
+13     Section 981.1.  Affidavits of Candidates.--Each candidate for
+14  any State, county, city, borough, incorporated town, township,
+15  ward, school district, poor district or election district
+16  office, or for the office of United States Senator or
+17  Representative in Congress, selected as provided in sections 979
+18  and 980 of this act, shall file with the substituted nomination
+19  certificate an affidavit stating--(a) his residence, with street
+20  and number, if any, and his post-office address; (b) his
+21  election district, giving city, borough, town or township; (c)
+22  the name of the office for which he consents to be a candidate;
+23  (d) that he is eligible for such office; (e) that he will not
+24  knowingly violate any provision of this act, or of any law
+25  regulating and limiting election expenses and prohibiting
+26  corrupt practices in connection therewith; (f) unless he is a
+27  candidate for judge of a court of common pleas, the Philadelphia
+28  Municipal Court or the Traffic Court of Philadelphia, or for the
+29  office of school board in a district where that office is
+30  elective or for the office of justice of the peace, that he is
+1  not a candidate for the same office of any party or political
+2  body other than the one designated in such certificate; and (g)
+3  that he is aware of the provisions of section 1626 of this act
+4  requiring election and post-election reporting of campaign
+5  contributions and expenditures. [In cases of certificates for
+6  candidates for the General Assembly, the candidate's affidavit
+7  shall state (1) that the candidate will satisfy the eligibility
+8  requirements contained in sections 5 and 7 of Article II of the
+9  Constitution of Pennsylvania; (2) (i) that, in the case of a
+10  candidate for the office of Senator in the General Assembly, the
+11  candidate will be twenty-five (25) years of age on or before the
+12  first day of the term for which the candidate seeks election or
+13  (ii) that, in the case of a candidate for the office of
+14  Representative in the General Assembly, the candidate will be
+15  twenty-one (21) years of age on or before the first day of the
+16  term for which the candidate seeks election; (3) that the
+17  candidate shall have been a citizen and an inhabitant of
+18  Pennsylvania four (4) years and an inhabitant of the respective
+19  district one (1) year next before the election (unless absent on
+20  the public business of the United States or of this State); and
+21  (4) that the candidate has not been convicted of embezzlement of
+22  public moneys, bribery, perjury or other infamous crime.]
+23     Section 11.  Section 982 of the act, amended April 18, 1985
+24  (P.L.5, No.4), is amended to read:
+25     Section 982.  Objections to Substituted Nomination
+26  Certificates.--All substituted nomination certificates may be
+27  objected to, as provided in section 977 of this act, except
+28  objections to substituted nomination certificates must, in any
+29  case, be filed within three (3) days after the filing of the
+30  substituted nomination certificate: Provided, however, That no
+1  objections as to form and conformity to law, shall be received
+2  after the day on which the printing of ballots is started. [For
+3  purposes of this section, a certificate shall include all
+4  affidavits required to be filed with such certificate under this
+5  act.]
+6     Section 12.  Section 1007 of the act, amended August 13, 1963
+7  (P.L.707, No.379), is amended to read:
+8     Section 1007.  Number of Ballots to Be Printed; Specimen
+9  Ballots.--The county board of each county shall provide for each
+10  election district in which a primary is to be held, one book of
+11  fifty official ballots of each party for every forty-five
+12  registered and enrolled [voters] electors of such party and
+13  fraction thereof, appearing upon the district register, and
+14  shall provide for each election district in which an election is
+15  to be held one book of fifty official ballots for every forty-
+16  five registered electors and fraction thereof appearing upon the
+17  district register. [They may also, in addition to the number of
+18  ballots required to be printed for general distribution, have
+19  printed for each election district in which a primary is to be
+20  held not less than one book of fifty official ballots of each
+21  party for the use of the absentee electors and for each election
+22  district in which an election is to be held not less than one
+23  book of official ballots for the use of the absentee electors.]
+24  They shall also, in addition to the number of ballots required
+25  to be printed for general distribution, [have printed ten (10)
+26  per centum of such number, to be known as reserve official
+27  ballots, and, on tinted paper, two (2) per centum of such number
+28  to be known as reserve specimen ballots, which ballots shall be
+29  kept] maintain a sufficient supply of such ballots at the office
+30  of the county board for the use of absentee electors and for the
+1  use of any district, the ballots for which may be lost,
+2  destroyed or stolen. They shall also cause to be printed on
+3  tinted paper, and without the facsimile endorsements, permanent
+4  binding or stubs, copies of the form of ballots provided for
+5  each [voting] polling place at each primary or election therein,
+6  which shall be called specimen ballots, and which shall be of
+7  the same size and form as the official ballots, and at each
+8  election they shall deliver to the election officers, in
+9  addition to the official ballots to be used at such election, a
+10  suitable supply of specimen ballots for the use of the electors
+11  [equal in number to one-fifth of the number of official ballots
+12  delivered to such election officers]. At each primary, a
+13  suitable supply of specimen ballots of each party shall be
+14  furnished[, equal in number to one-fifth of the number of
+15  official ballots of such party furnished to the election
+16  officers as above provided].
+17     Section 13.  Section 1104(a) of the act, amended July 21,
+18  1979 (P.L.189, No.63), is amended to read:
+19     Section 1104.  Installation of Voting Machines.--(a)  (1) If
+20  a majority of the qualified electors voting on the question
+21  shall vote in the affirmative, the county election board of the
+22  said county shall purchase for each election district of such
+23  county, city, borough or township, one or more voting machines,
+24  of a kind or kinds approved by the Secretary of the
+25  Commonwealth, as hereinafter provided, and of sufficient
+26  capacity to accommodate the names of a reasonable number of
+27  candidates for all public and party offices which, under the
+28  provisions of existing laws and party rules, are likely to be
+29  voted for at any future election, and shall notify the Secretary
+30  of the Commonwealth, in writing, that they have done so. The
+1  county election board shall provide machines in good working
+2  order, and shall preserve and keep them in repair. Voting
+3  machines of different kinds may be used for different election
+4  districts in the same county, city, borough or township. In each
+5  election district in which voting machines are used, the county
+6  election board [may provide one voting machine for each three
+7  hundred and fifty registered voters, or fraction thereof,
+8  therein, and shall provide one voting machine for each six
+9  hundred registered voters, or fraction thereof, therein:
+10  Provided, however, That the courts of quarter sessions, upon
+11  petition presented by either the county election board or by ten
+12  or more qualified electors of any such election district, may
+13  order that one additional voting machine be provided for any
+14  such election district, if the court shall be of the opinion
+15  that such additional voting machine shall be necessary in such
+16  district for the convenience of the voters and the public
+17  interests] shall provide an adequate number of voting machines
+18  for the electors of the election district in accordance with
+19  section 530.
+20     (2)  [In any city of the first class, whenever] Whenever
+21  there shall be a number of candidates in a primary election so
+22  great as to require voting machines limited to the candidates of
+23  one political party, there shall be two voting machines of the
+24  same kind in any district for any party which has more than
+25  three hundred and fifty (350) registered [voters] qualified
+26  electors in that district.
+27     * * *
+28     Section 14.  Section 1301 of the act, amended December 11,
+29  1968 (P.L.1183, No.375) and December 7, 1990 (P.L.681, No.169),
+30  is amended to read:
+1     Section 1301.  Qualified Absentee Electors.--The following
+2  persons shall be entitled to vote by an official absentee ballot
+3  in any primary or election held in this Commonwealth in the
+4  manner hereinafter provided:
+5     (a)  Any qualified elector who is or who may be in the
+6  military service of the United States regardless of whether at
+7  the time of voting he is present in the election district of his
+8  residence or is within or without this Commonwealth and
+9  regardless of whether he is registered or enrolled; or
+10     (b)  Any qualified elector who is a spouse or dependent
+11  residing with or accompanying a person in the military service
+12  of the United States if at the time of voting such spouse or
+13  dependent is absent from the [State or county] municipality of
+14  his residence: Provided, however, That the said elector has been
+15  registered or enrolled according to law or is entitled, under
+16  provisions of the Permanent Registration Law as now or
+17  hereinafter enacted by the General Assembly, to absentee
+18  registration prior to or concurrently with the time of voting;
+19  or
+20     (c)  Any qualified elector who is or who may be in the
+21  service of the Merchant Marine of the United States if at the
+22  time of voting he is absent from the [State or county]
+23  municipality of his residence: Provided, however, That the said
+24  elector has been registered or enrolled according to law or is
+25  entitled, under provisions of the Permanent Registration Law as
+26  now or hereinafter enacted by the General Assembly, to absentee
+27  registration prior to or concurrently with the time of voting;
+28  or
+29     (d)  Any qualified elector who is a spouse or dependent
+30  residing with or accompanying a person who is in the service of
+1  the Merchant Marine of the United States if at the time of
+2  voting such spouse or dependent is absent from the [State or
+3  county] municipality of his residence: Provided, however, That
+4  the said elector has been registered or enrolled according to
+5  law or is entitled, under provisions of the Permanent
+6  Registration Law as now or hereinafter enacted by the General
+7  Assembly, to absentee registration prior to or concurrently with
+8  the time of voting; or
+9     (e)  Any qualified elector who is or who may be in a
+10  religious or welfare group officially attached to and serving
+11  with the armed forces if at the time of voting he is absent from
+12  the [State or county] municipality of his residence: Provided,
+13  however, That the said elector has been registered or enrolled
+14  according to law or is entitled, under provisions of the
+15  Permanent Registration Law as now or hereinafter enacted by the
+16  General Assembly, to absentee registration prior to or
+17  concurrently with the time of voting; or
+18     (f)  Any qualified elector who is a spouse or dependent
+19  residing with or accompanying a person in a religious or welfare
+20  group officially attached to and serving with the armed forces
+21  if at the time of voting such spouse or dependent is absent from
+22  the [State or county] municipality of his residence: Provided,
+23  however, That the said elector has been registered or enrolled
+24  according to law or is entitled, under provisions of the
+25  Permanent Registration Law as now or hereinafter enacted by the
+26  General Assembly, to absentee registration prior to or
+27  concurrently with the time of voting; or
+28     (g)  Any qualified elector who expects to be or is outside
+29  the territorial limits of the several States of the United
+30  States and the District of Columbia because his duties,
+1  occupation or business require him to be elsewhere during the
+2  entire period the polls are open for voting on the day of any
+3  primary or election or who is or who may be a civilian employee
+4  of the United States outside the territorial limits of the
+5  several States of the United States and the District of
+6  Columbia, whether or not such elector is subject to civil-
+7  service laws and the Classification Act of 1949 and whether or
+8  not paid from funds appropriated by the Congress, if at the time
+9  of voting he is absent from the [State or county] municipality
+10  of his residence: Provided, however, That said elector has been
+11  registered or enrolled according to law or is entitled, under
+12  provisions of the Permanent Registration Law as now or
+13  hereinafter enacted by the General Assembly, to absentee
+14  registration prior to or concurrently with the time of voting;
+15  or
+16     (h)  Any qualified elector who is a spouse or dependent
+17  residing with or accompanying a person who expects to be or is
+18  outside the territorial limits of the several States of the
+19  United States and the District of Columbia because his duties,
+20  occupation or business require him to be elsewhere during the
+21  entire period the polls are open for voting on the day of any
+22  primary or election or who is a spouse or dependent residing
+23  with or accompanying a person who is a civilian employee of the
+24  United States outside the territorial limits of the several
+25  States of the United States and the District of Columbia,
+26  whether or not such person is subject to civil-service laws and
+27  the Classification Act of 1949 and whether or not paid from
+28  funds appropriated by the Congress, if at the time of voting
+29  such spouse or dependent is absent from the [State or county]
+30  municipality of his residence: Provided, however, That the said
+1  elector has been registered or enrolled according to law or is
+2  entitled, under provisions of the Permanent Registration Law as
+3  now or hereinafter enacted by the General Assembly, to absentee
+4  registration prior to or concurrently with the time of voting;
+5  or
+6     (i)  Any qualified war veteran elector who is bedridden or
+7  hospitalized due to illness or physical disability if he is
+8  absent from the [Commonwealth or county] municipality of his
+9  residence and unable to attend his polling place because of such
+10  illness or physical disability regardless of whether he is
+11  registered and enrolled; or
+12     (j)  Any qualified registered and enrolled elector who
+13  expects to be or is absent from the [Commonwealth or county]
+14  municipality of his residence because his duties, occupation or
+15  business require him to be elsewhere during the entire period
+16  the polls are open for voting on the day of any primary or
+17  election; or
+18     (k)  Any qualified registered and enrolled elector who
+19  because of illness or physical disability is unable to attend
+20  his polling place or operate a voting machine and secure
+21  assistance by distinct and audible statement as required in
+22  section 1218 of this act;
+23     (l)  Any qualified registered and enrolled elector who is a
+24  spouse or dependent accompanying a person employed in the
+25  service of this Commonwealth or in the service of the Federal
+26  Government within the territorial limits of the several States
+27  of the United States and the District of Columbia in the event
+28  the duties, profession or occupation of such person require him
+29  to be absent from the [Commonwealth or county] municipality of
+30  his residence; or
+1     (m)  Any qualified elector who is a county employe who cannot
+2  vote due to duties on election day relating to the conduct of
+3  the election; or
+4     (n)  Any qualified elector who will not attend a polling
+5  place because of the observance of a religious holiday:
+6     Provided, however, That the words "qualified absentee
+7  elector" shall in nowise be construed to include persons
+8  confined in a penal institution or a mental institution nor
+9  shall it in anywise be construed to include a person not
+10  otherwise qualified as a qualified elector in accordance with
+11  the definition set forth in section 102(t) of this act.
+12     Section 15.  Section 1302 of the act, amended December 11,
+13  1968 (P.L.1183, No.375), July 12, 1980 (P.L.649, No.134) and May
+14  5, 1986 (P.L.150, No.47), is amended to read:
+15     Section 1302.  Applications for Official Absentee Ballots.--
+16  (a)  Any qualified elector defined in preceding section 1301,
+17  subsections (a) to (h), inclusive, may apply at any time before
+18  any primary or election for any official absentee ballot in
+19  person, on any form supplied by the Federal Government, or on
+20  any official county board of election form addressed to the
+21  Secretary of the Commonwealth of Pennsylvania or the county
+22  board of election of the county in which his voting residence is
+23  located.
+24     (b)  The application shall contain the following information:
+25  Home residence at the time of entrance into actual military
+26  service or Federal employment, length of time a citizen, length
+27  of residence in Pennsylvania, date of birth, length of time a
+28  resident of voting district, voting district if known, party
+29  choice in case of primary, name and, for a military elector, his
+30  stateside military address, FPO or APO number and serial number.
+1  Any elector other than a military elector shall in addition
+2  specify the nature of his employment, the address to which
+3  ballot is to be sent, relationship where necessary, and such
+4  other information as may be determined and prescribed by the
+5  Secretary of the Commonwealth. When such application is received
+6  by the Secretary of the Commonwealth it shall be forwarded to
+7  the proper county board of election.
+8     (c)  The application of any qualified military elector, as
+9  defined in preceding section 1301 subsection (a), for an
+10  official absentee ballot in any primary or election may not be
+11  made over the signature of any person, other than the qualified
+12  elector or an adult member of his immediate family, as required
+13  in the preceding subsection.
+14     (d)  The application of any qualified elector, as defined in
+15  preceding section 1301, subsections (b) to (h), inclusive, for
+16  an official absentee ballot in any primary or election shall be
+17  signed by the applicant.
+18     (e)  Any qualified bedridden or hospitalized veteran absent
+19  from the [State or county] municipality of his residence and
+20  unable to attend his polling place because of such illness or
+21  physical disability, regardless of whether he is registered or
+22  enrolled, may apply at any time before any primary or election
+23  for an official absentee ballot on any official county board of
+24  election form addressed to the Secretary of the Commonwealth of
+25  Pennsylvania or the county board of elections of the county in
+26  which his voting residence is located.
+27     The application shall contain the following information:
+28  Residence at the time of becoming bedridden or hospitalized,
+29  length of time a citizen, length of residence in Pennsylvania,
+30  date of birth, length of time a resident in voting district,
+1  voting district if known, party choice in case of primary, name
+2  and address of present residence or hospital at which
+3  hospitalized. When such application is received by the Secretary
+4  of the Commonwealth, it shall be forwarded to the proper county
+5  board of elections.
+6     The application for an official absentee ballot for any
+7  primary or election shall be made on information supplied over
+8  the signature of the bedridden or hospitalized veteran as
+9  required in the preceding subsection. Any qualified registered
+10  elector, including a spouse or dependent referred to in
+11  subsection (l) of section 1301, who expects to be or is absent
+12  from the [Commonwealth or county] municipality of his residence
+13  because his duties, occupation or business require him to be
+14  elsewhere on the day of any primary or election and any
+15  qualified registered elector who is unable to attend his polling
+16  place on the day of any primary or election because of illness
+17  or physical disability and any qualified registered bedridden or
+18  hospitalized veteran in the county of residence, or in the case
+19  of a county employe who cannot vote due to duties on election
+20  day relating to the conduct of the election, or in the case of a
+21  person who will not attend a polling place because of the
+22  observance of a religious holiday, may apply to the county board
+23  of elections of the county in which his voting residence is
+24  located for an Official Absentee Ballot. Such application shall
+25  be made upon an official application form supplied by the county
+26  board of elections. Such official application form shall be
+27  determined and prescribed by the Secretary of the Commonwealth
+28  of Pennsylvania.
+29     (1)  The application of any qualified registered elector,
+30  including spouse or dependent referred to in subsection (l) of
+1  section 1301, who expects to be or is absent from the
+2  [Commonwealth or county] municipality of his residence because
+3  his duties, occupation or business require him to be elsewhere
+4  on the day of any primary or election, or in the case of a
+5  county employe who cannot vote due to duties on election day
+6  relating to the conduct of the election, or in the case of a
+7  person who will not attend a polling place because of the
+8  observance of a religious holiday, shall be signed by the
+9  applicant and shall include the surname and given name or names
+10  of the applicant, his occupation, date of birth, length of time
+11  a resident in voting district, voting district if known, place
+12  of residence, post office address to which ballot is to be
+13  mailed, the reason for his absence, and such other information
+14  as shall make clear to the county board of elections the
+15  applicant's right to an official absentee ballot.
+16     (2)  The application of any qualified registered elector who
+17  is unable to attend his polling place on the day of any primary
+18  or election because of illness or physical disability and the
+19  application of any qualified registered bedridden or
+20  hospitalized veteran in the county of residence shall be signed
+21  by the applicant and shall include surname and given name or
+22  names of the applicant, his occupation, date of birth, residence
+23  at the time of becoming bedridden or hospitalized, length of
+24  time a resident in voting district, voting district if known,
+25  place of residence, post office address to which ballot is to be
+26  mailed, and such other information as shall make clear to the
+27  county board of elections the applicant's right to an official
+28  ballot. In addition, the application of such electors shall
+29  include a declaration stating the nature of their disability or
+30  illness, and the name, office address and office telephone
+1  number of their attending physician: Provided, however, That in
+2  the event any elector entitled to an absentee ballot under this
+3  subsection be unable to sign his application because of illness
+4  or physical disability, he shall be excused from signing upon
+5  making a statement which shall be witnessed by one adult person
+6  in substantially the following form: I hereby state that I am
+7  unable to sign my application for an absentee ballot without
+8  assistance because I am unable to write by reason of my illness
+9  or physical disability. I have made or have received assistance
+10  in making my mark in lieu of my signature.
+11  ...............................     ......................(Mark)
+12             (Date)
+13  ...............................     ............................
+14   (Complete Address of Witness)         (Signature of Witness)
+15     (e.1)  Any qualified registered elector, including any
+16  qualified bedridden or hospitalized veteran, who is unable
+17  because of illness or physical disability to attend his polling
+18  place on the day of any primary or election or operate a voting
+19  machine and state distinctly and audibly that he is unable to do
+20  so as required by section 1218 of this act may, with the
+21  certification by his attending physician that he is permanently
+22  disabled, and physically unable to attend the polls or operate a
+23  voting machine and make the distinct and audible statement
+24  required by section 1218 appended to the application
+25  hereinbefore required, be placed on a permanently disabled
+26  absentee ballot list file. An absentee ballot application shall
+27  be mailed to every such person for each primary or election so
+28  long as he does not lose his voting rights by failure to vote as
+29  otherwise required by this act. Such person shall not be
+30  required to file a physician's certificate of disability with
+1  each application as required in subsection (e) of this section
+2  but such person must submit a written statement asserting
+3  continuing disability every four years in order to maintain his
+4  eligibility to vote under the provisions of this subsection.
+5  Should any such person lose his disability he shall inform the
+6  county board of elections of the county of his residence.
+7     (e.2)  Notwithstanding the other provisions of this act any
+8  qualified elector who expects to be or is absent from the
+9  [Commonwealth or county] municipality of his residence because
+10  his duties, occupation or business require him to be elsewhere
+11  on the day of any election or a county employe who cannot vote
+12  due to duties on election day relating to the conduct of the
+13  election or a person who will not attend a polling place because
+14  of the observance of a religious holiday may make an application
+15  for an absentee ballot by mail by sending a letter to the county
+16  board of elections in the county in which his voting residence
+17  is located. The letter shall be signed by the applicant and
+18  contain his name and place of residence.
+19     (f)  The county chairman of each political party or the head
+20  of each political body shall designate one representative from
+21  his respective political party or body for each public
+22  institution. The representatives so appointed shall, at the same
+23  time on a date fixed by the county board of election visit every
+24  public institution situate in the county for the purpose of
+25  obtaining the names and addresses of public institution
+26  residents who desire to receive applications for absentee
+27  ballots and to act as an election board as provided in
+28  subsection (g) of this section. The list of names and addresses
+29  thus obtained shall then be submitted by said representatives to
+30  the board which shall furnish applications individually to those
+1  appearing in the written request. If the chairman or head of a
+2  political party or body fails to appoint a representative within
+3  fifteen days from written notice from the county board of
+4  election, the county board of election shall appoint a
+5  representative from the political party or body.
+6     (g)  The county board of election shall appoint teams of
+7  three members for each public institution that shall go to the
+8  public institutions and hold the election on the first Friday
+9  prior to election day. Each member of the board shall appoint
+10  one member on every team. After the votes are cast, the teams
+11  shall collect the ballots and return them to the county board of
+12  election where they shall be placed unopened in a secure, safe
+13  and sealed container in the custody of the board until they
+14  shall be distributed to the respective absentee voters' election
+15  district as provided in section 1308 of this act where they
+16  shall be counted with the other absentee ballots, if any.
+17     (h)  The county board of election shall number, in
+18  chronological order, the applications for an official absentee
+19  ballot, which number shall likewise appear on the official
+20  absentee ballot for the qualified elector. The numbers shall
+21  appear legibly and in a conspicuous place but before the ballots
+22  are distributed the number on the ballot shall be torn off by
+23  the county board of election. This number information shall be
+24  appropriately inserted and become a part of the Registered
+25  Absentee Voters File and the Military, Veterans and Emergency
+26  Civilian Absentee Voters File provided in section 1302.3 of this
+27  act.
+28     (i)  Application for official absentee ballots shall be on
+29  forms prescribed by the Secretary of the Commonwealth. The
+30  application shall state that a voter who receives an absentee
+1  ballot pursuant to section 1301 and who, on election day, is
+2  capable of voting at the appropriate polling place must void the
+3  absentee ballot and vote in the normal manner at the appropriate
+4  voting place. Such forms shall be made freely available to the
+5  public at county board of elections, municipal buildings and at
+6  such other locations designated by the secretary. No written
+7  application or personal request shall be necessary to receive
+8  the application forms. Copies of all completed applications for
+9  official absentee ballots shall be retained by the county board
+10  of elections.
+11     Section 16.  Sections 1302.1, 1306 and 1308(e) of the act,
+12  amended December 11, 1968 (P.L.1183, No.375), are amended to
+13  read:
+14     Section 1302.1.  Date of Application for Absentee Ballot.--
+15     Applications for absentee ballots unless otherwise specified
+16  shall be received in the office of the county board of elections
+17  not earlier than fifty (50) days before the primary or election
+18  and not later than five o'clock P.M. of the first Tuesday prior
+19  to the day of any primary or election: Provided, however, That
+20  in the event any elector otherwise qualified who is so
+21  physically disabled or ill on or before the first Tuesday prior
+22  to any primary or election that he is unable to file his
+23  application or who becomes physically disabled or ill after the
+24  first Tuesday prior to any primary or election and is unable to
+25  appear at his polling place or any elector otherwise qualified
+26  who because of the conduct of his business, duties or occupation
+27  will necessarily be absent from the [State or county]
+28  municipality of his residence on the day of the primary or
+29  election, which fact was not and could not reasonably be known
+30  to said elector on or before the first Tuesday prior to any
+1  primary or election, shall be entitled to an absentee ballot at
+2  any time prior to five o'clock P.M. on the first Friday
+3  preceding any primary or election upon execution of an Emergency
+4  Application in such form prescribed by the Secretary of the
+5  Commonwealth.
+6     In the case of an elector who is physically disabled or ill
+7  on or before the first Tuesday prior to a primary or election or
+8  becomes physically disabled or ill after the first Tuesday prior
+9  to a primary or election, such Emergency Application shall
+10  contain a supporting affidavit from his attending physician
+11  stating that due to physical disability or illness said elector
+12  was unable to apply for an absentee ballot on or before the
+13  first Tuesday prior to the primary or election or became
+14  physically disabled or ill after that period.
+15     In the case of an elector who is necessarily absent because
+16  of the conduct of his business, duties or occupation under the
+17  unforeseen circumstances specified in this subsection, such
+18  Emergency Application shall contain a supporting affidavit from
+19  such elector stating that because of the conduct of his
+20  business, duties or occupation said elector will necessarily be
+21  absent from the [State or county] municipality of his residence
+22  on the day of the primary or election which fact was not and
+23  could not reasonably be known to said elector on or before the
+24  first Tuesday prior to the primary or election.
+25     Section 1306.  Voting by Absentee Electors.--(a) At any time
+26  after receiving an official absentee ballot, but on or before
+27  five o'clock P. M. on the Friday prior to the primary or
+28  election, the elector shall, in secret, proceed to mark the
+29  ballot only in black lead pencil, indelible pencil or blue,
+30  black or blue-black ink, in fountain pen or ball point pen, and
+1  then fold the ballot, enclose and securely seal the same in the
+2  envelope on which is printed, stamped or endorsed "Official
+3  Absentee Ballot." This envelope shall then be placed in the
+4  second one, on which is printed the form of declaration of the
+5  elector, and the address of the elector's county board of
+6  election and the local election district of the elector. The
+7  elector shall then fill out, date and sign the declaration
+8  printed on such envelope. Such envelope shall then be securely
+9  sealed and the elector shall send same by mail, postage prepaid,
+10  except where franked, or deliver it in person to said county
+11  board of election:
+12     Provided, however, That any elector, spouse of the elector or
+13  dependent of the elector, qualified in accordance with the
+14  provisions of section 1301, subsections (e), (f), (g) and (h) to
+15  vote by absentee ballot as herein provided, shall be required to
+16  include on the form of declaration a supporting declaration in
+17  form prescribed by the Secretary of the Commonwealth, to be
+18  signed by the head of the department or chief of division or
+19  bureau in which the elector is employed, setting forth the
+20  identity of the elector, spouse of the elector or dependent of
+21  the elector:
+22     Provided further, That any elector who has filed his
+23  application in accordance with section 1302 subsection (e) (2),
+24  and is unable to sign his declaration because of illness or
+25  physical disability, shall be excused from signing upon making a
+26  declaration which shall be witnessed by one adult person in
+27  substantially the following form: I hereby declare that I am
+28  unable to sign my declaration for voting my absentee ballot
+29  without assistance because I am unable to write by reason of my
+30  illness or physical disability. I have made or received
+1  assistance in making my mark in lieu of my signature.
+2                                     .....................(Mark)
+3  ...................................
+4               (Date)
+5                                 ...............................
+6                                      (Signature of Witness)
+7  ...................................
+8     (Complete Address of Witness)
+9     (b) In the event that any such elector, excepting an elector
+10  in military service or any elector unable to go to his polling
+11  place because of illness or physical disability, entitled to
+12  vote an official absentee ballot shall be in the [county]
+13  municipality of his residence on the day for holding the primary
+14  or election for which the ballot was issued, or in the event any
+15  such elector shall have recovered from his illness or physical
+16  disability sufficiently to permit him to present himself at the
+17  proper polling place for the purpose of casting his ballot, such
+18  absentee ballot cast by such elector shall, be declared void.
+19     Any such elector referred to in this subsection, who is
+20  within the [county] municipality of his residence must present
+21  himself at his polling place and, shall be permitted to vote
+22  upon presenting himself at his regular polling place in the same
+23  manner as he could have voted had he not received an absentee
+24  ballot: Provided, That such elector has first presented himself
+25  to the judge of elections in his local election district and
+26  shall have signed the affidavit on the absentee voter's
+27  temporary registration card, which affidavit shall be in
+28  substantially the following form:
+29     I hereby swear that I am a qualified registered elector who
+30  has obtained an absentee ballot, however, I am present in the
+1  [county] municipality of my residence and physically able to
+2  present myself at my polling place and therefore request that my
+3  absentee ballot be voided.
+4                                  ..............................
+5          (Date)                      (Signature of Elector)
+6  .........................................
+7       (Local Judge of Elections)
+8     An elector who has received an absentee ballot under the
+9  emergency application provisions of section 1302.1, and for
+10  whom, therefore, no temporary absentee voter's registration card
+11  is in the district register, shall sign the aforementioned
+12  affidavit in any case, which the local judge of elections shall
+13  then cause to be inserted in the district register with the
+14  elector's permanent registration card.
+15     Section 1308.  Canvassing of Official Absentee Ballots.--
+16     * * *
+17     (e)  At such time the local election board shall then further
+18  examine the declaration on each envelope not so set aside and
+19  shall compare the information thereon with that contained in the
+20  "Registered Absentee Voters File," the absentee voters' list and
+21  the "Military Veterans and Emergency Civilians Absentee Voters
+22  File." If the local election board is satisfied that the
+23  declaration is sufficient and the information contained in the
+24  "Registered Absentee Voters File," the absentee voters' list and
+25  the "Military Veterans and Emergency Civilians Absentee Voters
+26  File" verifies his right to vote, the local election board shall
+27  announce the name of the elector and shall give any watcher
+28  present an opportunity to challenge any absentee elector upon
+29  the ground or grounds (1) that the absentee elector is not a
+30  qualified elector; or (2) that the absentee elector was within
+1  the [county] municipality of his residence on the day of the
+2  primary or election during the period the polls were open,
+3  except where he was in military service or except in the case
+4  where his ballot was obtained for the reason that he was unable
+5  to appear personally at the polling place because of illness or
+6  physical disability; or (3) that the absentee elector was able
+7  to appear personally at the polling place on the day of the
+8  primary or election during the period the polls were open in the
+9  case his ballot was obtained for the reason that he was unable
+10  to appear personally at the polling place because of illness or
+11  physical disability. Upon challenge of any absentee elector, as
+12  set forth herein the local election board shall mark
+13  "challenged" on the envelope together with the reason or reasons
+14  therefor, and the same shall be set aside for return to the
+15  county board unopened pending decision by the county board and
+16  shall not be counted. All absentee ballots not challenged for
+17  any of the reasons provided herein shall be counted and included
+18  with the general return of paper ballots or voting machines, as
+19  the case may be as follows. Thereupon, the local election board
+20  shall open the envelope of every unchallenged absentee elector
+21  in such manner as not to destroy the declaration executed
+22  thereon. All of such envelopes on which are printed, stamped or
+23  endorsed the words "Official Absentee Ballot" shall be placed in
+24  one or more depositories at one time and said depository or
+25  depositories well shaken and the envelopes mixed before any
+26  envelope is taken therefrom. If any of these envelopes shall
+27  contain any extraneous marks or identifying symbols other than
+28  the words "Official Absentee Ballot," the envelopes and the
+29  ballots contained therein shall be set aside and declared void.
+30  The local election board shall then break the seals of such
+1  envelopes, remove the ballots and record the votes in the same
+2  manner as district election officers are required to record
+3  votes. With respect to the challenged ballots, they shall be
+4  returned to the county board with the returns of the local
+5  election district where they shall be placed unopened in a
+6  secure, safe and sealed container in the custody of the county
+7  board until it shall fix a time and place for a formal hearing
+8  of all such challenges and notice shall be given where possible
+9  to all absentee electors thus challenged and to every attorney,
+10  watcher or candidate who made such challenge. The time for the
+11  hearing shall not be later than seven (7) days after the date of
+12  said challenge. On the day fixed for said hearing, the county
+13  board shall proceed without delay to hear said challenges and,
+14  in hearing the testimony, the county board shall not be bound by
+15  technical rules of evidence. The testimony presented shall be
+16  stenographically recorded and made part of the record of the
+17  hearing. The decision of the county board in upholding or
+18  dismissing any challenge may be reviewed by the court of common
+19  pleas of the county upon a petition filed by any person
+20  aggrieved by the decision of the county board. Such appeal shall
+21  be taken, within two (2) days after such decision shall have
+22  been made, whether reduced to writing or not, to the court of
+23  common pleas setting forth the objections to the county board's
+24  decision and praying for an order reversing same. Pending the
+25  final determination of all appeals, the county board shall
+26  suspend any action in canvassing and computing all challenged
+27  ballots irrespective of whether or not appeal was taken from the
+28  county board's decision. Upon completion of the computation of
+29  the returns of the county, the votes cast upon the challenged
+30  official absentee ballots shall be added to the other votes cast
+1  within the county.
+2     * * *
+3     Section 17.  Section 1628 of the act, amended July 11, 1980
+4  (P.L.600, No.128), is amended to read:
+5     Section 1628.  Late Contributions and Independent
+6  Expenditures.--
+7     Any candidate or political committee, authorized by a
+8  candidate and created solely for the purpose of influencing an
+9  election on behalf of that candidate, which receives any
+10  contribution or pledge of five hundred dollars ($500) or more,
+11  and any person making an independent expenditure, as defined by
+12  this act, of five hundred dollars ($500) or more after the final
+13  pre-election report has been deemed completed shall report such
+14  contribution, pledge or expenditure to the appropriate
+15  supervisor [by telegram or mailgram]. Such [telegram or
+16  mailgram] report shall be sent by the candidate, chairman or
+17  treasurer of the political committee within twenty-four (24)
+18  hours of receipt of the contribution. It shall be the duty of
+19  the supervisor to confirm the substance of such [telegram or
+20  mailgram.] report. The report shall be made by telegram,
+21  mailgram, overnight mail or facsimile transmission. Any
+22  candidate in his own behalf, or chairman, treasurer or candidate
+23  in behalf of the political committee may also comply with this
+24  section by appearing personally before such supervisor and
+25  reporting such late contributions or pledges.
+26     Section 18.  Sections 1802, 1816, 1817, 1818, 1823, 1824,
+27  1825, 1827, 1828, 1829, 1833 and 1834 of the act are amended to
+28  read:
+29     Section 1802.  Perjury.--Any wilful false statement made
+30  under oath or affirmation or in writing, stating that it is so
+1  made, although such oath or affirmation may not have actually
+2  been made, by any person regarding any material matter or thing
+3  relating to any subject being investigated, heard, determined or
+4  acted upon by any county board of elections, or member thereof,
+5  or by any court or judge thereof, judge of election, inspector
+6  of election, or overseer, in accordance with the terms of this
+7  act, shall be perjury, a misdemeanor of the first degree, and
+8  any person upon conviction thereof, shall be sentenced to pay a
+9  fine not exceeding [five hundred ($500) dollars] ten thousand
+10  ($10,000) dollars, or to undergo an imprisonment of not [less
+11  than three (3) months nor more than two (2) years] more than
+12  five (5) years, or both, in the discretion of the court.
+13     Section 1816.  Unlawful Possession of Ballots; Counterfeiting
+14  Ballots.--Any person other than an officer charged by law with
+15  the care of ballots, or a person entrusted by any such officer
+16  with the care of the same for a purpose required by law, who
+17  shall have in his possession outside the polling place any
+18  official ballot, or any person who shall make or have in his
+19  possession any counterfeit of an official ballot, shall be
+20  guilty of a misdemeanor of the second degree, and, upon
+21  conviction thereof, shall be sentenced to pay a fine not
+22  exceeding [one thousand ($1,000)] five thousand ($5,000)
+23  dollars, or to undergo an imprisonment of not [less than three
+24  (3) months nor] more than [one (1) year] two (2) years, or both,
+25  in the discretion of the court.
+26     Section 1817.  Forging and Destroying Ballots.--Any person
+27  who shall forge or falsely make the official endorsement on any
+28  ballot or wilfully destroy or deface any ballot or wilfully
+29  delay the delivery of any ballots, shall be guilty of a
+30  misdemeanor of the second degree, and, upon conviction thereof,
+1  shall be sentenced to pay a fine not exceeding [one thousand
+2  ($1,000)] five thousand ($5,000) dollars, or to undergo an
+3  imprisonment of not [less than three (3) months nor] more than
+4  two (2) years, or both, in the discretion of the court.
+5     Section 1818.  Tampering with Voting Machines.--Any election
+6  officer or other person who shall unlawfully open or who shall
+7  tamper with or injure or attempt to injure any voting machine to
+8  be used or being used at any primary or election, or who shall
+9  prevent or attempt to prevent the correct operation of such
+10  machine, or any unauthorized person who shall make or have in
+11  his possession a key to a voting machine to be used or being
+12  used in any primary or election, shall be guilty of a
+13  misdemeanor of the second degree, and, upon conviction thereof,
+14  shall be sentenced to pay a fine not exceeding [one thousand
+15  ($1,000)] five thousand ($5,000) dollars, or to undergo an
+16  imprisonment of not [less than six (6) months nor] more than
+17  [one year] two (2) years, or both, in the discretion of the
+18  court.
+19     Section 1823.  Election Officers Permitting Unregistered
+20  Electors to Vote; Challenges; Refusing to Permit Qualified
+21  Electors to Vote.--Any judge or inspector of election who
+22  permits any person to vote at any primary or election who is not
+23  registered in accordance with law, except a person in actual
+24  military service or a person as to whom a court of competent
+25  jurisdiction has ordered that he shall be permitted to vote, or
+26  who permits any registered elector to vote knowing that such
+27  registered elector is not qualified to vote, whether or not such
+28  person has been challenged, or who permits any person who has
+29  been lawfully challenged to vote at any primary or election
+30  without requiring the proof of the right of such person to vote
+1  which is required by law, or who refuses to permit any duly
+2  registered and qualified elector to vote at any primary or
+3  election, with the knowledge that such elector is entitled to
+4  vote, shall be guilty of a [misdemeanor] felony of the third
+5  degree, and, upon conviction thereof, shall be sentenced to pay
+6  a fine not exceeding [one thousand ($1,000)] fifteen thousand
+7  ($15,000) dollars, and to undergo an imprisonment of not [less
+8  than three (3) months nor] more than [five (5)] seven (7) years,
+9  or both.
+10     Section 1824.  Election Officers Refusing to Permit Elector
+11  to Vote in Proper Party at Primaries.--Any judge, inspector or
+12  clerk of election who refuses to permit an elector at any
+13  primary at which ballots are used to receive the ballot of the
+14  party with which he is enrolled, or who gives to any such
+15  elector the ballot of any party in which he is not enrolled, or
+16  any judge, or inspector of election, or machine inspector who,
+17  at any primary at which voting machines are used, adjusts any
+18  voting machine about to be used by an elector so as not to
+19  permit him to vote for the candidates of the party in which he
+20  is enrolled, or so as to permit him to vote for the candidates
+21  of any party in which he is not enrolled, shall be guilty of a
+22  misdemeanor of the first degree, and, upon conviction thereof,
+23  shall be sentenced to pay a fine not exceeding [one thousand
+24  ($1,000)] ten thousand ($10,000) dollars, or to undergo an
+25  imprisonment of not [less than one (1) month nor] more than [two
+26  (2)] five (5) years, or both, in the discretion of the court.
+27     Section 1825.  Frauds by Election Officers.--Any judge,
+28  inspector or clerk of election or machine inspector who shall be
+29  guilty of any wilful fraud in the conduct of his duties at a
+30  primary or election, and any person who shall make a false
+1  return of the votes cast at any primary or election, or who
+2  shall deposit fraudulent ballots in the ballot box or certify as
+3  correct a return of ballots in the ballot box which he knows to
+4  be fraudulent, or who shall register fraudulent votes upon any
+5  voting machine or certify as correct a return of votes cast upon
+6  any voting machine which he knows to be fraudulently registered
+7  thereon, or who shall make any false entries in the district
+8  register, or who shall fail to insert in the voting check list
+9  the voter's certificate of any elector actually voting at any
+10  primary or election, or who shall fail to record voting
+11  information as required herein, or who shall fail to insert in
+12  the numbered lists of voters the name of any person actually
+13  voting, or who shall wilfully destroy or alter any ballot,
+14  voter's certificate, or registration card contained in any
+15  district register, or who shall wilfully tamper with any voting
+16  machine, or who shall prepare or insert in the voting check list
+17  any false voter's certificates not prepared by or for an elector
+18  actually voting at such primary or election, for the purpose of
+19  concealing the destruction or removal of any voter's
+20  certificate, or for the purpose of concealing the deposit of
+21  fraudulent ballots in the ballot box, or the registering of
+22  fraudulent votes upon any voting machine or of aiding in the
+23  perpetration of any such fraud, or who shall fail to return to
+24  the county board of election following any primary or election
+25  any keys of a voting machine, ballot box, general or duplicate
+26  return sheet, tally paper, oaths of election officers,
+27  affidavits of electors and others, record of assisted voters,
+28  numbered list of voters, district register, voting check list,
+29  unused, spoiled and cancelled ballots, ballots deposited,
+30  written or affixed in or upon a voting machine, or any
+1  certificate, or any other paper or record required to be
+2  returned under the provisions of this act; or who shall conspire
+3  with others to commit any of the offenses herein mentioned, or
+4  in any manner to prevent a free and fair primary or election,
+5  shall be guilty of a [misdemeanor] felony of the third degree,
+6  and, upon conviction thereof, shall be sentenced to pay a fine
+7  not exceeding [one thousand ($1,000)] fifteen thousand ($15,000)
+8  dollars, or to undergo an imprisonment of not [less than six (6)
+9  months nor] more than [five (5)] seven (7) years, or both, in
+10  the discretion of the court.
+11     Section 1827.  Interference with Primaries and Elections;
+12  Frauds; Conspiracy.--If any person shall prevent or attempt to
+13  prevent any election officers from holding any primary or
+14  election, under the provisions of this act, or shall use or
+15  threaten any violence to any such officer; or shall interrupt or
+16  improperly interfere with him in the execution of his duty; or
+17  shall block up or attempt to block up the avenue to the door of
+18  any polling place; or shall use or practice any intimidation,
+19  threats, force or violence with design to influence unduly or
+20  overawe any elector, or to prevent him from voting or restrain
+21  his freedom of choice; or shall prepare or present to any
+22  election officer a fraudulent voter's certificate not signed in
+23  the polling place by the elector whose certificate it purports
+24  to be; or shall deposit fraudulent ballots in the ballot box; or
+25  shall register fraudulent votes upon any voting machine; or
+26  shall tamper with any district register, voting check list,
+27  numbered lists of voters, ballot box or voting machine; or shall
+28  conspire with others to commit any of the offenses herein
+29  mentioned, or in any manner to prevent a free and fair primary
+30  or election, he shall be guilty of a [misdemeanor] felony of the
+1  third degree, and, upon conviction thereof, shall be sentenced
+2  to pay a fine not exceeding [one thousand ($1,000)] fifteen
+3  thousand ($15,000) dollars, or to undergo an imprisonment of not
+4  [less than six (6) months nor] more than [five (5)] seven (7)
+5  years, or both, in the discretion of the court.
+6     Section 1828.  Persons Interfering in Other Districts.--Any
+7  person who shall on the day of any primary or election visit any
+8  polling place at which he is not entitled to vote and at which
+9  he is not entitled to be present under any provision of this
+10  act, and shall use any intimidation or violence for the purpose
+11  of preventing any election officer from performing the duties
+12  required of him by this act, or for the purpose of preventing
+13  any qualified elector from exercising his right to vote or from
+14  exercising his right to challenge any person offering to vote,
+15  or for the purpose of influencing the vote of any elector, he
+16  shall be guilty of a [misdemeanor] felony of the third degree,
+17  and, upon conviction thereof, shall be sentenced to pay a fine
+18  not exceeding [one thousand ($1,000)] fifteen thousand ($15,000)
+19  dollars, or to undergo an imprisonment of not more than [five
+20  (5)] seven (7) years, or both, in the discretion of the court.
+21     Section 1829.  Assault and Battery at Polls.--Any person who
+22  shall unlawfully strike, wound or commit an assault and battery
+23  upon the person of any elector at or near the polling place
+24  during the time of any primary or election, shall be guilty of a
+25  misdemeanor of the first degree, and, upon conviction thereof,
+26  shall be sentenced to pay a fine not exceeding [one thousand
+27  ($1,000)] ten thousand ($10,000) dollars, or to undergo an
+28  imprisonment of not [less than three (3) months nor] more than
+29  [two (2)] five (5) years, or both, in the discretion of the
+30  court.
+1     Section 1833.  Unlawful Voting.--Any person who votes or
+2  attempts to vote at any primary or election, knowing that he
+3  does not possess all the qualifications of an elector at such
+4  primary or election, as set forth in this act, shall be guilty
+5  of a misdemeanor of the first degree, and, upon conviction
+6  thereof, shall be sentenced to pay a fine not exceeding [one
+7  thousand ($1,000)] ten thousand ($10,000) dollars, or to undergo
+8  an imprisonment of not more than [one (1) year] five (5) years,
+9  or both, in the discretion of the court.
+10     Section 1834.  Elector Voting Ballot of Wrong Party at
+11  Primary.--Any elector who shall wilfully vote at any primary the
+12  ballot of a party in which he is not enrolled, in violation of
+13  the provisions of this act, shall be guilty of a misdemeanor of
+14  the second degree, and, upon conviction thereof, shall be
+15  sentenced to pay a fine not exceeding [one thousand ($1,000)]
+16  five thousand ($5,000) dollars, or to undergo an imprisonment of
+17  not more than [one (1) year] two (2) years, or both, in the
+18  discretion of the court.
+19     Section 19.  Section 1835 of the act, reenacted September 9,
+20  1959 (P.L.851, No.339), is amended to read:
+21     Section 1835.  Repeat Voting at Elections.--If any person
+22  shall vote in more than one election district, or otherwise
+23  fraudulently vote more than once at the same primary or
+24  election, or shall vote a ballot other than the ballot issued to
+25  him by the election officers, or shall advise or procure another
+26  so to do, he shall be guilty of a [misdemeanor] felony of the
+27  third degree, and, upon conviction thereof, shall be sentenced
+28  to pay a fine not exceeding [one thousand ($1000)] fifteen
+29  thousand ($15,000) dollars, or to undergo an imprisonment of not
+30  [less than three (3) months nor] more than [five (5)] seven (7)
+1  years, or both, in the discretion of the court.
+2     Section 20.  Sections 1836, 1839 and 1847 of the act are
+3  amended to read:
+4     Section 1836.  Removing Ballots.--Any person removing any
+5  ballot from any book of official ballots, except in the manner
+6  provided by this act, shall be guilty of a misdemeanor of the
+7  second degree, and, upon conviction thereof, shall be sentenced
+8  to pay a fine not exceeding [one thousand ($1,000)] five
+9  thousand ($5,000) dollars, or to undergo an imprisonment of not
+10  more than [one (1) year] two (2) years, or both, in the
+11  discretion of the court.
+12     Section 1839.  Bribery at Elections.--Any person who shall,
+13  directly or indirectly, give or promise or offer to give any
+14  gift or reward in money, goods or other valuable thing to any
+15  person, with intent to induce him to vote or refrain from voting
+16  for any particular candidate or candidates or for or against any
+17  constitutional amendment or other question at any primary or
+18  election; or who shall, directly or indirectly, procure for or
+19  offer or promise to procure for such person any such gift or
+20  reward with the intent aforesaid; or, who with the intent to
+21  influence or intimidate such person to give his vote or to
+22  refrain from giving his vote for any particular candidate or
+23  candidates or for or against any constitutional amendment or
+24  other question at any primary or election, shall give to or
+25  obtain for or assist in obtaining for or offer or promise to
+26  give to or obtain for or assist in obtaining for such person any
+27  office, place, appointment or employment, public or private, or
+28  threaten such person with dismissal or discharge from any
+29  office, place, appointment or employment, public or private,
+30  then held by him, shall be guilty of a [misdemeanor] felony of
+1  the third degree, and, upon conviction thereof, shall be
+2  sentenced to pay a fine not exceeding [five hundred ($500)]
+3  fifteen thousand ($15,000) dollars, or to undergo an
+4  imprisonment of not more than [three (3)] seven (7) years, or
+5  both, in the discretion of the court.
+6     Section 1847.  Prohibiting Duress and Intimidation of Voters
+7  and Interference with the Free Exercise of the Elective
+8  Franchise.--Any person or corporation who, directly or
+9  indirectly--(a) uses or threatens to use any force, violence or
+10  restraint, or inflicts or threatens to inflict any injury,
+11  damage, harm or loss, or in any other manner practices
+12  intimidation or coercion upon or against any person, in order to
+13  induce or compel such person to vote or refrain from voting at
+14  any election, or to vote or refrain from voting for or against
+15  any particular person, or for or against any question submitted
+16  to voters at such election, or to place or cause to be placed or
+17  refrain from placing or causing to be placed his name upon a
+18  register of voters, or on account of such person having voted or
+19  refrained from voting at such election, or having voted or
+20  refrained from voting for or against any particular person or
+21  persons or for or against any question submitted to voters at
+22  such election, or having registered or refrained from
+23  registering as a voter; or (b) by abduction, duress or coercion,
+24  or any forcible or fraudulent device or contrivance, whatever,
+25  impedes, prevents, or otherwise interferes with the free
+26  exercise of the elective franchise by any voter, or compels,
+27  induces, or prevails upon any voter to give or refrain from
+28  giving his vote for or against any particular person at any
+29  election; or (c) being an employer, pays his employes the salary
+30  or wages due in "pay envelopes" upon which or in which there is
+1  written or printed any political motto, device, statement or
+2  argument containing threats, express or implied, intended or
+3  calculated to influence the political opinions or actions of
+4  such employes, or within ninety days of any election or primary
+5  puts or otherwise exhibits in the establishment or place where
+6  his employes are engaged in labor, any handbill or placard
+7  containing any threat, notice, or information that if any
+8  particular ticket or candidate is elected or defeated work in
+9  his place or establishment will cease, in whole or in part, his
+10  establishment be closed up, or the wages of his employes
+11  reduced, or other threats, express or implied, intended or
+12  calculated to influence the political opinions or actions of his
+13  employes, shall be guilty of a misdemeanor of the second degree.
+14  Any person or corporation, convicted of a violation of any of
+15  the provisions of this section, shall be sentenced to pay a fine
+16  not exceeding [one thousand ($1,000)] five thousand ($5,000)
+17  dollars, or such person or the officers, directors or agents of
+18  such corporation responsible for the violation of this section,
+19  shall be sentenced to undergo an imprisonment of not more than
+20  [one (1) year] two (2) years, or both, in the discretion of the
+21  court.
+22     Section 21.  Section 1853 of the act, amended August 13, 1963
+23  (P.L.707, No.379), is amended to read:
+24     Section 1853.  Violations of Provisions Relating to Absentee
+25  Electors Ballots.--If any person shall sign an application for
+26  absentee ballot or declaration of elector on the forms
+27  prescribed knowing any matter declared therein to be false, or
+28  shall vote any ballot other than one properly issued to him, or
+29  vote or attempt to vote more than once in any election for which
+30  an absentee ballot shall have been issued to him, or shall
+1  violate any other provisions of Article XIII of this act, he
+2  shall be guilty of a misdemeanor of the first degree, and, upon
+3  conviction, shall be sentenced to pay a fine not exceeding [one
+4  thousand dollars ($1000)] ten thousand dollars ($10,000), or be
+5  imprisoned for a term not exceeding [one year] five (5) years,
+6  or both, at the discretion of the court.
+7     If any chief clerk or member of a board of elections, member
+8  of a return board or member of a board of registration
+9  commissioners, shall neglect or refuse to perform any of the
+10  duties prescribed by Article XIII of this act, or shall reveal
+11  or divulge any of the details of any ballot cast in accordance
+12  with the provisions of Article XIII of this act, or shall count
+13  an absentee ballot knowing the same to be contrary to Article
+14  XIII, or shall reject an absentee ballot without reason to
+15  believe that the same is contrary to Article XIII, or shall
+16  permit an elector to cast his ballot at a polling place knowing
+17  that there has been issued to the elector an absentee ballot, he
+18  shall be guilty of a [misdemeanor] felony of the third degree,
+19  and, upon conviction, shall be punished by a fine not exceeding
+20  [one thousand dollars ($1000)] fifteen thousand dollars
+21  ($15,000), or be imprisoned for a term [of one year] not
+22  exceeding seven (7) years, or both, at the discretion of the
+23  court.
+24     Section 22.  Article XVIII-A of the act is repealed.
+25     Section 23.  The following acts and parts of acts are
+26  repealed:
+27     Act of May 13, 1925 (P.L.663, No.355), entitled "An act
+28  providing for the enumeration of registered persons in the
+29  Commonwealth, and the publication of a tabulation thereof by the
+30  Secretary of the Commonwealth; and imposing certain duties upon
+1  registrars, assessors, registry assessors, and county
+2  commissioners."
+3     Section 6(b) of the act of December 22, 1989 (P.L.732,
+4  No.101), known as the Election District Alteration and Data
+5  Reporting Act.
+6     Section 24.  This act shall take effect immediately.
+G31L25DMS/19970H1760B2949       - 56 -

@@ -1,0 +1,1312 @@
+22     Section 1.  Section 102 of the act of June 3, 1937 (P.L.1333,
+23  No.320), known as the Pennsylvania Election Code, is amended by
+24  adding a clause to read:
+25     Section 102.  Definitions.--The following words, when used in
+1  this act, shall have the following meanings, unless otherwise
+2  clearly apparent from the context:
+3     * * *
+4     (z.5)  The words "State board" or "State board of elections"
+5  shall mean the Pennsylvania State Board of Elections established
+6  by this act.
+7     Section 2.  Section 201 of the act, amended October 8, 2004
+8  (P.L.807, No.97), is repealed:
+9     [Section 201.  Powers and Duties of the Secretary of the
+10  Commonwealth.--The Secretary of the Commonwealth shall exercise
+11  in the manner provided by this act all powers granted to him by
+12  this act, and shall perform all the duties imposed upon him by
+13  this act, which shall include the following:
+14     (a)  To determine, in accordance with the provisions of this
+15  act, the forms of nomination petitions and papers, expense
+16  accounts and all other forms and records, the form of which he
+17  is required to determine under the provisions of this act.
+18     (b)  To examine and reexamine voting machines, and to approve
+19  or disapprove them for use in this State, in accordance with the
+20  provisions of this act.
+21     (c)  To certify to county boards of elections for primaries
+22  and elections the names of the candidates for President and
+23  Vice-President of the United States, presidential electors,
+24  United States senators, representatives in Congress and all
+25  State offices, including senators, representatives, and judges
+26  of all courts of record, and delegates and alternate delegates
+27  to National Conventions, and members of State committees, and
+28  the form and wording of constitutional amendments or other
+29  questions to be submitted to the electors of the State at large.
+30     (d)  To receive and determine, as hereinafter provided, the
+1  sufficiency of nomination petitions, certificates and papers of
+2  candidates for President of the United States, presidential
+3  electors, United States senators, representatives in Congress
+4  and all State offices, including senators, representatives and
+5  judges of all courts of record, and delegates and alternate
+6  delegates to National Conventions and members of State
+7  committees.
+8     (e)  To receive such reports from county boards of elections
+9  as are required by this act, and to demand such additional
+10  reports on special matters as he may deem necessary.
+11     (e.1)  To receive from county boards of elections information
+12  on voting system errors or difficulties or other election data
+13  pursuant to regulation.
+14     (f)  To receive from county boards of elections the returns
+15  of primaries and elections, to canvass and compute the votes
+16  cast for candidates and upon questions as required by the
+17  provisions of this act; to proclaim the results of such
+18  primaries and elections, and to issue certificates of election
+19  to the successful candidates at such elections, except in cases
+20  where that duty is imposed by law on another officer or board.
+21     (f.1)  To develop a voluntary professional certification and
+22  poll worker training program for county election officials in
+23  consultation with county boards of elections.
+24     (f.2)  To order a county board to conduct a recount or
+25  recanvass of an election under section 1404 for a public office
+26  which appears on the ballot in every election district in this
+27  Commonwealth or for a ballot question which appears on the
+28  ballot in every election district in this Commonwealth.
+29     (g)  To perform such other duties as may be prescribed by
+30  law.
+1     (h)  To establish a system for the remedy of complaints
+2  regarding the administration of the provisions of Title III of
+3  the Help America Vote Act of 2002 (Public Law 107-252, 42 U.S.C.
+4  § 15481 et seq.)]
+5     Section 3.  Section 201.1 of the act, added February 19, 1986
+6  (P.L.29, No.11), is repealed:
+7     [Section 201.1.  Explanation of Ballot Question.--Whenever a
+8  proposed constitutional amendment or other State-wide ballot
+9  question shall be submitted to the electors of the Commonwealth
+10  in referendum, the Attorney General shall prepare a statement in
+11  plain English which indicates the purpose, limitations and
+12  effects of the ballot question on the people of the
+13  Commonwealth. The Secretary of the Commonwealth shall include
+14  such statement in his publication of a proposed constitutional
+15  amendment as required by Article XI of the Constitution of
+16  Pennsylvania. The Secretary of the Commonwealth shall certify
+17  such statement to the county boards of elections who shall
+18  publish such statement as a part of the notice of elections
+19  required by section 1201 or any other provision of this act. The
+20  county board of elections shall also require that at least three
+21  copies of such statement be posted in or about the voting room
+22  outside the enclosed space with the specimen ballots and other
+23  instructions and notices of penalties. In election questions
+24  which affect only one county or portion thereof, the county
+25  board of elections shall fulfill these requirements in the place
+26  of the Attorney General and the Secretary of the Commonwealth.]
+27     Section 4.  Sections 202 and 203 of the act are repealed:
+28     [Section 202.  Records and Documents to Be Open to Public
+29  Inspection.--The records of the Secretary of the Commonwealth
+30  and all returns, nomination petitions, certificates and papers,
+1  other petitions, accounts, contracts, reports and other
+2  documents and records in his custody shall be open to public
+3  inspection, and may be inspected and copied by any qualified
+4  elector of the State during ordinary business hours at any time
+5  when they are not necessarily being used by the Secretary of the
+6  Commonwealth, or his deputy or employes having duties to perform
+7  in reference thereto: Provided, however, That such public
+8  inspection thereof shall only be in the presence of the
+9  Secretary of the Commonwealth, or his deputy or one of his
+10  authorized employes, and shall be subject to proper regulation
+11  for safekeeping of the records and documents, and subject to the
+12  further provisions of this act.
+13     Section 203.  Preservation of Records.--All documents and
+14  records in the office of the Secretary of the Commonwealth shall
+15  be preserved therein for a period of two years, unless otherwise
+16  provided in this act.]
+17     Section 5.  Section 204 of the act, amended or added December
+18  9, 2002 (P.L.1246, No.150) and May 12, 2006 (P.L.178, No.45), is
+19  repealed:
+20     [Section 204.  Voting Standards Development Board.--(a)
+21  There is hereby established within the Department of State a
+22  Voting Standards Development Board comprised of seven members
+23  for the purpose of developing uniform and nondiscriminatory
+24  standards that define what constitutes a vote.
+25     (b)  The board shall be comprised of the following members:
+26     (1)  The Secretary of the Commonwealth or his designee.
+27     (2)  Two county directors of election appointed by the
+28  President pro tempore of the Senate, one of whom shall be from a
+29  county in which votes are cast on paper ballots.
+30     (3)  One county director of elections appointed by the
+1  Minority Leader of the Senate, who shall be from a county in
+2  which votes are cast on punch card voting systems.
+3     (4)  Two county directors of election appointed by the
+4  Speaker of the House of Representatives, one of whom shall be
+5  from a county in which votes are cast on direct recording
+6  electronic voting systems.
+7     (5)  One county director of elections appointed by the
+8  Minority Leader of the House of Representatives, who shall be
+9  from a county in which votes are cast on optical scan voting
+10  systems.
+11     (c)  The Secretary of the Commonwealth shall serve as chair
+12  of the board. Each member shall serve until the expiration of
+13  his term. A vacancy shall be filled in the same manner as the
+14  original appointment.
+15     (d)  The board shall meet as needed to fulfill the
+16  requirements of this section.
+17     (e)  Four members of the board shall constitute a quorum, and
+18  an affirmative vote of a majority of the members of the board is
+19  required for the issuance of standards in accordance with
+20  subsection (h).
+21     (f)  The board may establish any rules necessary for its
+22  operation, consistent with the provisions of subsection (e).
+23     (g)  The members of the board shall receive no compensation
+24  for their services on the board but shall be reimbursed by the
+25  department for ordinary and necessary expenses incurred in the
+26  performance of their duties.
+27     (h)  (1)  The board shall have the power and duty to develop
+28  uniform and nondiscriminatory standards that define what
+29  constitutes a valid vote cast through a paper ballot and what
+30  constitutes a valid vote through each type of electronic voting
+1  system used in the Commonwealth. On or before July 1, 2003, the
+2  board shall adopt standards for paper ballots and each type of
+3  electronic voting system. The department shall cause these
+4  standards to be published as a notice in the Pennsylvania
+5  Bulletin.
+6     (2)  The standards adopted by the board and published by the
+7  Department of State in the Pennsylvania Bulletin Volume 33
+8  Number 31 on August 2, 2003, shall, for the general election in
+9  2004 and any primary, municipal, special and general election in
+10  2006 and 2007, have the force and effect of law.]
+11     Section 6.  Section 205 of the act, added December 9, 2002
+12  (P.L.1246, No.150), is repealed:
+13     [Section 205.  State Plan Advisory Board.--(a)  There is
+14  hereby established within the Department of State a State Plan
+15  Advisory Board comprised of fifteen members for the purpose of
+16  advising the Secretary of the Commonwealth on the development of
+17  the State Plan required by the Help America Vote Act of 2002
+18  (Public Law 107-252, 42 U.S.C. § 15301 et seq.).
+19     (b)  The board shall be comprised of the following members:
+20     (1)  One director of elections from a county of the first
+21  class.
+22     (2)  One director of elections from a county of the second
+23  class.
+24     (3)  The chairperson of the political party with the highest
+25  number of registered voters in the Commonwealth.
+26     (4)  The chairperson of the political party with the second
+27  highest number of registered voters in the Commonwealth.
+28     (5)  Eleven members appointed by the Secretary of the
+29  Commonwealth as follows:
+30     (i)  Seven directors of elections, one from a county of the
+1  second class A and one each from a county of the third, fourth,
+2  fifth, sixth, seventh and eighth class.
+3     (ii)  One representative of an organization of disabled
+4  Pennsylvania veterans.
+5     (iii)  One representative of an organization of blind and
+6  visually impaired Pennsylvanians.
+7     (iv)  Two representatives of the public at large, who shall
+8  be registered electors of the Commonwealth.
+9     (c)  The board shall elect a chairman from among its members.
+10  Each member appointed by the secretary shall serve for a term of
+11  five years. A vacancy shall be filled in the same manner as the
+12  original appointment.
+13     (d)  The board shall meet as needed to fulfill the
+14  requirements of this section.
+15     (e)  Eight members of the board shall constitute a quorum. A
+16  vote of the majority of the members of the board is required for
+17  the issuance of recommendations in accordance with subsection
+18  (h).
+19     (f)  The board may establish any rules necessary for its
+20  operation consistent with the provisions of subsection (e).
+21     (g)  The members of the board shall receive no compensation
+22  for their services on the board but shall be reimbursed by the
+23  department for ordinary and necessary expenses incurred in the
+24  performance of their duties.
+25     (h)  The board shall have the power and duty to advise the
+26  Secretary of the Commonwealth on the development of the State
+27  Plan, which the secretary must develop and submit to the Federal
+28  Election Assistance Commission in accordance with the Help
+29  America Vote Act of 2002. The board shall make recommendations
+30  on all aspects of the State Plan described in section 254 of the
+1  Help America Vote Act of 2002.]
+2     Section 7.  The act is amended by adding sections to read:
+3     Section 206.  The Pennsylvania State Board of Elections.--(a)
+4  The Pennsylvania State board of elections is hereby established
+5  as an independent board within the executive branch of the
+6  Commonwealth. The State board of elections shall consist of six
+7  members appointed by the Governor with the advice and consent of
+8  two-thirds of all members of the Senate. No more than three
+9  members of the State board appointed under this subsection may
+10  be affiliated with the same political party. No two members
+11  shall reside in the same county.
+12     (b)  Members of the State board of elections shall serve for
+13  a term of six years except that of the members first appointed
+14  (i) two of the members not affiliated with the same political
+15  party shall be appointed for terms of two years; (ii) two of the
+16  members not affiliated with the same political party shall be
+17  appointed for four-year terms; and (iii) two of the members not
+18  affiliated with the same political party shall be appointed for
+19  six-year terms.
+20     (c)  No member shall be appointed to more than one full six-
+21  year term; Provided, however, That a member of the State board
+22  of elections may serve until his successor has been appointed
+23  and qualified.
+24     (d)  Members shall be chosen on the basis of their maturity,
+25  experience, integrity, impartiality and good judgment. Each
+26  person appointed as a member of the State board of elections
+27  shall be a citizen and legal resident of the Commonwealth for a
+28  period of not less than one year.
+29     (e)  No individual, while a member or employe of the State
+30  board shall:
+1     (1)  Hold public office or campaign for any public office.
+2     (2)  Hold office in any political party or political
+3  committee.
+4     (3)  Actively participate in any political campaign.
+5     (4) Directly or indirectly attempt to influence any decision
+6  by a governmental body, other than a court of law, or as a
+7  representative of the State board on a matter within the
+8  jurisdiction of the State board.
+9     (5)  Be employed by the Commonwealth in any other capacity
+10  whether or not for compensation.
+11     (f)  A majority of the State board by resolution, shall
+12  declare vacant the position on the State board of any member who
+13  takes part in activities prohibited by subsection (e). An
+14  individual appointed to fill a vacancy occurring other than by
+15  the expiration of a term of office shall be appointed for the
+16  unexpired term of the member he succeeds and is eligible for
+17  appointment to one full six-year term thereafter.
+18     (g)  The State board shall elect a chairman and a vice
+19  chairman from among its members for a term of one year. No
+20  member may serve as chairman more often than once during any
+21  term of office to which he is appointed. The chairman and the
+22  vice chairman shall not be affiliated with the same political
+23  party. The vice chairman shall act as chairman in the absence or
+24  disability of the chairman or in the event of a vacancy in such
+25  office.
+26     (h)  The State board shall meet at least once a month and at
+27  such other times as it deems necessary.
+28     (i)  Four members of the State board shall constitute a
+29  quorum and the vote of a majority of the members present is
+30  required for any action or recommendation of the State board.
+1  The chairman and any four members of the State board may call a
+2  meeting, provided advance written notice is mailed to each
+3  member and to any person who requests notice of such meetings.
+4     (j)  Members of the State board shall be compensated at a
+5  rate of seventeen thousand five hundred dollars ($17,500) per
+6  year and shall receive reimbursement for their actual and
+7  necessary expenses while performing the business of the State
+8  board of elections.
+9     (k)  The State board shall employ an executive director, a
+10  general counsel and such other staff as is necessary to carry
+11  out its duties pursuant to this act. The executive director
+12  shall be responsible for the administrative operations of the
+13  State board of elections and shall perform such other duties as
+14  may be delegated or assigned to him by the members of the State
+15  board, except the State board shall not delegate the making of
+16  regulations to the executive director. A general counsel shall
+17  be the chief legal officer of the State board and shall have the
+18  same powers and duties as prescribed in Chapter 4 of the act of
+19  October 15, 1980 (P.L.950, No.164), known as the "Commonwealth
+20  Attorneys Act." The State board of elections may obtain the
+21  services of experts and consultants as necessary to carry out
+22  its duties pursuant to this act.
+23     Section 207.  Powers and Duties of the Pennsylvania State
+24  Election Board.--The Pennsylvania State Election Board shall
+25  exercise in the manner provided by this act all powers granted
+26  to it by this act, and shall perform all the duties imposed upon
+27  it by this act, which shall include the following:
+28     (1)  The State board of elections shall assume all the powers
+29  and duties which this act, or any other act, imposes upon the
+30  Secretary of the Commonwealth or the Department of State
+1  relating to the conduct of elections and voter registration. The
+2  Secretary of the Commonwealth shall, however, retain those
+3  responsibilities placed on the office by Article XI of the
+4  Constitution of Pennsylvania.
+5     (2)  To issue instructions and promulgate rules and
+6  regulations relating to the administration of and the insurance
+7  of uniformity in the election process, election campaign
+8  practices and campaign financing practices consistent with the
+9  provisions of law.
+10     (3)  To determine the forms of nomination petitions and
+11  papers, expense accounts and all other forms and records, in
+12  accordance with this act.
+13     (4)  To examine and reexamine voting machines and electronic
+14  voting systems, and to approve or disapprove them for use in
+15  this Commonwealth, in accordance with the provisions of this
+16  act.
+17     (5)  To receive and determine, as hereinafter provided, the
+18  sufficiency of nomination petitions, certificates and papers of
+19  candidates for President of the United States, presidential
+20  electors, United States senators, representatives in Congress
+21  and all State offices, including senators, representatives and
+22  judges of all courts of record, and delegates and alternate
+23  delegates to National Conventions and members of State
+24  committees.
+25     (6)  To certify to county boards of elections for primaries
+26  and elections the names of the candidates for President and
+27  Vice-President of the United States, presidential electors,
+28  United States senators, representatives in Congress and all
+29  State offices, including senators, representatives, and judges
+30  of all courts of record, and delegates and alternate delegates
+1  to National Conventions, and members of State committees, and
+2  the form and wording of constitutional amendments or other
+3  questions to be submitted to the electors of the State at large.
+4     (7)  To receive such reports from county boards of elections
+5  as are required by this act, and to demand such additional
+6  reports on special matters as it may deem necessary.
+7     (8)  To receive from county boards of elections the returns
+8  of primaries and elections, to canvass and compute the votes
+9  cast for candidates and upon questions as required by the
+10  provisions of this act; to proclaim the results of such
+11  primaries and elections, and to issue certificates of election
+12  to the successful candidates at such elections, except in cases
+13  where that duty is imposed by law on another officer or board.
+14     (9)  To serve as the State clearing house for information in
+15  respect to the administration of elections and pursuant to that
+16  duty, the State board shall enter into contracts for the purpose
+17  of conducting independent studies of the administration of
+18  elections. Studies made under this paragraph shall be published
+19  by the State board and copies made available to the General
+20  Assembly and to the general public upon payment of the cost of
+21  duplication. Nothing in this paragraph shall be construed to
+22  authorize the State board to include comments or recommendations
+23  in any study. If the need arises for any comment or
+24  recommendations, they shall be included as an appendix to such
+25  study.
+26     (10)  To conduct any investigation necessary to carry out the
+27  provisions of this act.
+28     (11)  To conduct private or public hearings.
+29     (12)  To administer oaths or affirmations, subpoena
+30  witnesses, compel their attendance, examine them under oath or
+1  affirmation and require the production of any books, records,
+2  documents or other evidence it may deem relevant or material.
+3     (13)  To seek immunity in accordance with the provisions of
+4  42 Pa.C.S. § 5946 (relating to competency of certain witnesses
+5  where political subdivision is a party), in any investigation
+6  relating to any crime or offense with respect to which, by
+7  express provisions of statute, a competent authority is
+8  authorized to confer immunity; Provided, however, That such
+9  immunity shall be conferred only after the Attorney General and
+10  appropriate district attorney are afforded the opportunity to be
+11  heard respecting any objections which either may have to the
+12  conferring thereof.
+13     (14)  To institute or direct a county board of elections to
+14  institute such judicial proceedings as may be necessary to
+15  enforce compliance with any provision of this act or any
+16  regulation promulgated thereunder including, but not limited to,
+17  application, on notice served upon the respondent in the manner
+18  directed by the court at least six hours prior to the time of
+19  return thereon, to the court of common pleas, for an order
+20  prohibiting the continued or threatened violation thereof of for
+21  such other or further relief as the court may deem just and
+22  proper.
+23     (15)  To develop an electronic reporting system to process
+24  the statements of campaign receipts, contributions, transfers
+25  and expenditures required to be filed with the State board of
+26  elections pursuant to the provisions of this act.
+27     (16)  To establish a training program on the electronic
+28  reporting system required in subsection 16 and make it available
+29  to any candidate or committee.
+30     (17)  To recommend legislation and administrative measures as
+1  it finds appropriate to promote uniform, fair, honest and
+2  efficiently administered elections.
+3     (18)  To monitor the adequacy and effectiveness of the
+4  election laws and report thereon at least annually to the
+5  Governor and the General Assembly.
+6     (19)  To compile the information required with respect to the
+7  operation of the National Voter Registration Act of 1993 (Public
+8  Law 103-31, 42 U.S.C. § 1973gg et Seq.) and report the
+9  information annually to the Governor, the General Assembly and
+10  the Federal Election Commission together with an assessment of
+11  the operation of such acts and any recommendations for change
+12  and improvements in compliance.
+13     (20)  To take all appropriate steps to encourage the broadest
+14  possible voter participation in elections including the
+15  administration of a program of voter registration form
+16  distribution by participating State agencies as prescribed by
+17  the "Pennsylvania Voter Registration Act."
+18     (21)  To provide written advice to any person upon his
+19  request with respect to such person's duties under this act.
+20  Such advice shall be provided within five working days of the
+21  request, provided the time may be extended for good cause. It
+22  shall be evidence of good faith conduct in any civil or criminal
+23  proceeding, if the requester, at least five working days prior
+24  to the alleged violation requested written advice from the State
+25  board in good faith, disclosed truthfully all the material facts
+26  and committed the acts either in reliance of the advice or
+27  because of the failure of the State board to provide advice
+28  within five days of the requests or such later extended time.
+29     (22)  To perform such duties as may be prescribed by law.
+30     Section 208.  Explanation of Ballot Question.--Whenever a
+1  proposed constitutional amendment or other State-wide ballot
+2  question shall be submitted to the electors of the Commonwealth
+3  in referendum, the State board shall prepare a statement in
+4  plain English which indicates the purpose, limitations and
+5  effects of the ballot question on the people of the
+6  Commonwealth. The State board of elections shall certify the
+7  statement to the Secretary of the Commonwealth who shall include
+8  it in his publication of a proposed constitutional amendment as
+9  required by Article XI of the Constitution of Pennsylvania. The
+10  State board shall certify such statement to the county boards of
+11  elections who shall publish such statement as a part of the
+12  notice of elections required by section 1201 or any other
+13  provision of this act. The county board of elections shall also
+14  require that at least three copies of such statement be posted
+15  in or about the voting room outside the enclosed space with the
+16  specimen ballots and other instructions and notices of
+17  penalties. In election questions which affect only one county or
+18  portion thereof, the county board of elections shall fulfill
+19  these requirements in the place of the Attorney General and the
+20  Secretary of the Commonwealth.
+21     Section 209.  Records and Documents to be Open to Public
+22  Inspection.--The records of the State board of elections and all
+23  returns, nomination petitions, certificates and papers, other
+24  petitions, accounts, contracts, reports and other documents and
+25  records in its custody shall be open to public inspection, and
+26  may be inspected and copied by any qualified elector of the
+27  State during ordinary business hours at any time when they are
+28  not necessarily being used by the State board, or its Executive
+29  Director or one of his authorized employes, and shall be subject
+30  to proper regulation for safekeeping of the records and
+1  documents, and subject to the further provisions of this act.
+2     Section 210.  Preservation of Records.--All documents and
+3  records in the office of the State board of elections shall be
+4  preserved therein for a period of five years, unless otherwise
+5  provided in this act.
+6     Section 211.  State Board of Elections; Enforcement Powers.--
+7  (a)  The State board of elections shall have jurisdiction of,
+8  and be responsible for, the execution and enforcement of the
+9  provisions of Articles XVI and XVI-A of this act and other
+10  statutes governing campaigns, elections and related procedures.
+11     (b)  Whenever the State board of elections or other board of
+12  elections shall determine, on its own initiative or upon
+13  complaint, or otherwise, that there is substantial reason to
+14  believe a violation of this act or regulation promulgated
+15  thereunder has occurred, it shall expeditiously make an
+16  investigation which may include investigation of reports and
+17  statements made or failed to be made by the complainant and any
+18  political committee supporting his candidacy if the complainant
+19  is a candidate or, if the complaint was made by an officer or
+20  member of a political committee, of reports and statements made
+21  or failed to be made by such political committee and any
+22  candidates supported by it. A county board of elections shall
+23  have jurisdiction over campaign expense reports or statements
+24  filed in its office; Provided however, That the State board of
+25  elections, in lieu of making such an investigation, may direct
+26  the appropriate county board of elections to conduct an
+27  investigation. The State board of elections may request, and
+28  shall receive, the assistance of the Pennsylvania State Police
+29  in any investigation it shall conduct.
+30     (c)  If, after an investigation, the State board of elections
+1  or county board of elections finds reasonable grounds to believe
+2  that a violation warranting criminal prosecution has taken
+3  place, it shall forthwith refer the matter to the proper law
+4  enforcement officer in accordance with section 1642 (a) and (b)
+5  and shall make available to such law enforcement officer all
+6  relevant papers, documents, testimony and findings relevant to
+7  its investigation. In the case where the State board has
+8  directed the county board to conduct an investigation, the
+9  county board shall report their findings to the State board who
+10  may refer the matter in accordance with this subsection.
+11     (d)  The State board of elections or in the case of reports
+12  filed originally at the county, the county board of elections
+13  may, where appropriate, commence a judicial proceeding with
+14  respect to the filing or failure to file any statement of
+15  receipts, expenditures or contributions, under the provisions of
+16  this act. The State board of elections may direct the
+17  appropriate board of elections to commence the proceeding.
+18     (e)  The State board of elections may promulgate rules and
+19  regulations consistent with law to effectuate the provisions of
+20  this section.
+21     Section 212.  Fair Campaign Code.--(a)  In addition to the
+22  powers and duties elsewhere enumerated in this act, the State
+23  board of elections, after holding public hearings, shall adopt a
+24  "fair campaign code" setting forth ethical standards of conduct
+25  for persons, political parties and committees engaged in
+26  election campaigns.
+27     (b)  Copies of the code shall be provided to each candidate,
+28  political party or political committee, no later than March 31
+29  of each year, upon request, by the board of elections with which
+30  the candidate, political party or political committee must file
+1  campaign expense reports pursuant to Article XVI of this act.
+2     (c)  All candidates who voluntarily agree to adhere to the
+3  code shall file a signed copy of the code with the State board
+4  of elections or county board of elections as the case may be.
+5     Section 213.  Powers and Duties of State Board of Elections
+6  Respecting Elections and Crimes Against Elective Franchise.--
+7  Authority is hereby conferred upon the State board of elections
+8  to appoint a special investigator to institute investigation of
+9  cases arising under this act, and to appoint such additional
+10  special investigators and employes as it may deem necessary, and
+11  fix their compensation, within the limits of appropriation
+12  available therefor and assign enforcing this act. Moneys
+13  appropriated for carrying out the provisions of this section
+14  shall be paid out of the State Treasury upon certification of
+15  the State board.
+16     The State board or any of its special investigators shall
+17  have power to issue subpoenas or subpoenas duces tecum,
+18  administer oaths and examine witnesses under oath, for the
+19  purpose of investigating any matter within the jurisdiction
+20  herein prescribed for the purpose of aiding the State board in
+21  enforcing the provisions of this act. Such subpoenas shall be
+22  issued in the name of the State board of elections. Such
+23  subpoenas may be served by any special investigator or by any
+24  police officer or peace officer.
+25     Any person who shall omit, neglect or refuse to obey a
+26  subpoena attested in the name of the State board of elections or
+27  who shall refuse to testify under or in pursuance thereof shall
+28  be forwarded to the court for contempt proceedings.
+29     Any special investigator may call upon any member of the
+30  police, sheriff, deputy sheriff, constable or other public
+1  officer, or any person, to assist him in carrying out the
+2  provisions of this section. Any officer or person who shall fail
+3  to render the assistance so demanded or who shall willfully
+4  hinder or delay such special investigator in the exercise of any
+5  power or the performance of any duty shall be guilty of a
+6  misdemeanor of the third degree.
+7     Section 8.  Section 1220(d) is amended to read:
+8     Section 1220.  Regulations in Force at Polling Places.--* * *
+9     (d) All persons, except election officers, clerks, machine
+10  inspectors, overseers, watchers, persons in the course of
+11  voting, persons lawfully giving assistance to voters,
+12  investigators or other representatives or members of the county
+13  or State board of elections, and peace and police officers, when
+14  permitted by the provisions of this act, must remain at least
+15  ten (10) feet distant from the polling place during the progress
+16  of the voting.
+17     * * *
+18     Section 9.  Section 1621(d), (e) and (l) of the act, added
+19  October 4, 1978 (P.L.893, No.171) and July 21, 1979 (P.L.189,
+20  No.63), are amended and the section is amended by adding clauses
+21  to read:
+22     Section 1621.  Definitions.--As used in this article, the
+23  following words have the following meanings:
+24     * * *
+25     (d)  The word "expenditure" shall mean:
+26     (1)  The payment, distribution, loan or advancement of money
+27  or any valuable thing by a candidate, political committee or
+28  other person for the purpose of influencing the outcome of an
+29  election; Provided, however, That such payment, distribution,
+30  loan or advancement of money or any valuable thing must be made
+1  only for legitimate and verifiable campaign expenses and not for
+2  any inherently personal purpose. "Inherently personal purpose"
+3  means a purpose that, by its nature, confers a personal benefit,
+4  including a home mortgage, rent, utility payment, clothing
+5  purchase, noncampaign automobile expense, country club
+6  membership, vacation or a trip of a noncampaign nature,
+7  household food items, tuition payments, admission to a sporting
+8  event, concert, theater or other form of entertainment.
+9     (2)  The payment, distribution, loan, advance or transfer of
+10  money or other valuable thing between or among political
+11  committees;
+12     (3)  The providing of a service or other valuable thing for
+13  the purpose of influencing the outcome of a nomination or
+14  election of any person to any public office to be voted for in
+15  this Commonwealth; or
+16     (4)  The payment or providing of money or other valuable
+17  thing by any person other than a candidate or political
+18  committee, to compensate any person for services rendered to a
+19  candidate or political committee.
+20     (5)  The term "expenditure" shall not include campaign
+21  expenditures made by a candidate for which the candidate is
+22  reimbursed by his or her political committee within the
+23  reporting period the expenditure was made. Such expenditure made
+24  by the candidate is subject, however, to the requirements of
+25  section 1626(c).
+26     (e)  [The words "independent expenditure" shall mean an
+27  expenditure by a person made for the purpose of influencing an
+28  election without cooperation or consultation with any candidate
+29  or any political committee authorized by that candidate and
+30  which is not made in concert with or at the request or
+1  suggestion of any candidate or political committee or agent
+2  thereof.]
+3     The words "independent expenditure" shall mean an expenditure
+4  by a person for a communication expressly advocating the
+5  election or defeat of a clearly identified candidate which is
+6  not made with the cooperation or prior consent of, in
+7  consultation or concert with or at the request or suggestion of
+8  a candidate or any agent or authorized committee of the
+9  candidate. Mere knowledge alone of the occurrence of an
+10  expenditure shall not preclude it from being an independent
+11  expenditure. For purposes of this definition:
+12     (1)  The word "agent" shall mean any person who has actual
+13  oral or written authority, either express or implied, to make or
+14  to authorize the making of expenditures on behalf of a
+15  candidate, or shall mean any person who has been placed in a
+16  position within the campaign organization where it would
+17  reasonably appear that in the ordinary course of campaign-
+18  related activities he may authorize expenditures.
+19     (2)  The words "clearly identified candidate" shall mean that
+20  the name of the candidate appears, a photograph or drawing of
+21  the candidate appears or the identity of the candidate is
+22  otherwise apparent by unambiguous reference.
+23     (3)  The words "expressly advocating" shall mean any
+24  communication that advocates the election or defeat of a
+25  candidate by:
+26     (i)  containing the name of the candidate, a picture of the
+27  candidate or expressions such as "vote for", "elect", "support",
+28  "vote against", "defeat" or "reject" or a campaign slogan or
+29  words that in context can have no reasonable meaning other than
+30  to advocate the election or defeat of one or more clearly
+1  identified candidates;
+2     (ii)  referring to one or more clearly identified candidates
+3  in a paid advertisement that is transmitted through radio or
+4  television within 60 calendar days preceding the date of an
+5  election of the candidate; or
+6     (iii)  expressing unmistakable and unambiguous support for or
+7  opposition to one or more clearly identified candidates when
+8  taken as a whole and with limited reference to external events
+9  such as the proximity to an election.
+10  The word "expressly advocating" does not include the publication
+11  or distribution of a communication that:
+12     (A)  Presents information in an educational manner solely
+13  about the voting record or position on a campaign issue of two
+14  (2) or more candidates.
+15     (B)  Is not made in coordination with a candidate, political
+16  party or agent of the candidate or party, or a candidate's agent
+17  or a person who is coordinating with a candidate or a
+18  candidate's agent.
+19     (C)  Does not contain a phrase such as "vote for," "reelect,"
+20  "support," "vote against," "defeat," or "reject" or other slogan
+21  or words along with the name or picture of the candidate that in
+22  context can have no reasonable meaning other than to urge the
+23  election or defeat of one or more clearly identified candidates.
+24     (4)  The words "made with the cooperation or prior consent
+25  of, in consultation or concert with or at the request or
+26  suggestion of a candidate or any agent or authorized committee
+27  of the candidate" shall mean any arrangement, coordination or
+28  direction by the candidate or his agent prior to the
+29  publication, distribution, display or broadcast of the
+30  communication. An expenditure shall be presumed to be so made
+1  when it is:
+2     (i)  Based on information about the candidate's plans,
+3  projects or needs provided to the expending person by the
+4  candidate or by the candidate's agents, with a view toward
+5  having an expenditure made.
+6     (ii)  Made by or through any person who is or has been
+7  authorized to raise or expend funds, who is or has been an
+8  officer of an authorized committee, including a political party
+9  committee, or who is or has been receiving any form of
+10  compensation from the candidate, the candidate's committee or
+11  agent.
+12     * * *
+13     (l)  The words "Political Action Committee" shall mean any
+14  political committee as defined in subsection (h) which receives
+15  contributions and makes expenditures to, or on behalf of, any
+16  candidate other than a candidate's own authorized political
+17  committees or the political committees of any State, county,
+18  city, borough, township, ward or other regularly constituted
+19  party committee of any political party or political body. A
+20  political action committee which is established, maintained or
+21  controlled by a sponsoring organization such as a corporation,
+22  labor organization, membership association or trade association
+23  shall include in its registered name the full name of its
+24  sponsoring organization.
+25     * * *
+26     (n)  The words "affiliate" or "affiliated committee" shall
+27  include:
+28     (1)  Any committee established or authorized by a candidate
+29  as part of his or her campaign for the same election for office.
+30     (2)  Any committee established, financed, maintained or
+1  controlled by the same corporation, labor organization, person
+2  or group of persons, including any parent, subsidiary, branch,
+3  division, department or local unit thereof. Local units may
+4  include, in appropriate cases, a franchisee, licensee or
+5  regional association.
+6     (o)  The words "in-kind contribution" shall mean a
+7  contribution of goods, services, property or any valuable thing
+8  offered free or at less than the usual and normal charge for
+9  such goods or services, but shall not include any legal or
+10  accounting services rendered to or on behalf of any political
+11  committee of a political party, an authorized committee of a
+12  candidate or any other political committee, if such services are
+13  solely for the purpose of ensuring compliance with this article.
+14  Such legal or accounting services, however, shall be reported
+15  pursuant to section 1631.
+16     Section 10.  Section 1622(b) of the act, added October 4,
+17  1978 (P.L.893, No.171), is amended to read:
+18     Section 1622.  Organization of Political Committees;
+19  Treasurer and Assistant Treasurer; Records of Candidate and
+20  Committees.--
+21     * * *
+22     (b)  Every candidate [who authorizes a committee or
+23  committees,] for public office must authorize a political
+24  committee to receive and disburse funds on behalf of this
+25  candidacy, and shall name a sole treasurer[, irrespective of the
+26  number of committees so authorized,] to receive and disburse all
+27  funds for said [committees.] committee. No more than one such
+28  committee shall be formed per office sought. Nothing herein
+29  shall be construed to prohibit a candidate from receiving or
+30  expending moneys on his behalf or a treasurer of a political
+1  party committee or a committee authorized to receive and
+2  distribute funds on behalf of more than one (1) candidate from
+3  receiving or expending moneys on behalf of said candidates,
+4  notwithstanding the appointment of a sole treasurer. A sole
+5  treasurer may delegate authority, in writing, to any number of
+6  assistant treasurers to receive and disburse moneys collected on
+7  behalf of a candidate for election. Nothing in this section
+8  shall prohibit authorized individuals from selling tickets or
+9  soliciting funds when funds are deposited in the campaign
+10  account of the candidate.
+11     * * *
+12     Section 11.  Section 1626(a), (b), (d), (e) and (g) of the
+13  act, amended or added October 4, 1978 (P.L.893, No.171), July
+14  11, 1980 (P.L.600, No.128) and July 10, 1981 (P.L.256, No.84),
+15  are amended and the section is amended by adding a subsection to
+16  read:
+17     Section 1626.  Reporting by Candidate and Political
+18  Committees and other Persons.--
+19     (a)  Each treasurer of a political committee and each
+20  candidate for election to public office shall file with the
+21  appropriate supervisor reports of receipts and expenditures on
+22  forms, designed by the [Secretary of the Commonwealth] State
+23  board of elections, if the amount received or expended or
+24  liabilities incurred shall exceed the sum of two hundred fifty
+25  dollars ($250). Should such an amount not exceed two hundred
+26  fifty dollars ($250), then the candidate or, in the case of a
+27  political committee, the treasurer of the committee shall file a
+28  sworn statement to that effect with the appropriate supervisor
+29  rather than the report required by this section[.]: Provided,
+30  however, That if the amount received or expended by a candidate
+1  does not exceed two hundred fifty dollars ($250) he or she may
+2  comply with this section by signing an affidavit to that effect
+3  on his/her political committee's report or statement.
+4     (b)  Each report shall include the following information:
+5     (1)  The full name, mailing address, specific occupation and
+6  specific name of the employer, if any, or the principal place of
+7  business, if self-employed, of each person who has made one or
+8  more contributions to or for such committee or candidate within
+9  the reporting period in an aggregate amount or value in excess
+10  of [two hundred fifty dollars ($250)] one hundred dollars
+11  ($100), together with the amount and date of such contributions.
+12  The accuracy of the information furnished to the candidate or
+13  committee shall be the responsibility of the contributor.
+14     (2)  The full name and mailing address of each person [who]
+15  and political committee that has made one or more contributions
+16  to or for such committee or candidate within the reporting
+17  period in an aggregate amount or value in excess of fifty
+18  dollars ($50), together with the amount and date of such
+19  contributions. The accuracy of the information furnished by the
+20  contributor shall be the responsibility of the contributor.
+21     (3)  The total sum of individual contributions made to or for
+22  such committee or candidate during the reporting period and not
+23  reported under clauses (1) and (2): Provided, however, That when
+24  individual contributions under fifty dollars ($50) made to one
+25  single fundraising event in which the total sum raised was two
+26  thousand five hundred dollars ($2,500) or more the report must
+27  list the names and addresses of all contributors to that
+28  fundraiser.
+29     (4)  Each and every expenditure, the date made, the full name
+30  and address of the person to whom made and the purpose for which
+1  such expenditure was made.
+2     (5)  Any unpaid debts and liabilities, with the nature and
+3  amount of each, the date incurred and the full name and address
+4  of the person owed.
+5     (6)  The account shall include any unexpended balance of
+6  contributions or other receipts appearing from the last account
+7  filed.
+8     * * *
+9     (d)  [Pre-election reports] Reports by candidates for all
+10  public offices to be voted for [by the electors of the State at
+11  large] and all political committees, which have expended money
+12  for the purpose of influencing the election of such candidate,
+13  shall be filed not later than the sixth Tuesday before and the
+14  second Friday before an election, provided that the initial pre-
+15  election report [of each month and] shall be complete as of
+16  fifty (50) days prior to the election and the subsequent pre-
+17  election report shall be complete as of fifteen (15) days prior
+18  to the election. [Pre-election reports by all other candidates
+19  and political committees which have received contributions or
+20  made expenditures for the purpose of influencing an election
+21  shall be filed not later than the second Friday before an
+22  election, provided that such report be complete as of fifteen
+23  (15) days prior to the election.]
+24     (e)  All candidates or political committees, required to file
+25  under this section, shall also file [a] an initial post-election
+26  report not later than thirty (30) days after an election which
+27  shall be complete as of twenty (20) days after the election[.]
+28  and a subsequent post-election report on January 31 of the year
+29  after the election which shall be complete as of December 31 of
+30  the prior year. Candidates defeated in the primary election must
+1  file the initial post-election report by the deadline specified
+2  in this subsection and continue to file reports in accordance
+3  with section 1627. In the case of a special election the initial
+4  post-election report shall be complete as of ten (10) days after
+5  such special election.
+6     * * *
+7     [(g)  Every person, other than a political committee or
+8  candidate, who makes independent expenditures expressly
+9  advocating the election or defeat of a clearly identified
+10  candidate, or question appearing on the ballot, other than by
+11  contribution to a political committee or candidate, in an
+12  aggregate amount in excess of one hundred dollars ($100) during
+13  a calendar year shall file with the appropriate supervisor, on a
+14  form prepared by the Secretary of the Commonwealth, a report
+15  which shall include the same information required of a candidate
+16  or political committee receiving such a contribution and,
+17  additionally, the name of the candidate or question supported or
+18  opposed. Reports required by this subsection shall be filed on
+19  dates on which reports by political committees making
+20  expenditures are required to report under this section.]
+21     * * *
+22     (k)  All reports filed with the State board of elections
+23  shall be filed via electronic media in the manner prescribed by
+24  the State board. All such reports shall be accompanied by the
+25  affidavit prescribed by section 1629 of this act. Any candidate
+26  or political committee not able to file the report or statement
+27  required by this section using electronic media shall request an
+28  exemption from the State board of elections. The candidate or
+29  political committee upon approval of the State board of
+30  elections shall file reports and statements on forms developed
+1  by the State board.
+2     Section 12.  Section 1627 of the act, amended July 11, 1980
+3  (P.L.591, No.127) and July 11, 1980 (P.L.625, No.129), is
+4  amended to read:
+5     Section 1627.  [Annual Reports] Quarterly Reports;
+6  Termination of Committees.--
+7     (a)  All political committees and candidates, [including
+8  those committees and candidates] not filing reports under
+9  section 1626 (d) and (e), shall file [a report on January 31 of
+10  each year which shall be complete as of December 31 of the prior
+11  year. Such reports shall be filed annually at this time until
+12  there is no balance or debt in the report of the candidate or
+13  political committee. Such reports shall be cumulative. However,
+14  if there has been no change in the account, then the candidate
+15  or political committee shall file a statement to that effect
+16  with the appropriate supervisor. Each form designated by the
+17  Secretary of the Commonwealth for filing a report or statement
+18  required by section 1626(e) shall contain a block which may be
+19  marked by the candidate or political committee designating it a
+20  termination report or statement. If such report or statement is
+21  so designated, or if an authorized candidate elects to file no
+22  report or statement pursuant to section 1626.1, no annual report
+23  need be filed under this section unless contributions were
+24  received or expenditures made subsequent to the time period for
+25  filing of such termination report. However, no candidate or
+26  political committee may terminate by way of a statement where
+27  the unpaid balance indicated in the previous report was greater
+28  than two hundred fifty dollars ($250). In the case of annual
+29  reports said report shall cover the campaign activity of a
+30  candidate or political committee from the last prior report or
+1  statement.] quarterly reports. Such reports shall be filed on
+2  the fifteenth day following the last day of the third, sixth,
+3  ninth and twelfth month of each year and shall be complete as of
+4  the end of such months. Reports must be filed until such time
+5  that there is no balance or debt in the report of the candidate
+6  or political committee. Such reports shall be cumulative. A
+7  report must be filed even if there was no change in the account
+8  since the last filing. Each form designated by the State board
+9  of elections for filing a report required by section 1626(e)
+10  shall contain a block which may be marked by the candidate or
+11  political committee designating it a termination report or
+12  statement. No candidate or political committee may terminate
+13  unless such candidate or committee has a zero balance. No
+14  candidate or committee may terminate by way of a statement. In
+15  the case of quarterly reports, said report shall cover the
+16  campaign activity of a candidate or political committee from the
+17  last prior report or statement. Once terminated, a political
+18  committee must comply with sections 1623 and 1624 before
+19  receiving contributions or making expenditures.
+20     [(b)  Any political committee required to be registered under
+21  this act and not reporting under section 1626 shall file an
+22  annual report under this section. However, if a political
+23  committee makes aggregate expenditures as defined in section
+24  1621 in an amount less than two hundred fifty dollars ($250) or
+25  incurs aggregate debt in an amount less than two hundred fifty
+26  dollars ($250) during the calendar year to influence an
+27  election, it need not file an annual report; provided that this
+28  exception shall not be applicable to a candidate's political
+29  committee or to a State or county committee of a political party
+30  or political body or to a political action committee of a
+1  corporation or unincorporated association.]
+2     Section 13.  Section 1628 of the act, amended February 13,
+3  1998 (P.L.72, No.18), is amended to read:
+4     Section 1628.  Late Contributions [and Independent
+5  Expenditures].--Any candidate or political committee, authorized
+6  by a candidate and created solely for the purpose of influencing
+7  an election on behalf of that candidate, which receives any
+8  contribution or pledge of five hundred dollars ($500) or more[,
+9  and any person making an independent expenditure, as defined by
+10  this act, of five hundred dollars ($500) or more] after the
+11  final pre-election report has been deemed completed shall report
+12  such contribution[, pledge or expenditure] or pledge to the
+13  appropriate supervisor. Such report shall be sent by the
+14  candidate, chairman or treasurer of the political committee
+15  within twenty-four (24) hours of receipt of the contribution.
+16  [It shall be the duty of the supervisor to confirm the substance
+17  of such report.] The report shall be made by telegram, mailgram,
+18  overnight mail [or], facsimile or other electronic transmission.
+19  Any candidate in his own behalf, or chairman, treasurer or
+20  candidate [in] on behalf of the political committee or the
+21  candidate's campaign committee may also comply with this section
+22  by appearing personally before such supervisor and reporting
+23  such late contributions or pledges.
+24     Section 14.  The act is amended by adding a section to read:
+25     Section 1628.1.  Independent Expenditures.--
+26     (a)  An expenditure not defined under section 1621 as an
+27  independent expenditure shall be an in-kind contribution to the
+28  candidate and an expenditure by the candidate, unless otherwise
+29  exempted.
+30     (b)  The financing of the dissemination, distribution or
+1  republication, in whole or in part, of any broadcast or any
+2  written, graphic or other form of campaign materials prepared by
+3  the candidate, his campaign committees or their authorized
+4  agents shall be considered a contribution for the purpose of
+5  contribution limitations and reporting responsibilities by the
+6  person making the expenditure but shall not be considered an
+7  expenditure by the candidate or his authorized committees unless
+8  made with the cooperation or with the prior consent of, or in
+9  consultation with, or at the request or suggestion of, a
+10  candidate or any authorized agent or committee thereof.
+11     (c)  Every person who makes an independent expenditure
+12  aggregating in excess of two hundred fifty dollars ($250) during
+13  a calendar year in any election shall file a signed statement
+14  and a copy of the material paid for with the independent
+15  expenditure in accordance with the provisions of section 1631
+16  within twenty-four (24) hours of making the expenditure. In
+17  addition, the person who makes an independent expenditure shall
+18  send a copy of the material submitted to each candidate for
+19  whose benefit the expenditures were made in that race by
+20  overnight mail, facsimile or courier service.
+21     (d)  The signed statement submitted by the person making the
+22  expenditure shall include the following information:
+23     (1)  The reporting person's name, mailing address, occupation
+24  and name of employer, if any, or in the case of a separate
+25  segregated committee, the name and address of the connected
+26  organization.
+27     (2)  The name and mailing address of the person to whom the
+28  expenditure was made.
+29     (3)  The amount, date and purpose of each expenditure.
+30     (4)  A statement which indicated whether the expenditure was
+1  in support of or in opposition to a candidate, together with the
+2  candidate's name and office sought.
+3     (5)  A notarized certification under penalty of perjury as to
+4  whether the expenditure was made with the cooperation or prior
+5  consent of, in consultation or concert with or at the request or
+6  suggestion of any candidate or any authorized committee or agent
+7  of any candidate.
+8     (6)  The identification of each person who made a
+9  contribution in excess of two hundred dollars ($200) to the
+10  person filing the report, which contribution was made for the
+11  purpose of furthering the reported independent expenditure.
+12     (e)  Within twenty-four (24) hours of receipt of the material
+13  described in subsection (d), each candidate for whose benefit
+14  the expenditure was made shall file a statement under the
+15  provisions of section 1631 if either of the following apply:
+16     (1)  the materials expressly advocate the election of his
+17  candidacy; or
+18     (2)  the materials expressly advocate the defeat of his
+19  opponent.
+20     (f)  The statement submitted by each candidate for whose
+21  benefit the expenditure was made shall identify the date of the
+22  expenditure as provided for by the expending person and include
+23  a notarized certification under penalty of perjury as to whether
+24  the expenditure was made in cooperation, consultation or concert
+25  with the person making the expenditure or at the request or
+26  suggestion of the candidate or any authorized committee or agent
+27  of the candidate. The statement shall be signed by each
+28  candidate for whose benefit the expenditure was made.
+29     (g)  The statement submitted by a candidate shall identify
+30  the date of the expenditure as provided for by the expending
+1  person and include a notarized certification under penalty of
+2  perjury as to whether the expenditure was made in cooperation,
+3  consultation or concert with the person making the expenditure
+4  or at the request or suggestion of the candidate or any
+5  authorized committee or agent of the candidate. The statement
+6  shall be signed by the candidate.
+7     (h)  No expenditure by an authorized committee of a candidate
+8  on behalf of that candidate shall qualify as an independent
+9  expenditure.
+10     (i)  (1)  Any person who does not report an expenditure of
+11  funds as required under subsection (e) commits a misdemeanor of
+12  the first degree and shall, upon conviction, be subject to a
+13  fine of not more than ten thousand dollars ($10,000), or to
+14  imprisonment for up to five (5) years, or both.
+15     (2)  A person shall not be deemed elected to a public office
+16  under the laws of this Commonwealth, or enter upon the duties
+17  thereof, or receive any salary or emoluments therefrom, if the
+18  affidavit required in subsection (f) has not been submitted as
+19  described.
+20     (3)  Any candidate who does not submit the affidavit as
+21  required under subsection (f) commits a misdemeanor of the
+22  second degree and shall, upon conviction, be subject to a fine
+23  of not more than five thousand dollars ($5,000), or to
+24  imprisonment for up to two (2) years, or both. All actions
+25  pursuant to enforcement of this subsection shall be initiated in
+26  the Commonwealth Court.
+27     Section 15.  Section 1632(a) and (c) of the act, amended or
+28  added December 13, 1979 (P.L.551, No.124) and July 11, 1980
+29  (P.L.591, No.127), are amended to read:
+30     Section 1632.  Late Filing Fee; Certificate of Filing.--
+1     (a)  A late filing fee for each report or statement of
+2  expenditures and contributions which is not filed within the
+3  prescribed period shall be imposed as follows. Such fee shall be
+4  [ten dollars ($10)] twenty dollars ($20) for each [day] of the
+5  first two days or part of a day excluding Saturdays, Sundays and
+6  holidays that a report is overdue. An additional fee of [ten
+7  dollars ($10)] one hundred dollars ($100) is due for each [of
+8  the first six (6) days] additional day that a report is overdue.
+9  The maximum fee payable with respect to a single report [is two
+10  hundred fifty dollars ($250)] shall not exceed the amount of
+11  contributions received during the prescribed reporting period or
+12  one thousand dollars ($1,000), whichever is greater. A
+13  supervisor shall receive an overdue report or statement even if
+14  any late filing fee due has not been paid but the report or
+15  statement shall not be considered filed until all fees have been
+16  paid upon the receipt by the supervisor of an overdue report. No
+17  further late filing fees shall be incurred once the report or
+18  statement is filed notwithstanding the fact that the report or
+19  statement is not considered filed. The late filing fee is the
+20  [personal] liability of the candidate or treasurer of a
+21  political committee [and cannot be paid from contributions to
+22  the candidate or committee, nor may such fee be considered an
+23  expenditure]. A report or statement of expenditures and
+24  contributions shall be deemed to have been filed within the
+25  prescribed time if the letter transmitting the report or
+26  statement which is received by the supervisor is transmitted by
+27  first class mail and is postmarked by the United States Postal
+28  Service on the day prior to the final day on which the report or
+29  statement is to be received: Provided, That this sentence shall
+30  not be applicable to the reporting requirements contained in
+1  section 1628.
+2     * * *
+3     [(c)  No late filing fees shall be imposed under this section
+4  for pre-election filings due any primary, special, or municipal
+5  election held through November 6, 1979. Late filing fees paid
+6  for any primary, special, or municipal election held through
+7  November 6, 1979 shall be refunded after any candidate or
+8  committee in violation has filed the required pre-primary, pre-
+9  special, pre-municipal, post-primary, post-special, or post-
+10  municipal election report. No late filing fee shall be imposed
+11  under this section, for the required post-primary election
+12  report for the primary election held May 15, 1979 where such
+13  post-primary election report is filed on or before July 16,
+14  1979. No late filing fee shall be imposed under this section for
+15  the required pre-election or post-election report for the
+16  municipal election held November 6, 1979 where such report is
+17  filed on or before February 15, 1980: Provided, however, That no
+18  one shall be issued a commission or take the oath of office
+19  until all reports required on account of his or her candidacy
+20  shall be filed. Any pre-election or post-election late filing
+21  fees, collected for primary, special, or municipal elections
+22  held on or before November 6, 1979, shall be refunded within
+23  thirty (30) days.]
+24     Section 16.  Section 1633(a) of the act, amended November 26,
+25  1978 (P.L.1313, No.318), is amended to read:
+26     Section 1633.  Contributions or Expenditures by National
+27  Banks, Corporations or Unincorporated Associations.--
+28     (a)  It is unlawful for any National or State bank,
+29  partnership or any corporation, incorporated under the laws of
+30  this or any other state or any foreign country or any
+1  unincorporated association, except those corporations formed
+2  primarily for political purposes or as a political committee, to
+3  make a contribution or expenditure in connection with the
+4  election of any candidate or for any political purpose whatever
+5  except in connection with any question to be voted on by the
+6  electors of this Commonwealth. Furthermore, it shall be unlawful
+7  for any candidate, political committee, or other person to
+8  knowingly accept or receive any contribution prohibited by this
+9  section, or for any officer or any director of any corporation,
+10  bank, or any unincorporated association to consent to any
+11  contribution or expenditure by the corporation, bank or
+12  unincorporated association, as the case may be, prohibited by
+13  this section.
+14     * * *
+15     Section 17.  Section 1635 of the act, amended or added
+16  October 4, 1978 (P.L.893, No.171) and July 11, 1980 (P.L.591,
+17  No.127), is amended to read:
+18     Section 1635.  Independent Audit.--
+19     (a)  [Every two (2) years, the Secretary of the Commonwealth
+20  shall contract for the services of a certified public accountant
+21  or certified public accounting firm. Such contract shall be
+22  awarded on a bid basis and no certified public accountant or
+23  certified public accounting firm shall be eligible to obtain
+24  such a contract for two (2) successive contract periods.] The
+25  State board of elections shall employ as many auditors as are
+26  necessary to perform auditing functions required by this act.
+27     (b)  The [Secretary of the Commonwealth] State board of
+28  elections shall select by lottery, at a public drawing, forty
+29  (40) days after each primary, general and municipal election
+30  [three (3)] ten (10) per cent of all public offices for which
+1  candidates must file nominating petitions or papers with the
+2  [Secretary of the Commonwealth] State board of elections. For
+3  the purpose of this subsection, a legislative or senatorial
+4  district shall be considered a public office. Any public office
+5  filled at a special election occurring other than at a primary,
+6  general or municipal election shall be placed in the lottery of
+7  public offices for audit at the next succeeding primary, general
+8  or municipal election whichever occurs first. Any public office
+9  filled at a special election held at the same time as any other
+10  election shall be included in the lottery for that election.
+11     (c)  The [certified public accountant] State board shall
+12  audit the reports of all candidates for each public office
+13  selected in accordance with subsection (b) and those committees,
+14  authorized and created solely for the purposes of influencing an
+15  election on behalf of those candidates.
+16     (d)  The [accountants] State board shall conduct [their] its
+17  audit in accord with sound accounting principles and shall make
+18  findings of any possible violations of this act with respect to
+19  campaign contributions or expenses. All audited candidates and
+20  their committees shall furnish any records to the [accountants]
+21  State board which the [accountants deem] State board deems
+22  necessary for the completion of their work.
+23     (e)  The [accountant shall report his or her findings to the
+24  Secretary of the Commonwealth who shall make public the report
+25  of the accountants.] State board shall make public the report of
+26  its findings. The results of the primary election audit shall
+27  not be released to the public until after the general or
+28  municipal election. Nothing in this subsection shall be
+29  construed to prohibit the initiation of prosecution for criminal
+30  violations by the appropriate agencies.
+1     (f)  The [accountants] State board shall also furnish a
+2  report of [their] its findings to the Attorney General for the
+3  institution of such criminal proceedings as he or she shall deem
+4  necessary.
+5     Section 18.  Sections 1639(6), (7), (8), (9) and (10) and
+6  1640 of the act, added October 4, 1978 (P.L.893, No.171), are
+7  amended to read:
+8     Section 1639.  Powers and Duties of the Supervisor.--It shall
+9  be the duty of the supervisor to:
+10     * * *
+11     [(6)  Make from time to time inquiries and filed
+12  investigations with respect to reports and statements filed
+13  under the provisions of this article and with respect to alleged
+14  failures to file any report or statement required under
+15  provisions of this article.
+16     (7)  Report apparent violations of this article to the
+17  appropriate law enforcement authorities.
+18     (8)] (6)  Collect any fines relating to the filing of late
+19  reports and transmit all such fines collected to the appropriate
+20  fiscal officer of the receiving supervisor.
+21     [(9)] (7)  Inform each candidate or committee which has
+22  failed to file of that fact.
+23     [(10)] (8)  Publish a list of all those candidates and their
+24  committees who have failed to file reports as required by this
+25  act within six (6) days of their failure to comply.
+26     Section 1640.  Additional Powers and Duties of the [Secretary
+27  of the Commonwealth] State Board of Elections.--The [Secretary
+28  of the Commonwealth] State board of elections shall have the
+29  following additional powers and duties:
+30     [(1)  To serve as the State clearing house for information
+1  concerning the administration of this act.
+2     (2)  To prescribe suitable rules and regulations to carry out
+3  the provisions of this act.
+4     (3)] (1)  To develop the prescribed forms required by the
+5  provisions of this article for the making of the reports and
+6  statements required to be filed with the supervisor.
+7     [(4)] (2)  To prepare a manual setting forth recommended
+8  uniform methods of bookkeeping and reporting which shall be
+9  furnished by the supervisor to the person required to file such
+10  reports and statements as required by this article.
+11     [(5)] (3)  To examine the contributions to State legislative
+12  and Statewide candidates and publish a list of all those
+13  political committees who have contributed to candidates and who
+14  have failed to file reports as required by this act within six
+15  (6) days of their failure to comply.
+16     (4)  The State board shall develop a computer data base and
+17  electronic reporting system that shall contain all information
+18  necessary for the proper administration of this act, including
+19  information on contributions and expenditures by candidates and
+20  their authorized committees and distribution of moneys, and
+21  including direct access through personal computer and the
+22  Internet.
+23     (5)  The State board shall make the electronic reporting
+24  process available to any such candidate or committee which is
+25  required to file reports and statements in accordance with this
+26  act on self-executing computer diskettes; and make available
+27  materials to facilitate the task of compliance with the
+28  disclosure and recordkeeping requirements of this article.
+29     (6)  The State board shall cause all information contained in
+30  such a statement filed with the State board which is not on such
+1  electronic reporting system to be entered into such system as
+2  soon as practicable but in no event later than four business
+3  days after its receipt by the State board.
+4     (7)  (i)  A list of campaign contributions and expenditures
+5  and reports must be made available for public inspection at the
+6  office of the supervisor no later than four business days after
+7  receipt.
+8     (ii)  The State board shall not require the viewer to provide
+9  any information or identification as a condition to view the
+10  computer data base.
+11     (iii)  The State board shall ensure that the documents and
+12  reports are available for copying or purchase at a reasonable
+13  cost, not to exceed the actual costs to the State board.
+14     Section 19.  Section 1641 of the act, amended July 12, 1980
+15  (P.L.649, No.134), is amended to read:
+16     Section 1641.  Reports by Business Entities; Publication by
+17  [Secretary of the Commonwealth] State Board of Elections.--
+18     (a)  Any business entity including but not limited to a
+19  corporation, company, association, partnership or sole
+20  proprietorship, which has been awarded non-bid contracts of any
+21  value or contracts over $50,000 from the Commonwealth or its
+22  political subdivisions during the preceding calendar year, any
+23  business entity or person applying for or receiving a permit to
+24  operate a landfill from the Department of Environmental
+25  Protection shall report by February 15 of each year to the
+26  [Secretary of the Commonwealth] State board of elections an
+27  itemized list of all political contributions known to the
+28  business entity by virtue of the knowledge possessed by every
+29  officer, director, associate, partner, limited partner or
+30  individual owner that has been made by:
+1     (1)  any officer, director, associate, partner, limited
+2  partner, individual owner or members of their immediate family
+3  when the contributions exceed an aggregate of [one thousand
+4  dollars ($1,000)] five thousand dollars ($5,000) by any
+5  individual during the preceding year; or
+6     (2)  any employe or members of his immediate family whose
+7  political [contribution] contributions exceeded [one thousand
+8  dollars ($1,000)] five thousand dollars ($5,000) during the
+9  preceding year.
+10  For the purposes of this subsection, "immediate family" means a
+11  person's spouse and any unemancipated child.
+12     (b)  It shall be the duty of the [Secretary of the
+13  Commonwealth] State board of elections to publish sixty (60)
+14  days after February 15 of each year a complete itemized list of
+15  all contributions given under the provisions of subsection (a).
+16  This list shall be a matter of public record open to public
+17  inspection and copies made available at cost to any individual
+18  who requests them. The State board shall also make such data
+19  available on electronic media and the Internet within the
+20  deadline specified in this subsection.
+21     (c)  The Department of General Services shall provide
+22  information regarding the requirements of this section to all
+23  corporations, companies, associations, partnerships or sole
+24  proprietorships receiving contracts from the Commonwealth prior
+25  to the finalization of such contracts.
+26     (d)  The Department of General Services shall provide a list
+27  of all corporations, companies, associations, partnerships or
+28  sole proprietorships receiving nonbid contracts and contracts in
+29  excess of fifty thousand dollars ($50,000) from the Commonwealth
+30  and the Department of Environmental Protection shall provide a
+1  list of any person of business entity applying for or receiving
+2  a landfill permit to the State board of elections no later than
+3  January 31 of each year for the preceding calendar year.
+4     (e)  The State board of elections shall compare all data
+5  received pursuant to this section and campaign expense reports
+6  filed for the same period to determine that all filing
+7  requirements of this act have been met. Results of this
+8  comparison shall be made available at its office and on the
+9  Internet within 60 days of February 15 of each year.
+10     Section 20.  The sum of $3,250,000 is hereby appropriated to
+11  the Pennsylvania State Board of Elections for Fiscal Year 2007-
+12  2008 and for every fiscal year thereafter subject to the
+13  provisions of this section. Such appropriation cannot be reduced
+14  but may be increased. The appropriation amount contained in this
+15  section shall be adjusted annually at a rate equal to the
+16  average percentage change in the All-Urban Consumer Price Index
+17  for the Pittsburgh, Philadelphia and Scranton standard
+18  metropolitan statistical areas as published by the Bureau of
+19  Labor Statistics of the United States Department of Labor, or
+20  any successor agency, occurring in the prior calendar year. The
+21  base year shall be 2005. The average shall be calculated and
+22  certified annually by the Pennsylvania State Board of Elections
+23  by adding the percentage increase in each of the three areas and
+24  dividing by three.
+25     Section 21.  All allocations, appropriations, equipment,
+26  files, records and other material which are used, employed or
+27  expended by the Department of State, in connection with the
+28  conduct of elections, are hereby transferred to the Pennsylvania
+29  State board of elections. Any personnel employed by the
+30  Department of State in connection with its powers, duties or
+1  functions relating to elections may be transferred to the
+2  Pennsylvania State Board of Elections.
+3     Section 22.  Any act or any part of an act which imposes
+4  duties on the Secretary of the Commonwealth or the Department of
+5  State insofar as it relates to the conduct of any election is
+6  repealed insofar as such act is inconsistent with the provisions
+7  of this act.
+8     Section 23.  The provisions of this act are severable. If any
+9  provision of this act or its application to any person or
+10  circumstance is held invalid, the invalidity shall not affect
+11  other provisions or applications of this act which can be given
+12  effect without the invalid provision or application.
+13     Section 24.  This act shall take effect as follows:
+14         (1)  The addition of section 206 of the act shall take
+15     effect immediately.
+16         (2)  The remainder of this act shall take effect in 120
+17     days.
+F6L25JAM/20070H1721B2280        - 45 -

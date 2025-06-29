@@ -1,0 +1,292 @@
+7     Section 1.  Sections 1328, 1329, 1330 and 1602 of Title 25 of
+8  the Pennsylvania Consolidated Statutes are amended to read:
+9  § 1328.  Approval of registration applications.
+10     (a)  Examination.--Upon receiving a voter registration
+11  application, a commissioner, clerk or registrar of a commission
+12  shall do all of the following:
+13         (1)  Initial and date the receipt of the application.
+14         (1.1)  Notify by means of a postcard addressed to the
+15     applicant that the application has been received. This notice
+16     shall be given to the applicant no later than 20 days prior
+17     to the election.
+1         (2)  Examine the application to determine all of the
+2     following:
+3             (i)  Whether the application is complete.
+4             (ii)  Whether the applicant is a qualified elector.
+5             (iii)  Whether the applicant has an existing
+6         registration record. After the commission is connected to
+7         the SURE system, the commissioner, clerk or registrar
+8         shall search the SURE system on a Statewide basis to
+9         determine if the applicant has an existing registration
+10         record.
+11             (iv)  Whether the applicant is entitled or qualified
+12         to receive the requested transfer or change, if
+13         applicable.
+14     (b)  Decision.--A commission shall do one of the following:
+15         (1)  Record and forward a voter registration application
+16     to the proper commission if the commission finds during its
+17     examination under subsection (a) that the applicant does not
+18     reside within the commission's county but resides elsewhere
+19     in this Commonwealth.
+20         (2)  Reject a voter registration application, indicate
+21     the rejection and the reasons for the rejection on the
+22     application and notify the applicant by first class
+23     nonforwardable mail, return postage guaranteed of the
+24     rejection and the reason if the commission finds during its
+25     examination under subsection (a) any of the following:
+26             (i)  The application was not properly completed and,
+27         after reasonable efforts by the commission to ascertain
+28         the necessary information, the application remains
+29         incomplete or inconsistent.
+30             (ii)  The applicant is not a qualified elector.
+1             (iii)  The applicant is not entitled to a transfer of
+2         registration or a change of address.
+3             (iv)  The applicant is not legally qualified for a
+4         change of name.
+5     A rejection shall be made no later than [ten] 15 days before
+6     the election succeeding the filing of the application.
+7         (3)  Process a voter registration application in
+8     accordance with subsection (c) if the commission finds during
+9     its examination under subsection (a) all of the following:
+10             (i)  The application requests registration.
+11             (ii)  The application contains the required
+12         information indicating that the applicant is a qualified
+13         elector of the county.
+14         (4)  Process a voter registration application in
+15     accordance with subsection (c) and update its registration
+16     records if the commission finds during its examination under
+17     subsection (a) all of the following:
+18             (i)  The application requests registration.
+19             (ii)  The application contains the required
+20         information indicating that the applicant is a qualified
+21         elector of the county.
+22             (iii)  The applicant is currently a registered
+23         elector of the county.
+24         (5)  Process a voter registration application in
+25     accordance with subsection (c) and request transfer of
+26     registration records in accordance with subsection (d) if the
+27     commission finds during its examination under subsection (a)
+28     all of the following:
+29             (i)  The application requests registration.
+30             (ii)  The application contains the required
+1         information indicating that the applicant is a qualified
+2         elector of the county.
+3             (iii)  The applicant is currently a registered
+4         elector of another county.
+5         (6)  Process a voter registration application in
+6     accordance with subsection (c) and request transfer of
+7     registration records in accordance with subsection (d) if the
+8     commission finds during its examination under subsection (a)
+9     all of the following:
+10             (i)  The application requests a transfer of
+11         registration.
+12             (ii)  The application contains the required
+13         information indicating that the applicant is a qualified
+14         elector of the county.
+15             (iii)  The applicant is currently a registered
+16         elector of another county.
+17         (7)  Process a voter registration application in
+18     accordance with subsection (c) and update its registration if
+19     the commission finds during its examination under subsection
+20     (a) all of the following:
+21             (i)  The application requests a change of address.
+22             (ii)  The application contains the required
+23         information indicating that the applicant is a qualified
+24         elector of the county.
+25             (iii)  The applicant is currently a registered
+26         elector of the county.
+27         (8)  Process a voter registration application in
+28     accordance with subsection (c) and update its registration
+29     records if the commission finds during its examination under
+30     subsection (a) all of the following:
+1             (i)  The application requests a change of name.
+2             (ii)  The applicant is legally qualified to a change
+3         of name.
+4             (iii)  The application contains the required
+5         information indicating that the applicant is a qualified
+6         elector of the county.
+7             (iv)  The applicant is currently a registered elector
+8         of the county.
+9     (c)  Processing of voter registration.--
+10         (1)  When a commission has accepted a voter registration
+11     application under subsection (b)(3), the commission shall
+12     assign each applicant a unique identification number in the
+13     SURE system. The commission shall mail a wallet-sized voter's
+14     identification card to the individual by first class
+15     nonforwardable mail, return postage guaranteed, which shall
+16     serve as notice of the acceptance of the application. [The
+17     card shall contain all of the following:] The card shall be
+18     mailed no later than 14 days prior to the election and shall
+19     contain all of the following:
+20             (i)  Name and address of the individual.
+21             (ii)  Name of municipality of residence.
+22             (iii)  Identification of the individual's ward and
+23         district.
+24             (iv)  The effective date of registration.
+25             (v)  Designation of party enrollment and date of
+26         enrollment.
+27             (vi)  A space for the individual's signature or mark.
+28             (vii)  The unique identification number of the
+29         individual.
+30             (viii)  A statement that the individual must notify
+1         the commission within [ten] five business days from the
+2         date it was mailed if any information on the card is
+3         incorrect; otherwise, the information shall be deemed
+4         correct for voter registration purposes.
+5         (2)  When a commission has accepted a voter registration
+6     application under subsection (b)(4), (5), (6), (7) or (8),
+7     the commission shall mail a wallet-sized voter's
+8     identification card to the individual by first class
+9     nonforwardable mail, return postage guaranteed, which shall
+10     serve as notice of the acceptance of the application. [The
+11     card shall contain all of the following:] The card shall be
+12     mailed no later than 14 days prior to the election and shall
+13     contain all of the following:
+14             (i)  Name and address of the individual.
+15             (ii)  Name of municipality of residence.
+16             (iii)  Identification of the individual's ward and
+17         district.
+18             (iv)  The effective date of registration.
+19             (v)  Designation of party enrollment and date of
+20         enrollment.
+21             (vi)  A space for the individual's signature or mark.
+22             (vii)  The SURE registration number of the
+23         individual.
+24             (viii)  A statement that the individual must notify
+25         the commission within [ten] five business days from the
+26         date it was mailed if any information on the card is
+27         incorrect; otherwise, the information shall be deemed
+28         correct for voter registration purposes.
+29         (3)  An envelope containing a voter identification card
+30     shall be marked on the outside with a request to the
+1     postmaster to return it within five days if it cannot be
+2     delivered to the addressee at the address given.
+3         (4)  (i)  If an envelope containing a voter
+4         identification card has been mailed in accordance with
+5         paragraphs (1) and (3) and has not been returned to the
+6         commission by the postmaster within ten days from the
+7         date it was mailed, the individual shall be deemed a
+8         registered elector of the county and the commission shall
+9         enter the individual's registration information in the
+10         general register. The unique identification number shall
+11         be entered as the registered elector's SURE registration
+12         number. No person shall be deemed a registered elector of
+13         the county until ten days after the voter identification
+14         card has been mailed.
+15             (ii)  If an envelope containing a voter
+16         identification card has been mailed in accordance with
+17         paragraphs (2) and (3) and has not been returned to the
+18         commission by the postmaster within ten days from the
+19         date it was mailed, the individual shall be deemed a
+20         registered elector of the county and the commission shall
+21         enter the individual's registration information in the
+22         general register. No person shall be deemed a registered
+23         elector of the county until ten days after the voter
+24         identification card has been mailed.
+25             [(5)]  (iii)  If an envelope containing a voter
+26         identification card is returned by the postmaster because
+27         the envelope is undeliverable at the given address, the
+28         commission shall investigate. If the commission finds
+29         that the individual is not qualified to register from the
+30         address, the commission shall reject the application and
+1         shall notify the individual by first class forwardable
+2         mail of this action.
+3     (d)  Transfer of registration records.--
+4         (1)  If, during application, an individual discloses that
+5     the individual is a registered elector of another county, the
+6     commission of the individual's new county of residence shall
+7     direct a cancellation notice to the commission of the
+8     individual's former county of residence in accordance with
+9     regulations promulgated under this part.
+10         (2)  Upon receipt of a notice transmitted in accordance
+11     with paragraph (1), the commission of the individual's former
+12     county of residence shall investigate. If the commission
+13     finds that the individual is a registered elector of the
+14     county, the commission shall verify the address change with
+15     the registered elector in accordance with this part. Upon
+16     verifying that the registered elector has moved to another
+17     county of residence, the commission shall cancel the
+18     registered elector's registration, transfer a copy of the
+19     canceled registration record to the commission of the
+20     registered elector's new county of residence and retain a
+21     record of the transfer. The commission of both counties shall
+22     promptly update information contained in their registration
+23     records.
+24     (e)  Challenges.--All challenges to applications for
+25  registration shall be made as provided in section 1329 (relating
+26  to challenges).
+27  § 1329.  Challenges.
+28     (a)  Standing.--An individual claiming the right to be
+29  registered may be challenged by a commissioner, registrar or
+30  clerk or by a qualified elector of the municipality.
+1     (b)  Complaint.--To make a challenge, a complainant must file
+2  a challenge affidavit in a form prescribed by the secretary
+3  containing the following information:
+4         (1)  Name of challenged individual.
+5         (2)  Address of challenged individual.
+6         (3)  Name of complainant.
+7         (4)  Address of complainant.
+8         (5)  Date of affidavit.
+9         (6)  Reason for challenge.
+10     (c)  Response.--An individual who is challenged must respond
+11  to the challenge affidavit as set forth in subsection (b) in a
+12  written statement sworn or affirmed by the individual. [The
+13  challenged individual must produce such other evidence as may be
+14  required to satisfy the registrar or commissioner as to the
+15  individual's qualifications as a qualified elector.] The
+16  challenged individual must produce sufficient evidence to
+17  satisfy the registrar or commissioner as to the individual's
+18  qualification as a qualified elector. A receipt or stamped
+19  application, administered by the county voter registration
+20  office or Department of Transportation shall establish a
+21  presumption of registration.
+22     (d)  Resolution.--If the challenged individual establishes to
+23  the satisfaction of the commission the right to be registered as
+24  required by this part, the challenged individual shall be
+25  registered. If the challenged individual does not establish to
+26  the satisfaction of the commission the right to be registered as
+27  provided in this part, the challenged individual's registration,
+28  if any, shall be canceled, and the commission shall promptly
+29  update information contained in its registration records.
+30  § 1330.  Appeals.
+1     (a)  Right.--An individual whose application to be registered
+2  has been denied may file with the commission a petition to be
+3  registered, setting forth the grounds of the petition under oath
+4  or affirmation. The petition must be filed by the [15th] seventh
+5  business day prior to an election.
+6     (b)  Hearing.--
+7         (1)  The commission shall fix a time for a public hearing
+8     at its office not later than the [tenth] fifth business day
+9     prior to the election.
+10         (2)  The commission shall give the person responsible for
+11     the rejection 48 hours' notice of the hearing.
+12         (3)  At the hearing, a clerk, inspector of registration
+13     or qualified elector of the county may offer evidence as to
+14     why the petitioner should not be registered.
+15         (4)  The commission, if satisfied that the petitioner is
+16     entitled to be registered, shall direct registration.
+17  § 1602.  Court of common pleas.
+18     (a)  Standing.--The following have standing to appeal an
+19  action of a commission to the appropriate court of common pleas:
+20         (1)  An applicant whose claim for registration has been
+21     denied.
+22         (2)  An individual whose registration has been canceled
+23     by a commission.
+24         (3)  A qualified elector of a municipality whose rights
+25     are impaired by any general order made by a commission.
+26     (b)  Time.--An appeal under subsection (a) must be made by
+27  the [seventh] fifth day preceding an election.
+28     (c)  Grounds.--The appeal must request relief and set forth
+29  the grounds for relief.
+30     (d)  Hearing.--Upon timely receipt of an appeal under this
+1  section, the court shall conduct a hearing.
+2     (e)  Order.--If the court finds that an injustice has been
+3  done, it shall reverse or modify the ruling of the commission
+4  and issue appropriate injunctive relief.
+5     (f)  Costs.--
+6         (1)  Except as provided in paragraph (2), the court may
+7     award costs for the appeal to the prevailing party.
+8         (2)  Costs may not be assessed against a commission or a
+9     county.
+10     Section 2.  This act shall take effect in 60 days.
+D18L25JLW/20050H1744B2231       - 11 -

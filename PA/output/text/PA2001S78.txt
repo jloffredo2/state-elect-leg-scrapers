@@ -1,0 +1,84 @@
+5  Section 1.  Short title.
+6     This act shall be known and may be cited as the Uniform
+7  Voting Procedures Act.
+8  Section 2.  Definitions.
+9     The following words and phrases when used in this act shall
+10  have the meanings given to them in this section unless the
+11  context clearly indicates otherwise:
+12     "County."  A county of this Commonwealth.
+13     "County board."  A county board of elections of a county.
+14     "Department."  The Department of State of the Commonwealth.
+15     "District election board."  The election officers conducting
+16  elections in an election district in accordance with the act of
+17  June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania
+1  Election Code.
+2     "Election."  A general, municipal, special or primary
+3  election.
+4     "Election district."  A district, division or precinct,
+5  established in accordance with the provisions of the act of June
+6  3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election
+7  Code, within which all qualified electors vote at one polling
+8  place.
+9     "Qualified elector."  A person who possesses all of the
+10  qualifications for voting now or hereafter prescribed by the
+11  Constitution of the Commonwealth of Pennsylvania, or who, being
+12  otherwise qualified by continued residence in that person's
+13  election district, obtains such qualifications before the next
+14  ensuing election.
+15     "Uniform voting procedures."  A standardized process for
+16  qualified electors to identify themselves at the polls, cast
+17  their votes, and have their votes accurately and securely
+18  recorded and transmitted to a county board. The term also
+19  includes a standardized procedure for voting by absentee ballot.
+20  Section 3.  Uniform voting procedures.
+21     (a)  Development and implementation.--
+22         (1)  The department shall develop and implement uniform
+23     voting procedures that shall be used at all elections held in
+24     this Commonwealth. In developing and implementing uniform
+25     voting procedures, the department may use any available
+26     research and reports issued by Federal or State agencies
+27     relevant to developing and implementing uniform voting
+28     procedures, including any research, reports and
+29     recommendations issued by the Joint State Government
+30     Commission.
+1         (2)  Prior to implementing uniform voting procedures, the
+2     department shall receive input from counties, including
+3     comments and recommendations from members of county boards
+4     and district election boards.
+5     (b)  Criteria for uniform voting procedures.--In developing
+6  and implementing uniform voting procedures, the department shall
+7  use, but is not limited to, the following criteria:
+8         (1)  The procedures shall be easy for qualified electors
+9     to understand and use. In order to assist the district
+10     election board in confirming a qualified elector's
+11     registration and in resolving registration problems, the
+12     procedures may include the use by qualified electors of an
+13     identification card that may be read at the polling place by
+14     a computer linking the district election board directly to
+15     the county board.
+16         (2)  The procedures shall protect the privacy of
+17     qualified electors and the security of their voters and shall
+18     prevent voter fraud.
+19         (3)  The procedures shall provide prompt and accurate
+20     election results from the district election board to the
+21     county board, media and public. The procedures may include a
+22     computer network that directly links the district election
+23     board at the polling place to the county board for prompt and
+24     secure transmission of election results.
+25         (4)  The procedures shall be standardized for use at all
+26     elections held in this Commonwealth. The procedures may not
+27     include punch cards and other voting methods that could
+28     potentially result in incorrect voting such as double voting.
+29         (5)  The procedures shall use technological advances
+30     including systems that utilize touch-screen computers and the
+1     Internet.
+2  Section 4.  Repeals.
+3     All acts and parts of acts are repealed insofar as they are
+4  inconsistent with the provisions of this act.
+5  Section 5.  Applicability.
+6     The uniform voting procedures developed pursuant to this act
+7  shall be implemented and applied to all elections held in this
+8  Commonwealth on or after January 1, 2002.
+9  Section 6.  Effective date.
+10     This act shall take effect immediately.
+L22L25DMS/20010S0078B0087        - 4 -

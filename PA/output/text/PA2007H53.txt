@@ -1,0 +1,143 @@
+16     Section 1.  Section 1112-A(a) of the act of June 3, 1937
+17  (P.L.1333, No.320), known as the Pennsylvania Election Code, is
+18  amended by adding a paragraph to read:
+19     Section 1112-A.  Election Day Procedures and the Process of
+1  Voting.--(a)  In an election district which uses an electronic
+2  voting system in which votes are registered electronically, the
+3  following procedures will be applicable for the conduct of the
+4  election at the election district:
+5     * * *
+6     (4.1)  The voting system, pursuant to section 1112.1-A, shall
+7  produce or require the use of an individual voter-verified paper
+8  record of the voter's vote that shall be made available for
+9  inspection and verification by the voter before the voter's vote
+10  is cast.
+11     * * *
+12     Section 2.  The act is amended by adding a section to read:
+13     Section 1112.1-A.  Voter-verified Record.--(a)  Voting
+14  systems required to produce an individual voter-verified paper
+15  record under section 1112-A(a)(4.1) shall do so pursuant to this
+16  section.
+17     (b)  A voter-verified paper record may include any of the
+18  following:
+19     (1)  A paper ballot prepared by the voter for the purpose of
+20  being read by an optical scanner.
+21     (2)  A paper ballot prepared by the voter to be mailed to an
+22  election official, whether from a domestic or overseas location.
+23     (3)  A paper ballot created through the use of a ballot
+24  marking device.
+25     (4)  A paper printout of the voter's vote produced by a touch
+26  screen or other electronic voting machine if, in each case, the
+27  record permits the voter to verify the record in accordance with
+28  this section.
+29     (c)  The voting system shall do all of the following:
+30     (1)  Provide the voter with an opportunity to correct any
+1  error made by the system in the voter-verified paper record
+2  before the permanent voter-verified paper record is preserved in
+3  accordance with this section.
+4     (2)  Not preserve the voter-verifiable paper records in any
+5  manner that makes it possible to associate a voter with the
+6  record of the voter's vote.
+7     (d)  The permanent voter-verified paper record produced in
+8  accordance with this section shall be preserved as follows:
+9     (1)  In the case of votes cast at the polling place on the
+10  date of the election, within the polling place in the manner or
+11  method in which all other paper ballots are preserved within
+12  such polling place.
+13     (2)  In the case of votes cast at the polling place prior to
+14  the date of the election or cast by mail, in a manner which is
+15  consistent with the manner employed by the jurisdiction for
+16  preserving such ballots in general.
+17     (3)  In the absence of either manner or method listed in
+18  clauses (1) and (2), in a manner which is consistent with the
+19  manner employed by the jurisdiction for preserving paper ballots
+20  in general.
+21     (e)  Each permanent paper record produced shall be suitable
+22  for a mandatory manual audit pursuant to subsection (f). In the
+23  event of any inconsistencies or irregularities between any
+24  electronic records and the individual permanent paper records,
+25  the individual permanent paper records shall be the true and
+26  correct record of the votes cast.
+27     (f)  (1)  Each county shall conduct mandatory hand counts of
+28  the voter-verified paper records in at least five (5) per centum
+29  of the precincts.
+30     (2)  (i)  As soon as practical following the closing of the
+1  polls, the county board of elections shall do all of the
+2  following:
+3     (A)  Complete the initial vote count for every precinct
+4  participating in the election in that county and publicly
+5  announce the results of each initial vote count as soon as the
+6  results are available.
+7     (B)  Publicly conduct a random drawing as specified in clause
+8  (3) to determine which of the precincts in the county will be
+9  selected for the mandatory hand counts of the voter-verified
+10  paper records as specified in clause (1). A drawing shall not
+11  occur until such time as all initial vote counts have been
+12  completed and the results publicly announced, but no later than
+13  forty-eight hours after that time.
+14     (C)  Publicly announce the date, time and location of the
+15  public random drawing at least twenty-four hours before the
+16  drawing is conducted.
+17     (D)  Publicly announce the date, time and location of the
+18  public mandatory hand counts at least twenty-four hours before
+19  the hand counts are initiated.
+20     (E)  Initiate mandatory hand counts of the voter-verified
+21  paper records in the precincts selected as specified in
+22  paragraph (B) no later than forty-eight hours after the
+23  selection of precincts is made.
+24     (F)  Complete hand counts no later than twenty-four hours
+25  after the hand counts are initiated and publicly announce the
+26  results of each mandatory hand count as soon as the results are
+27  available.
+28     (ii)  With respect to votes cast at the precinct or
+29  equivalent location on or before the date of the election, other
+30  than provisional ballots, the county board of elections shall
+1  require to be counted by hand the voter-verified paper records
+2  and compare those records with the initial count of the votes as
+3  announced by the precinct.
+4     (iii)  With respect to votes cast other than at the precinct
+5  on the date of the election or votes cast by provisional ballot
+6  on the date of the election which are certified and counted by
+7  the county on or after the date of the election, including votes
+8  cast by absent uniformed services voters and overseas voters,
+9  the county board of elections shall count by hand the applicable
+10  voter-verified paper records and compare its count with the
+11  machine tally of those votes.
+12     (3)  The selection of the precincts in a county in which the
+13  county board of elections shall conduct hand counts of the
+14  voter-verified paper records as specified in this subsection
+15  shall be made publicly by the county board of elections on an
+16  entirely random basis using a uniform distribution in which all
+17  precincts in a county have an equal chance of being selected.
+18  The timing of when the random selection is made shall be
+19  specified in clause (2)(i).
+20     (4)  If the county board of elections finds that any of the
+21  hand counts conducted under this subsection show a discrepancy
+22  between the hand count and the initial vote count in a
+23  jurisdiction within the county, the county board of elections
+24  shall conduct hand counts under this subsection at such
+25  additional precincts within the county as the county board of
+26  elections considers appropriate to resolve any concerns and
+27  ensure the accuracy of the results.
+28     (5)  (i)  As soon as practicable after the completion of an
+29  audit conducted under this subsection, the county board of
+30  elections shall announce and publish the results of the audit
+1  and shall include in the announcement a comparison of the
+2  results of the election in the precinct as determined by the
+3  county board of elections under the audit and the initial vote
+4  count in the precinct as announced by the county board of
+5  elections as specified in clause (2)(i)(A), broken down by the
+6  categories of votes described in clause (2)(ii) and (iii). Any
+7  discrepancies between the corresponding audit results and
+8  initial vote counts shall be duly noted, along with a
+9  description of the actions taken by the county board of
+10  elections for resolution of the discrepancies.
+11     (ii)  No county may certify the results of any election which
+12  is subject to an audit under this subsection prior to the
+13  completion of the audit and the announcement and publication of
+14  the results of the audit under subclause (i).
+15     Section 3.  The addition of sections 1112-A(a)(4.1) and
+16  1112.1-A shall apply to elections occurring one year or more
+17  after the effective date of this section.
+18     Section 4.  This act shall take effect in 60 days.
+A10L25RLE/20070H0053B0078        - 6 -

@@ -1,0 +1,286 @@
+15     Section 1.  Section 918 of the act of June 3, 1937 (P.L.1333,
+16  No.320), known as the Pennsylvania Election Code, is amended to
+17  read:
+18     Section 918.  Presidential Electors; Selection by Nominees;
+19  Certification; Vacancies.--The nominee of each political party
+20  for the office of President of the United States shall, within
+21  thirty days after his nomination by the National convention of
+22  such party, nominate [as many persons to be the candidates of
+1  his party for the office of presidential elector as the State is
+2  then entitled to] one presidential elector from each
+3  congressional district and two at-large presidential electors.
+4  If for any reason the nominee of any political party for
+5  President of the United States fails or is unable to make the
+6  said nominations within the time herein provided, then the
+7  nominee for such party for the office of Vice-President of the
+8  United States shall, as soon as may be possible after the
+9  expiration of thirty days, make the nominations. The names of
+10  such nominees, with their residences and post-office addresses,
+11  shall be certified immediately to the Secretary of the
+12  Commonwealth by the nominee for the office of President or Vice-
+13  President, as the case may be, making the nominations. Vacancies
+14  existing after the date of nomination of presidential electors
+15  shall be filled by the nominee for the office of President or
+16  Vice-President making the original nomination. Nominations made
+17  to fill vacancies shall be certified to the Secretary of the
+18  Commonwealth in the manner herein provided for in the case of
+19  original nominations.
+20     Section 2.  Section 1003(a) of the act, amended December 10,
+21  1974 (P.L.835, No.280), is amended to read:
+22     Section 1003.  Form of Official Election Ballot.--
+23     (a)  The official ballots for general, municipal and special
+24  elections shall be in substantially the following form:
+25                          OFFICIAL BALLOT
+26  ........... District, ........... Ward, City of ...............,
+27  County of ................., State of Pennsylvania ............
+28  Election held on the ..... day of .........., 19.. A cross (X)
+1  or check ( ) mark in the square opposite the name of any
+2  candidate indicates a vote for that candidate.
+3     To vote a straight party ticket, mark a cross (X) or check
+4  ( ) in the square, in the Party Column, opposite the name of the
+5  party of your choice. To vote for an individual candidate of
+6  another party after making a mark in the party square, mark a
+7  cross (X) or check ( ) opposite his name. For an office where
+8  more than one candidate is to be voted for, the voter, after
+9  marking in the party square, may divide his vote by marking a
+10  cross (X) or check ( ) to the right of each candidate for whom
+11  he or she desires to vote. For such office votes shall not be
+12  counted for candidates not individually marked.
+13     To vote for a person whose name is not on the ballot, write,
+14  print or paste his name in the blank space provided for that
+15  purpose. A cross (X) or check ( ) mark in the square opposite
+16  the names of the candidates of any party for President and Vice-
+17  President of the United States indicates a vote for [all the
+18  candidates of that party for presidential elector.] the
+19  candidate of that party for presidential elector who is from the
+20  voter's congressional district and the two at-large candidates
+21  of that party for presidential elector. To vote for individual
+22  candidates for presidential elector, write, print or paste their
+23  names in the blank spaces provided for that purpose under the
+24  title "Presidential Electors." Mark ballot only in black lead
+25  pencil, indelible pencil or blue, black or blue-black ink, in
+26  fountain pen or ball point pen; use the same pencil or pen for
+27  all markings you place on the ballot.
+28     Before leaving the voting compartment, fold this ballot,
+29  without displaying the markings thereon, in the same way it was
+30  folded when received, then leave the compartment and exhibit the
+1  ballot to one of the election officers who shall ascertain by an
+2  inspection of the number appearing upon the right hand corner of
+3  the back of the ballot whether the ballot so exhibited to him is
+4  the same ballot which the elector received before entering the
+5  voting compartment. If it is the same, the election officer
+6  shall direct the elector, without unfolding the ballot, to
+7  remove the perforated corner containing the number, and the
+8  elector shall immediately deposit the ballot in the ballot box.
+9  Any ballot deposited in a ballot box at any primary or election
+10  without having the said number torn off shall be void and shall
+11  not be counted.
+12          Party Column                 Presidential Electors
+13  To Vote a Straight Party Ticket    (Vote for the candidates of
+14  Mark a Cross (X) or Check ( ) in   one party for President and
+15  this Column.                       Vice-President, or insert the
+16                                     names of candidates.)
+17                                       For
+18          Democratic                 John Stiles
+19                                       and
+20                                     Richard Doe,
+21                                     Democratic ..................
+22                                       For
+23          Republican                 John Doe
+24                                       and
+25                                     Richard Roe,
+26                                     Republican ..................
+27                                       For
+28          Socialist                  John Smith
+1                                       and
+2                                     William Jones,
+3                                     Socialist ...................
+4          Citizens
+5                       United States Senator.
+6                           (Vote for one)
+7  Richard Roe ...................................... Democratic
+8  John Doe ......................................... Republican
+9  Richard Stiles ................................... Socialist
+10                             Governor.
+11                           (Vote for one)
+12  Richard Roe ...................................... Democratic
+13  John Doe ......................................... Republican
+14  Richard Stiles ................................... Socialist
+15                    Representative in Congress,
+16                         ....... District.
+17                           (Vote for one)
+18  Richard Roe ...................................... Democratic
+19  John Doe ......................................... Republican
+20  Richard Stiles ................................... Socialist
+21                  Senator in the General Assembly,
+22                         ....... District.
+23                           (Vote for one)
+24  John Doe ........................................ Democratic
+25  Richard Roe ..................................... Republican
+26     * * *
+27     Section 3.  Section 1107(b) of the act is amended to read:
+28     Section 1107.  Requirements of Voting Machines.--No voting
+29  machine shall, upon any examination or reexamination, be
+30  approved by the Secretary of the Commonwealth, or by any
+1  examiner appointed by him, unless it shall, at the time, satisfy
+2  the following requirements:
+3     * * *
+4     (b) It shall permit each voter, at other than primary
+5  elections, to vote a straight political party ticket in one
+6  operation, and, in one operation, to vote for [all the
+7  candidates of one political party for presidential electors,]
+8  the candidate of one party for presidential elector who is from
+9  the voter's congressional district and the two at-large
+10  candidates of the same party for presidential elector, and, in
+11  one operation, to vote for all the candidates of one political
+12  party for every office to be voted for, except those offices as
+13  to which he votes for individual candidates.
+14     * * *
+15     Section 4.  Sections 1107-A(3) and 1112-A(a)(4) and (b)(4) of
+16  the act, added July 11, 1980 (P.L.600, No.128), are amended to
+17  read:
+18     Section 1107-A.  Requirements of Electronic Voting Systems.--
+19  No electronic voting system shall, upon any examination or
+20  reexamination, be approved by the Secretary of the Commonwealth,
+21  or by any examiner appointed by him, unless it shall be
+22  established that such system, at the time of such examination or
+23  reexamination:
+24     * * *
+25     (3)  Permits each voter, at other than primary elections, to
+26  vote a straight political party ticket by one mark or act and,
+27  by one mark or act, to vote for [all the candidates of one
+28  political party for presidential electors] the candidate of one
+29  party for presidential elector who is from the voter's
+30  congressional district and the two at-large candidates of the
+1  same party for presidential elector and, by one mark or act, to
+2  vote for all the candidates of one political party for every
+3  office to be voted for, and every such mark or act shall be
+4  equivalent to and shall be counted as a vote for every candidate
+5  of the political party so marked including its candidates for
+6  presidential electors, except with respect to those offices as
+7  to which the voter has registered a vote for individual
+8  candidates of the same or another political party or political
+9  body, in which case the automatic tabulating equipment shall
+10  credit the vote for that office only for the candidate
+11  individually so selected, notwithstanding the fact that the
+12  voter may not have individually voted for the full number of
+13  candidates for that office for which he was entitled to vote.
+14     * * *
+15     Section 1112-A.  Election Day Procedures and the Process of
+16  Voting.--(a)  In an election district which uses an electronic
+17  voting system in which votes are registered electronically, the
+18  following procedures will be applicable for the conduct of the
+19  election at the election district:
+20     * * *
+21     (4)  At any general election at which presidential electors
+22  are to be chosen, each elector shall be permitted to vote by one
+23  operation for [all the presidential electors of a political
+24  party or political body.] the candidate of one political party
+25  for presidential elector who is from the voter's congressional
+26  district and the two at-large candidates of the same party for
+27  presidential elector. For each party or body nominating
+28  presidential electors, a ballot label shall be provided
+29  containing only the words "Presidential Electors," preceded by
+30  the names of the party or body and followed by the names of the
+1  candidates thereof for the Office of President and Vice-
+2  President, and the corresponding counter or registering device
+3  shall register votes cast for said electors when thus voted for
+4  collectively. If any elector desires to vote a ticket for
+5  presidential electors made up of the names of persons nominated
+6  by different parties or bodies, or partially of names of persons
+7  so in nomination and partially of names of persons not in
+8  nomination by any party or body, he may write or deposit a paper
+9  ballot prepared by himself in the receptacle provided in or on
+10  the voting device for that purpose, or he may list their names
+11  on the write-in ballot or envelope provided for that purpose.
+12  The voting device shall be so constructed that it will not be
+13  possible for any one voter to vote a straight party ticket for
+14  presidential electors and at the same time to deposit a ballot
+15  for presidential electors in a receptacle as hereinabove
+16  provided. When the votes for presidential electors are counted,
+17  the votes appearing upon the counter or registering device
+18  corresponding to the ballot label containing the names of the
+19  candidates for President and Vice-President of any party or body
+20  shall be counted as votes for each of the candidates for
+21  presidential elector of such party or body for whom the voter is
+22  permitted to vote, and thereupon all such candidates for
+23  presidential elector shall be credited, in addition, with the
+24  votes cast for them upon the ballots deposited in the machine,
+25  as hereinabove provided.
+26     * * *
+27     (b)  In an election district which uses an electronic voting
+28  system which utilizes paper ballots or ballot cards to register
+29  the votes, the following procedures will be applicable for the
+30  conduct of the election at the election district:
+1     * * *
+2     (4)  If the voter desires to vote for every candidate of a
+3  political party or political body, except its candidates for
+4  offices as to which he votes for individual candidates in the
+5  manner hereinafter provided, he may make a cross (X) or check
+6  ( ) or punch or mark sense mark in the square opposite the name
+7  of the party or political body so marked, including its
+8  candidates for presidential electors, except for those offices
+9  as to which he has indicated a choice for individual candidates
+10  of the same or another party or political body, by making a
+11  cross (X) or check ( ) or punch or mark sense mark opposite
+12  their names in the manner hereinabove provided, as to which
+13  offices his ballot shall be counted only for the candidates
+14  which he has thus individually marked, notwithstanding the fact
+15  that he made a mark in the party column, and even though in the
+16  case of an office for which more than one candidate is to be
+17  voted for, he has not individually marked for such office the
+18  full number of candidates for which he is entitled to vote. If
+19  he desires to vote for [the entire group of presidential
+20  electors nominated by any party or political body] the candidate
+21  of one party for presidential elector who is from his
+22  congressional district and the two at-large candidates of the
+23  same party for presidential elector, he may make a cross (X) or
+24  check ( ) or punch or mark sense mark in the appropriate space
+25  opposite the names of the candidates for President and Vice-
+26  President of such party or body. If he desires to vote a ticket
+27  for presidential electors made up of the names of persons
+28  nominated by different parties or political bodies, or partially
+29  of names of persons so in nomination and partially of names of
+30  persons not in nomination by any party or political body, or
+1  wholly of names of persons not in nomination by any party or
+2  political body, he shall insert the names of the candidates for
+3  presidential electors for whom he desires to vote in the blank
+4  spaces provided therefor on the write-in ballot under the title
+5  of the office "Presidential Electors". In case of a question
+6  submitted to the vote of the electors, he may make a cross (X)
+7  or check ( ) or punch or mark sense mark in the appropriate
+8  square opposite the answer which he desires to give.
+9     * * *
+10     Section 5.  Sections 1501 and 1502 of the act are amended to
+11  read:
+12     Section 1501.  Election of Presidential Electors.--At the
+13  general election to be held in the year 1940, and every fourth
+14  year thereafter, there shall be elected by the qualified
+15  electors of the Commonwealth, persons to be known as electors of
+16  President and Vice-President of the United States, and referred
+17  to in this act as presidential electors, equal in number to the
+18  whole number of senators and representatives to which this State
+19  may be entitled in the Congress of the United States. Each vote
+20  cast for the candidates for President and Vice-President of a
+21  party shall be counted as one vote for the candidates'
+22  presidential elector from the congressional district in which
+23  the elector is qualified to vote and one vote for each of the
+24  candidates' at-large presidential electors.
+25     Section 1502.  Meeting of Electors; Duties.--The electors
+26  chosen, as aforesaid, shall assemble at the seat of government
+27  of this Commonwealth, at 12 o'clock noon of the day which is, or
+28  may be, directed by the Congress of the United States, and shall
+29  then and there perform the duties enjoined upon them by the
+30  Constitution and laws of the United States and the laws of this
+1  Commonwealth.
+2     Section 6.  The act is amended by adding a section to read:
+3     Section 1503.1.  Casting of Ballots.--The presidential
+4  electors at-large shall cast their ballots for the presidential
+5  and vice-presidential candidates who received the highest number
+6  of votes in the State. The presidential electors of each
+7  congressional district shall cast their ballots for the
+8  presidential and vice-presidential candidates who received the
+9  highest number of votes in each of their respective
+10  congressional districts.
+11     Section 7.  This act shall take effect July 1, 2001.
+C21L25RZ/20020H2453B3490        - 11 -

@@ -1,0 +1,225 @@
+15     Section 1.  The act of June 3, 1937 (P.L.1333, No.320), known
+16  as the Pennsylvania Election Code, is amended by adding an
+17  article to read:
+18                            ARTICLE XI-B
+19                      Internet Voting Systems
+20     Section 1101-B.  Definitions.--As used in this article:
+21     "Clean operating system" means a copy of a computer operating
+22  system that has been provided by the Secretary of the
+1  Commonwealth and is certified by the secretary to be free of any
+2  malicious software coding that could disrupt or invalidate an
+3  election.
+4     "Computer virus" means any type of computer program that
+5  includes coding intended to cause damage or do something
+6  malicious to a computer system such as corrupting files or
+7  destroying or altering data.
+8     "Decryption key" means an electronic key used by county
+9  election officials to decrypt the encrypted ballots into a plain
+10  text form that is convenient for canvassing.
+11     "Denial of service attack" means an attack that generates
+12  enough traffic to an Internet site that it denies service to
+13  legitimate users.
+14     "Internet voting machine" means a voting machine that allows
+15  the elector to cast a ballot over the Internet by means of a
+16  connection to an Internet voting system.
+17     "Internet voting system" means a secure networked electronic
+18  election system, as described in section 1106-B.
+19     "PIN" means a personal identification number issued by the
+20  Secretary of the Commonwealth for use in counties utilizing
+21  Internet voting systems.
+22     "Secretary."  The Secretary of the Commonwealth.
+23     Section 1102-B.  Powers and Duties.--(a)  The secretary shall
+24  establish all standards and adopt all rules and regulations
+25  required to be adopted by the secretary under this article. The
+26  secretary shall take all steps necessary to implement the
+27  Internet elections services authorized by this article for the
+28  election immediately following the election at which the
+29  enactment of this article is approved by the electors.
+30     (b)  The secretary, utilizing the best and most secure method
+1  available, shall generate a data base of unique PINs for each
+2  county that will be using an Internet voting system to assign to
+3  electors.
+4     (c)  The secretary shall design and certify a clean operating
+5  system for use in the Internet voting systems that shall be
+6  easily and readily usable by the election districts. At least
+7  twenty days prior to the election, the secretary shall provide
+8  to the counties a sufficient number of copies of the operating
+9  system for each polling place within the counties.
+10     Section 1103-B.  Authorization of Internet Voting Systems for
+11  Use at Polling Places.--Any county may, by a majority vote of
+12  its qualified registered electors voting thereon cast at any
+13  election, authorize and direct the use of an Internet voting
+14  system for registering or recording and computing the vote at
+15  all elections and primaries held at polling places in that
+16  county.
+17     Section 1104-B.  Placing the Question on the Ballot; Election
+18  Thereon.--(a)  In accordance with section 1103-A, the county
+19  board may, upon their own motion, submit to the qualified
+20  registered electors of the county, at any election, the question
+21  "Shall an Internet voting system be used at polling places in
+22  the (county) of . . . . . . . .?"
+23     (b)  The county board, upon the filing of a petition signed
+24  by qualified registered electors of the county, equal in number
+25  to at least ten (10) per centum of the total number of electors
+26  who voted in said county at the preceding gubernatorial
+27  election, but in no case less than fifty, shall, at the next
+28  election, occurring at least sixty days thereafter, submit to
+29  the qualified registered electors of such county, the question
+30  "Shall an Internet voting system be used at polling places in
+1  the county of . . . . . . . . .?"
+2     Section 1105-B.  Installation of Internet Voting Systems.--
+3  (a)  If a majority of the qualified registered electors voting
+4  on the question in any county vote in favor of the adoption of
+5  an Internet voting system, the county board of that county shall
+6  purchase, lease or otherwise procure for each election district
+7  of such county, the components of an Internet voting system of a
+8  kind approved by the secretary. The board shall notify the
+9  secretary in writing that they have selected and purchased an
+10  approved Internet voting system.
+11     (b)  The installation throughout the county of the Internet
+12  voting system adopted by the county board shall follow the
+13  procedures established in section 1104-A.
+14     Section 1106-B.  Establishment of Standards and Process of
+15  Approval for Internet Voting Systems.--(a)  The secretary shall
+16  establish standards that an Internet voting system is required
+17  to satisfy before the Internet voting system may be issued a
+18  permit by the secretary authorizing its use for an elections
+19  purpose authorized by this article.
+20     (b)  To qualify for use in an election, an Internet voting
+21  system shall demonstrate the existing capacity to do all of the
+22  following:
+23     (1)  Provide for the secure identification and authentication
+24  of any information transmitted on the system, including, but not
+25  limited to, personal information required to be provided by
+26  qualified electors.
+27     (2)  Provide for the secure identification and authentication
+28  of all elections officials and electoral jurisdictions, their
+29  servers, and all other related electronic equipment being used
+30  by the elections officials and electoral jurisdictions
+1  supervising and responsible for voting.
+2     (3)  Protect the privacy, integrity and anonymity of each
+3  qualified elector's ballot.
+4     (4)  Prevent the casting of multiple ballots in any one
+5  election cycle by any qualified elector.
+6     (5)  Provide protection against tampering, fraudulent use,
+7  illegal manipulation or other abuse by voters, elections
+8  officials or any other individual or group.
+9     (6)  Legibly convey all information mandated by law to be
+10  included in the ballot for each qualified elector, including
+11  lists of all candidates for office and all ballot measures
+12  qualified to appear on the ballot, in any set or randomly
+13  generated order mandated by law.
+14     (7)  Provide the means by which qualified electors may cast
+15  write-in votes for candidates whose names do not appear on the
+16  ballot.
+17     (8)  Provide uninterrupted, reliable availability during the
+18  voting period established by law.
+19     (9)  Be readily accessible and easy to use for all qualified
+20  electors.
+21     (10)  Be usable by qualified electors with disabilities,
+22  consistent with the Americans with Disabilities Act of 1990
+23  (Public Law 101-336, 104 Stat. 327 § 12101).
+24     (11)  Be capable of being upgraded as technology improves.
+25     (12)  Be capable of archiving votes, allowing recounts and of
+26  being audited as to contents, results and process at a
+27  sufficient level to guarantee the integrity of the system and
+28  the public's confidence in its integrity.
+29     (13)  Be capable of transmitting encrypted information over a
+30  secure network.
+1     (14)  Be capable of establishing an Internet website that
+2  securely receives ballots, provides ballots to qualified
+3  electors that reflect the elections in their electoral
+4  jurisdictions and is maximally resistant to being interrupted or
+5  shut down by denial of service, computer virus or other attacks.
+6     (15)  Be capable of tabulating ballots cast to its Internet
+7  website.
+8     (16)  Be capable of providing qualified electors with
+9  receipts showing that their votes have been received without
+10  alteration, validated as coming from a qualified elector who has
+11  not yet cast a ballot and stored for counting.
+12     (c)  Before a question about the use of an Internet voting
+13  system may be placed upon the ballot in any county, the
+14  secretary shall approve and certify a sufficient number of
+15  systems for use within this Commonwealth to ensure adequate
+16  bidding opportunities.
+17     (d)  The secretary shall:
+18     (1)  Examine each proposed Internet voting system.
+19     (2)  Perform the tests necessary to establish that the
+20  Internet voting system conforms to the requirements of section
+21  1104-B and the standards adopted by the secretary pursuant to
+22  this section.
+23     (3)  Approve and certify that the Internet voting system is
+24  fit for use and issue a permit authorizing its use.
+25     (4)  Deny approval and certification of the Internet voting
+26  system which denial shall specify in writing the reasons
+27  therefore within thirty days of the submission of the request
+28  for approval.
+29     (e)  Once the secretary has approved and certified an
+30  Internet voting system, the system shall be designated as
+1  approved by the secretary for use by electors in all electoral
+2  jurisdictions within this Commonwealth.
+3     Section 1107-B.  Election Day Procedures and the Process of
+4  Voting.--(a)  In any county which uses an Internet voting
+5  system, the following procedures will be applicable for the
+6  conduct of the election at the election district:
+7     (1)  At least one hour before the time set for the opening of
+8  the polls at each election, the county board shall deliver to
+9  each election district a sealed copy of a clean operating system
+10  contained on suitable write-once media approved and provided by
+11  the secretary for use in starting the Internet voting machines.
+12     (2)  The members of the district election board shall arrive
+13  at the polling place at least one-half hour before the opening
+14  of the polls. Prior to the commencement of the election, the
+15  district election board shall inspect the district components of
+16  the Internet voting system to see that they are in proper
+17  working order and shall break the seal of the operating system
+18  and insert it into the Internet voting machine and start the
+19  machine.
+20     (3)  A qualified elector who wishes to utilize the Internet
+21  voting machine procedure shall be permitted to vote at any
+22  polling place within the elector's county of residence.
+23     (4)  A qualified elector, after receiving his PIN from
+24  district election officials, shall retire to one of the voting
+25  booths in which the Internet voting machines are located.
+26     (5)  The elector shall visit the Internet balloting web page
+27  for his county and authenticate himself to that server by
+28  entering his PIN and any personal information required for
+29  authentication and request a ballot.
+30     (6)  The server shall send an image of the appropriate ballot
+1  back to the elector.
+2     (7)  The elector shall mark the ballot with the keyboard,
+3  mouse or touch screen if the machine is so equipped.
+4     (8)  When the elector is finished making his choices, he
+5  shall click a button on the screen to send the ballot. A screen
+6  will then be displayed that shows all of the elector's choices
+7  for verification. When the elector confirms the selections, the
+8  ballot is encrypted and sent to the central vote server. If the
+9  elector does not confirm the selections, the ballot is reset and
+10  he has the option of remarking the ballot.
+11     (9)  When the vote server receives the ballot, it will verify
+12  that it has been sent from a qualified elector who has not yet
+13  voted and has not been altered in any form during transmission.
+14     (10)  Once the vote has been verified, the server will send
+15  feedback to the voter acknowledging that the vote has been
+16  accepted.
+17     (11)  The server then separates the vote from the
+18  identification of the elector and stores the vote for counting.
+19     (12)  After the polls close for the day, the county elections
+20  officials, one being from each party, shall enter their separate
+21  decryption keys so that the ballots can be decrypted and
+22  canvassed.
+23     Section 1108-B.  Tampering with Internet Voting System.--Any
+24  election officer or other person who shall unlawfully tamper
+25  with or injure or attempt to injure any component of an Internet
+26  voting system to be used at any primary or election, or who
+27  shall prevent or attempt to prevent the correct operation and
+28  communication of such a system, or any unauthorized person who
+29  shall make or have in his possession a decryption key to an
+30  Internet voting system to be used or being used in any primary
+1  or election, shall be guilty of a misdemeanor and, upon
+2  conviction thereof, shall be sentenced to pay a fine not
+3  exceeding five thousand dollars ($5,000), or to undergo an
+4  imprisonment of not less than seven years not more than ten
+5  years, or both, at the discretion of the court.
+6     Section 2.  This act shall take effect in 60 days.
+E30L25BIL/20000H2654B3789        - 9 -

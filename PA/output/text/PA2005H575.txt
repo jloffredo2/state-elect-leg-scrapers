@@ -1,0 +1,24 @@
+5     Section 1.  Section 1404(a) of Title 25 of the Pennsylvania
+6  Consolidated Statutes is amended to read:
+7  § 1404.  Public information lists.
+8     (a)  Establishment.--
+9         (1)  A commission shall provide for computer inquiries
+10     concerning individual registered electors. With respect to
+11     each registered elector who is the subject of an inquiry, the
+12     information provided shall contain the name, address[, date
+13     of birth] and voting history. Upon request, the commission
+14     shall supply a printed record for each such elector subject
+15     to the provisions of this part. In addition, the commission
+16     may make available for inspection a printed or computerized
+17     public information list containing the name, address[, date
+1     of birth] and voting history of each registered elector in
+2     the county.
+3         (2)  The list may also include information on voting
+4     districts.
+5         (3)  The list may not contain the digitized or electronic
+6     signature [or], SURE registration number, date of birth,
+7     driver's license number or Social Security number of the
+8     registered elector.
+9     * * *
+10     Section 2.  This act shall take effect in 60 days.
+A18L25DMS/20050H0575B0648        - 2 -

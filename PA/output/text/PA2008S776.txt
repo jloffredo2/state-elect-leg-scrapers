@@ -1,0 +1,77 @@
+18     Section 1.  Section 303 of the act of June 29, 1953 (P.L.304,
+19  No.66), known as the Vital Statistics Law of 1953, amended
+20  October 27, 2006 (P.L.1200, No.129), is amended to read:
+21     Section 303.  Registration Districts: Local Registrars'
+22  Duties.--Local registrars shall perform the duties imposed upon
+23  them by this act, under and subject to the supervision of the
+1  department. Local registrars shall transmit certificates and
+2  transcripts to such places and at such times as shall be
+3  prescribed by the department [and shall transmit, for a person
+4  who was at least eighteen (18) years of age at the time of
+5  death, a copy of the death certificate to the county board of
+6  elections of the county in which the person resided at the time
+7  of death].
+8     Section 2.  Section 501 of the act, amended July 9, 1971
+9  (P.L.213, No.38), is amended to read:
+10     Section 501.  Death and Fetal Death Registration:
+11  Certificates to be Filed.--A certificate of each death or fetal
+12  death which occurs in this Commonwealth shall be filed within
+13  ninety-six (96) hours after the death or fetal death or within
+14  ninety-six (96) hours after the finding of a dead body or fetal
+15  remains. In every instance, the certificate shall be filed prior
+16  to the issuance of a permit for interment or other disposition
+17  of the dead body or fetal remains. The person in charge of
+18  interment or of removal of the dead body or fetal remains from
+19  the registration district shall file the certificate with any
+20  local registrar or the State Registrar of Vital Statistics, who
+21  shall be authorized to issue certified copies of such death.
+22     Section 3.  Section 504 of the act, amended October 27, 2006
+23  (P.L.1200, No.129), is amended to read:
+24     Section 504.  Death and Fetal Death Registration: Permits
+25  Concerning Dead Bodies and Fetal Remains.--No person shall
+26  dispose of a dead body or fetal remains until a local registrar
+27  or the State Registrar of Vital Statistics issues a permit for
+28  disposal. The local registrar or the State Registrar of Vital
+29  Statistics shall be authorized to issue the permit and may issue
+30  blank presigned permits to the funeral director only. The
+1  funeral director or the person in charge of interment or removal
+2  shall, within ninety-six (96) hours after the death or fetal
+3  death or within ninety-six (96) hours after the finding of a
+4  dead body or fetal remains, file with the local registrar a
+5  certificate of death or fetal death.
+6     The sexton or other person in charge of any premises in which
+7  bodies are interred or cremated shall not allow the interment or
+8  cremation of any dead body or fetal remains unless a permit
+9  issued under this section is presented to the sexton. The sexton
+10  or other person in charge of the premises shall endorse upon
+11  each permit presented to the sexton or other person the date of
+12  interment or cremation, over the sexton's or other person's
+13  signature, and shall return the permit so endorsed to the local
+14  registrar of the sexton's or other person's district or the
+15  State Registrar of Vital Statistics within ten day from the date
+16  of interment or cremation.
+17     Section 4.  Section 801.1 of the act, amended November 23,
+18  2004 (P.L.909, No.122), is amended to read:
+19     Section 801.1.  Records: Reports to County Registration
+20  Commissions.--[The department shall report monthly in writing to
+21  the registration commission of each county the deaths of
+22  residents of such counties, except residents less than eighteen
+23  years of age, for the preceding month. Said report shall contain
+24  the full name of the decedent, his or her last address, the date
+25  of his or her birth if available, and the date of his or her
+26  death.] The department shall transmit monthly to the Department
+27  of State an electronic file containing information on all
+28  resident deaths, except residents less than eighteen years of
+29  age, for the preceding month. The electronic file shall include,  <--
+30  at a minimum, the full name of the decedent, gender, last
+1  address, the date of birth if available, county of residence
+2  and, the date of death, COUNTY OF DEATH, STATE FILE NUMBER AND    <--
+3  THE LAST FOUR DIGITS OF THE DECEDENT'S SOCIAL SECURITY NUMBER.
+4  The Department of State shall enter this information into the
+5  "sure system" as defined in 25 Pa.C.S. § 102 (relating to
+6  definitions), or a similar successor system, which shall be used
+7  by the county boards of election for the purpose of purging       <--
+8  REMOVING deceased individuals from their voter registration       <--
+9  rolls.
+10     Section 5.  This act shall take effect in 60 days.
+C26L35RLE/20070S0776B1740        - 4 -

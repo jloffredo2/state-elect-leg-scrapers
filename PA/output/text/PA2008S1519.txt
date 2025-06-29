@@ -1,0 +1,66 @@
+15     Section 1.  The definition of "electronic voting system" in
+16  section 1101-A of the act of June 3, 1937 (P.L.1333, No.320),
+17  known as the Pennsylvania Election Code, added July 11, 1980
+18  (P.L.600, No.128), is amended to read:
+19     Section 1101-A.  Definitions.--As used in this article:
+20     * * *
+21     "Electronic voting system" means a system in which one or
+22  more voting devices are used to permit the registering or
+1  recording of votes and in which such votes are computed and
+2  tabulated by automatic tabulating equipment. The system shall
+3  provide for a permanent physical record of each vote cast. This
+4  term shall include a paper-ballot-based voting system
+5  established under section 1108.1-A.
+6     * * *
+7     Section 2.  The act is amended by adding a section to read:
+8     Section 1108.1-A.  Commonwealth Funding.--(a)  The
+9  Commonwealth shall provide funds necessary to those counties who
+10  elect to convert to a paper-ballot-based voting system. For the
+11  purposes of this section, a paper-ballot-based voting system is
+12  one that uses a paper ballot marked by the voter by hand or a
+13  paper ballot marked by the voter with the assistance of a
+14  nontabulating ballot marking device. The Department of State
+15  shall pay to each eligible county an amount equal to the sum of
+16  the following:
+17     (1)  Documented reasonable costs paid or incurred by a county
+18  board of elections to replace any voting system used to conduct
+19  elections that did not use a paper ballot marked by the voter by
+20  hand or a paper ballot marked by the voter with the assistance
+21  of a nontabulating ballot marking device.
+22     (2)  The documented reasonable costs paid or incurred by a
+23  county board of elections to obtain nontabulating ballot marking
+24  devices that are accessible for individuals with disabilities in
+25  accordance with the requirements of section 301(a)(3) of the
+26  Help America Vote Act of 2002 (Public Law 107-252, 116 Stat.
+27  1704).
+28     (3)  The documented reasonable costs paid or incurred by a
+29  county board of elections to obtain ballot marking stations or
+30  voting booths for the protection of voter privacy.
+1     (4)  The documented reasonable costs paid or incurred by a
+2  county board of elections to obtain paper ballots.
+3     (5)  The documented reasonable costs paid or incurred by a
+4  county board of elections to obtain precinct-based equipment
+5  that scans and tabulates paper ballots.
+6     (6)  The documented reasonable administrative costs paid or
+7  incurred by a county board of elections that are associated with
+8  meeting the requirements of this act.
+9     (7)  The determination of whether costs paid or incurred by a
+10  county are reasonable shall be made by the Department of State.
+11     (b)  In order to receive funding, the county must submit the
+12  following information to the Department of State indicating
+13  that:
+14     (1)  In the last regularly scheduled election the voting
+15  system that was used was not a paper-ballot-based voting system.
+16     (2)  Upon the next election only paper-ballot voting systems
+17  will be used.
+18     (3)  A nontabulating ballot marking device will be available
+19  and accessible for individuals with disabilities in each polling
+20  place in accordance with the requirements of section 301(a)(3)
+21  of the Help America Vote Act of 2002.
+22     (4)  A sufficient number of ballot making stations or voting
+23  booths will be available for the protection of voter privacy.
+24     (5)  A sufficient number of paper ballots will be available.
+25     (6)  Any other such information that may be required by the
+26  Department of State to verify compliance with this act.
+27     Section 3.  This act shall take effect immediately.
+E29L25JLW/20080S1519B2289        - 3 -

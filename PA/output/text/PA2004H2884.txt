@@ -1,0 +1,753 @@
+20     Section 1.  Section 201 of the act of June 3, 1937 (P.L.1333,
+21  No.320), known as the Pennsylvania Election Code, amended
+22  December 9, 2002 (P.L.1246, No.150), is amended to read:
+23     Section 201.  Powers and Duties of the Secretary of the
+24  Commonwealth.--The Secretary of the Commonwealth shall exercise
+1  in the manner provided by this act all powers granted to him by
+2  this act, and shall perform all the duties imposed upon him by
+3  this act, which shall include the following:
+4     (a)  To determine, in accordance with the provisions of this
+5  act, the forms of nomination petitions and papers, expense
+6  accounts and all other forms and records, the form of which he
+7  is required to determine under the provisions of this act.
+8     (b)  To examine and reexamine voting machines, and to approve
+9  or disapprove them for use in this State, in accordance with the
+10  provisions of this act.
+11     (c)  To certify to county boards of elections for primaries
+12  and elections the names of the candidates for President and
+13  Vice-President of the United States, presidential electors,
+14  United States senators, representatives in Congress and all
+15  State offices, including senators, representatives, and judges
+16  of all courts of record, and delegates and alternate delegates
+17  to National Conventions, and members of State committees, and
+18  the form and wording of constitutional amendments or other
+19  questions to be submitted to the electors of the State at large.
+20     (d)  To receive and determine, as hereinafter provided, the
+21  sufficiency of nomination petitions, certificates and papers of
+22  candidates for President of the United States, presidential
+23  electors, United States senators, representatives in Congress
+24  and all State offices, including senators, representatives and
+25  judges of all courts of record, and delegates and alternate
+26  delegates to National Conventions and members of State
+27  committees.
+28     (e)  To receive such reports from county boards of elections
+29  as are required by this act, and to demand such additional
+30  reports on special matters as he may deem necessary.
+1     (e.1)  To receive from county boards of elections information
+2  on voting system errors or difficulties or other election data
+3  pursuant to regulation.
+4     (f)  To receive from county boards of elections the returns
+5  of primaries and elections, to canvass and compute the votes
+6  cast for candidates and upon questions as required by the
+7  provisions of this act; to proclaim the results of such
+8  primaries and elections, and to issue certificates of election
+9  to the successful candidates at such elections, except in cases
+10  where that duty is imposed by law on another officer or board.
+11     (f.1)  To develop a voluntary professional certification and
+12  poll worker training program for county election officials in
+13  consultation with county boards of elections.
+14     (f.2)  To order a county board to conduct a recount of an
+15  election under section 1404 for a public office for which a
+16  candidate must file a nomination petition with the secretary.
+17     (g)  To perform such other duties as may be prescribed by
+18  law.
+19     (h)  To establish a system for the remedy of complaints
+20  regarding the administration of the provisions of Title III of
+21  the Help America Vote Act of 2002 (Public Law 107-252, 42 U.S.C.
+22  § 15481 et seq.).
+23     Section 2.  Section 302 of the act, amended December 15, 1965
+24  (P.L.1109, No.427), and February 13, 1998 (P.L.72, No.18), is
+25  amended to read:
+26     Section 302.  Powers and Duties of County Boards.--The county
+27  boards of elections, within their respective counties, shall
+28  exercise, in the manner provided by this act, all powers granted
+29  to them by this act, and shall perform all the duties imposed
+30  upon them by this act, which shall include the following:
+1     (a)  To investigate and report to the court of quarter
+2  sessions their recommendations on all petitions presented to the
+3  court by electors for the division, redivision, alteration,
+4  change or consolidation of election districts, and to present to
+5  the court petitions for the division, redivision, alteration,
+6  change or consolidation of election districts in proper cases.
+7     (b)  To select and equip polling places.
+8     (c)  To purchase, preserve, store and maintain primary and
+9  election equipment of all kinds, including voting booths, ballot
+10  boxes and voting machines, and to procure ballots and all other
+11  supplies for elections.
+12     (d)  To appoint their own employes, voting machine
+13  custodians, and machine inspectors.
+14     (e)  To issue certificates of appointment to watchers at
+15  primaries and elections.
+16     (f)  To make and issue such rules, regulations and
+17  instructions, not inconsistent with law, as they may deem
+18  necessary for the guidance of voting machine custodians,
+19  elections officers and electors.
+20     (g)  To instruct election officers in their duties, calling
+21  them together in meeting whenever deemed advisable, and to
+22  inspect systematically and thoroughly the conduct of primaries
+23  and elections in the several election districts of the county to
+24  the end that primaries and elections may be honestly,
+25  efficiently, and uniformly conducted.
+26     (h)  To prepare and publish, in the manner provided by this
+27  act, all notices and advertisements in connection with the
+28  conduct of primaries and elections, which may be required by
+29  law.
+30     (i)  To investigate election frauds, irregularities and
+1  violations of this act, and to report all suspicious
+2  circumstances to the district attorney.
+3     (j)  To receive and determine, as hereinafter provided, the
+4  sufficiency of nomination petitions, certificates and papers of
+5  candidates for county, city, borough, township, ward, school
+6  district, poor district, election offices, and local party
+7  offices required by law or by party rules to be filed with the
+8  board.
+9     (k)  To receive from district election officers the returns
+10  of all primaries and elections, to canvass and compute the same,
+11  and to certify, no later than the third Monday following the
+12  primary or election, the results thereof to the Secretary of the
+13  Commonwealth, as may be provided by law, and to such other
+14  authorities as may be provided by law. The certification shall
+15  include the number of votes received in each election district
+16  by each candidate for the General Assembly.
+17     (l)  To publicly announce by posting at its office the
+18  results of primaries and elections for county, city, borough,
+19  township, ward, school district, poor district, election
+20  offices, and party offices, if any[,]; to provide the results to
+21  the Secretary of the Commonwealth; and to issue certificates of
+22  election to the successful candidates for said offices.
+23     (m)  To prepare and submit, within twenty days after the last
+24  day to register to vote in each primary, municipal and general
+25  election, a report to the Secretary of the Commonwealth in the
+26  form prescribed by him, which shall contain a statement of the
+27  total number of electors registered in each election district,
+28  together with a breakdown of registration by each political
+29  party or other designation. Copies of said statement shall be
+30  furnished, upon request, to the county chairman of each
+1  political party and political body. The Secretary of the
+2  Commonwealth shall forthwith submit such information to the
+3  Legislative Data Processing Center and shall publicly report the
+4  total number of registered electors for each political party or
+5  other designation in each county not later than five days prior
+6  to the primary, municipal or general election.
+7     (n)  To annually prepare and submit to the county
+8  commissioners or other appropriating authorities of the county
+9  an estimate of the cost of primaries and elections and of the
+10  expenses of the board for the ensuing fiscal year.
+11     (o)  To perform such other duties as may be prescribed by
+12  law.
+13     Section 3.  Section 1113-A of the act is amended by adding a
+14  subsection to read:
+15     Section 1113-A.  Post Election Procedures.--* * *
+16     (j)  Returns tabulated under this section shall be returned
+17  to the county board by 2:00 a.m. on the day following the
+18  election.
+19     Section 4.  Section 1118-A of the act, added July 11, 1980
+20  (P.L.600, No.128), is amended to read:
+21     Section 1118-A.  Recounts.--[Should] In an election district
+22  using an electronic voting system, should a recount of votes be
+23  ordered as provided by law, the ballots shall be recounted in
+24  accordance with [the provisions of Article XVII. Manual
+25  mechanical or electronic methods may be used as determined by
+26  the county board.] section 1401(e). If the recount is conducted
+27  under Article XVII:
+28     (1)  If the election district uses an electronic voting
+29  system utilizing paper ballots, section 1701 shall apply.
+30     (2)  If the election district uses any other type of
+1  electronic voting system, section 1702 shall apply.
+2     Section 5.  Section 1225 of the act, amended July 14, 1961
+3  (P.L.644, No.332), is amended to read:
+4     Section 1225.  Signing and Disposition of Returns, District
+5  Register and Voting Check List for Paper Ballots; Posting;
+6  Return of Ballot Boxes.--(a)  Immediately after the vote has
+7  been counted in districts in which paper ballots are used, all
+8  of the general returns shall be signed by the election officers
+9  and clerks, and certified by the overseers, if any. If any
+10  election officer, clerk or overseer shall refuse to sign or
+11  certify the general returns, he shall write his reasons therefor
+12  upon the general return sheets. One of said returns shall be
+13  immediately posted for the information of the public outside the
+14  polling place, and one shall be entrusted to the judge for
+15  delivery to the county board with the package of unused ballots,
+16  etc., in an envelope provided for that purpose. The election
+17  officers shall then replace all the ballots cast, so counted and
+18  canvassed, in the ballot boxes, including those declared void,
+19  spoiled, and cancelled, together with one set of tally papers,
+20  one numbered list of voters, sealed as aforesaid, and one oath
+21  of each election officer, and lock and seal each ballot box so
+22  that nothing can be inserted therein until it be opened again;
+23  and the judge and minority inspector shall immediately deliver
+24  the ballot boxes to the custody of the county board, and the
+25  county board shall not compute any returns from any election
+26  district until the ballot boxes therefor, as well as the package
+27  of unused ballots, etc., aforesaid therefrom, are delivered, as
+28  aforesaid. The election officers shall record the number of
+29  votes cast for each person on an official specimen ballot, shall
+30  sign the same and immediately post it outside the polling place
+1  for the information of the public.
+2     (b)  The minority inspector shall retain one complete set of
+3  tally papers, and carefully preserve the same for a period of at
+4  least one year. The remaining tally papers, affidavits of voters
+5  and others, including oaths of election officers, and one
+6  general return sheet shall be placed in separate envelopes, to
+7  be provided for that purpose, and sealed as soon as the count is
+8  finally completed. All of such envelopes and one numbered list
+9  of voters, previously sealed as aforesaid, shall be entrusted to
+10  the judge of election to be immediately delivered to the county
+11  board. The judge of elections shall return envelopes, supplies
+12  and returns to the county board by two o'clock A.M. on the day
+13  following the election.
+14     (c)  Immediately upon completion of the count and tabulation
+15  of the votes cast, the district register and the voting check
+16  list shall be locked and sealed, and returned forthwith by the
+17  judge of election to the custody of the proper registration
+18  commission.
+19     Section 6.  Section 1228 of the act, amended February 2, 1966
+20  (1965 P.L.1858, No.584), is amended to read:
+21     Section 1228.  Disposition of Returns for Voting Machines;
+22  Posting; Return of District Register and Voting Check List.--(a)
+23  The general return sheet, duplicate return sheets, and
+24  statement, shall be printed to conform with the type of voting
+25  machine used, and in form approved by the Secretary of the
+26  Commonwealth. The designating number and  letter, if any, on the
+27  counter for each candidate, shall be printed thereon opposite
+28  the candidate's name: Provided, however, That it shall not be
+29  necessary to print the name or designating counter number or
+30  letter of any candidate for any borough, township, ward, or
+1  election district office. Immediately after the vote has been
+2  ascertained, the statement thereof shall be posted on the door
+3  of the polling place. The minority inspector shall retain one of
+4  said duplicate return sheets, one numbered list of voters,
+5  sealed as aforesaid, and one set of oaths of election officers.
+6  The other duplicate return sheet, numbered list of voters, oaths
+7  of election officers, and affidavits of voters and others, shall
+8  be sealed up and given to the judge of election, who shall
+9  deliver them, together with the general return sheet and the
+10  package of ballots deposited, written or affixed in or upon the
+11  voting machine, to the county board. If the type of voting
+12  machine is equipped with mechanism for printing paper proof
+13  sheets, one of said proof sheets shall be posted on the door of
+14  the polling place with the statement aforesaid; one shall be
+15  retained by the minority inspector; one shall be placed in the
+16  envelope and delivered with the general return sheet; and one
+17  shall be sealed in the envelope with the duplicate return sheets
+18  and delivered by the judge of election to the county board. The
+19  printed proof sheet returned with the general return sheet, and
+20  the printed proof sheet returned with the duplicate return
+21  sheet, shall each be part of the return of the election. The
+22  judge of elections shall return envelopes, supplies and returns
+23  to the county board by two o'clock A.M. on the day following the
+24  election.
+25     (b)  Immediately upon completion of the count and tabulation
+26  of the vote cast, the district register and the voting check
+27  list shall be locked and sealed, and returned forthwith by the
+28  judge of election to the custody of the proper registration
+29  commission. In cities of the first class, the registration
+30  commission shall designate police stations at which it will
+1  accept such custody.
+2     Section 7.  Section 1402 of the act is amended to read:
+3     Section 1402.  Returns to Be Open to Public Inspection;
+4  Exceptions.--(a)  The general returns from the various districts
+5  which have been returned unsealed shall be open to public
+6  inspection at the office of the county board as soon as they are
+7  received from the judges of election. None of the envelopes
+8  sealed by election officers and entrusted to the judge of
+9  election for delivery to the county board shall be opened by any
+10  person, except by the order of the return board, or of the court
+11  of common pleas.
+12     (b)  The county board shall submit returns received under
+13  subsection (a) to the Department of State for each office for
+14  which a candidate must file a nomination petition with the
+15  Secretary of the Commonwealth by three o'clock A.M. on the day
+16  following the election. The submission shall be by telephone,
+17  facsimile or the World Wide Web site or by any other manner
+18  required by the secretary.
+19     Section 8.  Section 1404(a), (e) and (f) of the act, amended
+20  October 28, 1971 (P.L.493, No.112), are amended and the section
+21  is amended by adding subsections to read:
+22     Section 1404.  Computation of Returns by County Board;
+23  Certification; Issuance of Certificates of Election.--
+24     (a)  The county board shall, at nine o'clock A. M. on the
+25  [third] second day following the primary or election, at its
+26  office or at some other convenient public place at the county
+27  seat, of which due notice shall have been given as provided by
+28  section 1403, publicly commence the computation and canvassing
+29  of the returns, and continue the same from day to day until
+30  completed, in the manner hereinafter provided. For this purpose
+1  any county board may organize itself into sections, each of
+2  which may simultaneously proceed with the computation and
+3  canvassing of the returns from various districts of the county
+4  in the manner provided by this section. Upon the completion of
+5  such computation and canvassing, the board shall tabulate the
+6  figures for the entire county and sign, announce and attest the
+7  same, as required by this section.
+8     * * *
+9     (e)  Provision for Recanvass of Vote.--[(1)]  Whenever it
+10  shall appear that there is a discrepancy in the returns of any
+11  election district, or, upon petition of three voters of any
+12  district, verified by affidavit, that an error, although not
+13  apparent on the face of the returns, has been committed therein,
+14  or of its own motion or under subsection (g), the county board
+15  shall at any time prior to the completion of the computation of
+16  all of the returns for the county, summon the election officers
+17  of the district, and said officers, in the presence of said
+18  board, shall [make a record of the number of the seal upon the
+19  voting machine, and the number on the protective counter or
+20  other device; shall make visible the registering counters of
+21  such machine, and, without unlocking the machine against voting,
+22  shall] conduct a recount or recanvass [the vote] of all ballots
+23  cast [thereon]. Before making such recount or recanvass, the
+24  said board shall give notice in writing to the proper custodian
+25  of voting machines, and to each candidate, and to the county
+26  chairman of each party or political body, affected by the
+27  [canvass,] recount or recanvass; and each such candidate may be
+28  present in person, or by attorney, and each of such parties, or
+29  bodies, may send two representatives to be present at such
+30  recount or recanvass.
+1     (1)  In a county in which an election district uses voting
+2  machines, all of the following apply:
+3     (i)  The county board shall:
+4     (A)  make a record of the number of the seal upon the voting
+5  machine and the number on the protective counter or other
+6  device;
+7     (B)  make visible the registering counters of such machine;
+8  and
+9     (C)  without unlocking the machine against voting, recanvass
+10  the vote cast on the machine.
+11     (ii)  If, upon such recanvass, it shall be found that the
+12  original canvass of the returns has been correctly made from the
+13  machine, and that the discrepancy still remains unaccounted for,
+14  the said board, with the assistance of the custodian, in the
+15  presence of the election officers and the authorized candidates
+16  and representatives, shall unlock the voting and counting
+17  mechanism of the machine, and shall proceed thoroughly to
+18  examine and test the machine to determine and reveal the true
+19  cause or causes, if any, of the discrepancy in returns from such
+20  machine. Each counter shall be reset at zero (000) before it is
+21  tested, after which it shall be operated at least one hundred
+22  times. After the completion of such examination and test, the
+23  custodian shall then and there prepare a statement, in writing,
+24  giving in detail the result of the examination and test, and
+25  such statement shall be witnessed by the persons present, and
+26  shall be filed with the said board.
+27     (iii)  If, upon such recanvass, it shall appear that the
+28  original canvass of the returns by the election officers was
+29  incorrect, the said returns and all papers being prepared by the
+30  said board shall be corrected accordingly: [(2)]  Provided,
+1  however, That in the case of returns from any election district
+2  wherein the election was held by the use of a voting machine
+3  equipped with mechanism for printing paper proof sheets, said
+4  proof sheets, if mutually consistent, shall be deemed to be the
+5  primary evidence of the result of the election and to be prima
+6  facie accurate, and there shall not be considered to be any
+7  discrepancy or error in the returns from any such district, such
+8  as to require a recanvass of the vote, if all available proof
+9  sheets, from the voting machine used therein, identified to the
+10  satisfaction of the return board and shown to its satisfaction
+11  to have been produced from proper custody, shall be mutually
+12  consistent, and, if the general and duplicate returns, or either
+13  of them, from said district shall not correspond with said proof
+14  sheets, they, and all other papers being prepared by said return
+15  board, shall be corrected so as to correspond with the same, in
+16  the absence of allegation of specific fraud or error, proved to
+17  the satisfaction of the return board by the weight of the
+18  evidence, and only in such case shall the vote of said election
+19  district be recanvassed under the provisions of this section.
+20     (2)  In a county in which an election district uses paper
+21  ballots other than those used in conjunction with an electronic
+22  voting system, all of the following apply:
+23     (i)  The county board shall, in the presence of the election
+24  officers and the authorized candidates and representatives,
+25  cause:
+26     (A)  the ballot box of each district to be opened and the
+27  vote in the ballot box to be recounted; and
+28     (B)  the entire vote of the election district to be counted
+29  correctly.
+30     (ii)  The county board may summon the election officers and
+1  overseers to appear with all election papers in their possession
+2  to assist in determining an accurate count or addressing errors
+3  and omissions.
+4     (3)  In a county in which an election district uses an
+5  electronic voting system utilizing paper ballots, all of the
+6  following apply:
+7     (i)  The county board shall recount all ballots using manual,
+8  mechanical or electronic devices of a different type used for
+9  the specific election.
+10     (ii)  All ballots containing overvotes shall be counted
+11  manually.
+12     (4)  In a county in which an election district uses any other
+13  type of electronic voting systems, the county board shall
+14  conduct the recanvass similar to the procedure specified in
+15  clause (1) for voting machines.
+16     (f)  As the returns from each election district are read,
+17  computed and found to be correct or corrected as aforesaid, they
+18  shall be recorded on the blanks prepared for the purpose until
+19  all the returns from the various election districts which are
+20  entitled to be counted shall have been duly recorded, when they
+21  shall be added together, announced and attested by the clerks
+22  who made and computed the entries respectively and signed by the
+23  members of the county board. Returns under this subsection shall
+24  be considered unofficial for five (5) days. The county board
+25  shall submit the unofficial returns to the Secretary of the
+26  Commonwealth by five o'clock P.M. on the Monday following the
+27  election. The submission shall be as directed by the secretary
+28  for an office for which a candidate must file a nomination
+29  petition with the secretary. At the expiration of five (5) days
+30  after the completion of the computation of votes, in case no
+1  petition for a recount or recanvass has been filed in accordance
+2  with the provisions of this act, or upon the completion of the
+3  recount or recanvass if a petition therefor has been filed
+4  within five (5) days after the completion of the computation of
+5  votes, the county board shall certify the returns so computed in
+6  said county in the manner required by this act, unless upon
+7  appeals taken from any decision, the court of common pleas shall
+8  have directed any returns to be revised, or unless in case of a
+9  recount, errors in the said returns shall have been found, in
+10  which case said returns shall be revised, corrected and
+11  certified accordingly. The county board shall thereupon, in the
+12  case of elections, issue certificates of election to the
+13  successful candidates for all county, city, borough, township,
+14  ward, school district, poor district and election offices, and
+15  local party offices to be filled by the votes of the electors of
+16  said county, or of any part thereof.
+17     (g)  This subsection relates to recounts and recanvasses
+18  ordered by the secretary.
+19     (1)  Except as set forth in subsection (h), the secretary
+20  shall order a recount and recanvass to all county boards if the
+21  unofficial returns prepared in accordance with subsection (f)
+22  reflect any of the following:
+23     (i)  A candidate for a Statewide public office for which a
+24  candidate must file a nomination petition with the secretary was
+25  defeated by one-half of a percent or less of the votes cast for
+26  the office. This subclause includes a candidate for retention to
+27  a judicial office.
+28     (ii)  A ballot question appearing on the ballot was approved
+29  or rejected by one-half of a percent or less of the votes cast
+30  on the question.
+1     (2)  The secretary shall issue an order under clause (1) by
+2  five o'clock P.M. of the second Wednesday following the day of
+3  the election.
+4     (3)  The secretary shall provide twenty-four (24) hours
+5  notice of an order under clause (1) to each candidate and to the
+6  county chairman of each party or political body affected by the
+7  recount and recanvass. Notice shall be by press release, the
+8  World Wide Web site or other means.
+9     (4)  A candidate affected by the recount and recanvass may be
+10  present, in person or by attorney, at the recount and recanvass.
+11  A party or body affected by the recount and recanvass may send
+12  two representatives to the recount and recanvass.
+13     (5)  The recount and recanvass shall:
+14     (i)  follow procedures specified in subsection (e);
+15     (ii)  be scheduled to be held by the second Friday following
+16  the day of the election; and
+17     (iii)  be completed by noon on the following Thursday.
+18     (6)  The results of the recount and recanvass shall be
+19  submitted to the secretary by 12 o'clock noon on the day
+20  following completion of the recount and recanvass.
+21     (7)  The secretary shall issue a press release and publish on
+22  the World Wide Web site all results received from the county
+23  boards of election.
+24     (8)  Following the completion of the recount and recanvass,
+25  the Commonwealth shall pay to each county the sum specified in
+26  sections 1701 and 1702.
+27     (h)  A recount and recanvass need not be ordered under
+28  subsection (g)(1)(i) if the defeated candidate requests in
+29  writing that a recount and recanvass not be made. A request
+30  under this subsection must be made by 12 o'clock noon on the
+1  second Wednesday following the election.
+2     Section 9.  Section 1407 of the act, repealed in part April
+3  28, 1978 (P.L.202, No.53), is amended to read:
+4     Section 1407.  Appeals to Court from Decisions of the County
+5  Board.--
+6     (a)  Any person aggrieved by any order or decision of any
+7  county board regarding the computation or canvassing of the
+8  returns of any primary or election, or regarding any recount or
+9  recanvass thereof under sections 1701, 1702 and 1703 of this
+10  act, may appeal therefrom within two days after such order or
+11  decision shall have been made, whether then reduced to writing
+12  or not, to the court [of common pleas of the proper county]
+13  specified in this subsection, setting forth why he feels that an
+14  injustice has been done, and praying for such order as will give
+15  him relief. If a recount or recanvass is made under section
+16  1404(g), the appeal must be made to Commonwealth Court. Unless a
+17  recount or recanvass is made under section 1404(g), the appeal
+18  must be made to the court of common pleas of the proper county.
+19  Upon the payment to the prothonotary of a fee for filing such
+20  appeal, a judge of the court shall fix a time and place for
+21  hearing the matter in dispute within three days thereafter, of
+22  which due notice shall be served, with a copy of such appeal, by
+23  the appellant upon a member of the county board whose action is
+24  complained of and upon every attorney, watcher or candidate who
+25  opposed the contention of the appellant before the county board,
+26  and upon any other person that the judge shall direct, at least
+27  two days before the matter shall be reviewed by the court. Proof
+28  of such notice or the waiver thereof must be filed therein
+29  before any appeal is sustained.
+30     (b)  The court on an appeal shall have full power and
+1  authority to hear and determine all matters pertaining to any
+2  fraud or error committed in any election district to which such
+3  appeal relates, and to make such decree as right and justice may
+4  require. Pending such appeal, the county board shall suspend any
+5  official certification of the votes cast in such election
+6  district. None of the orders or decisions of either the county
+7  board or the court of common pleas on appeal shall be deemed a
+8  final adjudication regarding the results of any primary or
+9  election, so as to preclude any contest thereof. No appeal shall
+10  be allowed or granted from any order or decree of the court of
+11  common pleas made in pursuance of this section. The court of
+12  common pleas, upon any appeal under this section, may compel the
+13  appellant or any opposing party, other than the county board, to
+14  pay all the witness fees, if any, or other legal costs of the
+15  hearing, which costs may be taxed by the prothonotary in the
+16  usual manner.
+17     Section 10.  Section 1701 of the act is amended to read:
+18     Section 1701.  Opening Ballot Boxes upon Petition of Electors
+19  Alleging Fraud or Error; Deposit or Bond.--(a)  [The] Except as
+20  set forth in subsection (a.1), the court of common pleas, or a
+21  judge thereof, of the county in which any election district is
+22  located in which ballots were used, shall open the ballot box of
+23  such election district used at any general, municipal, special
+24  or primary election held therein, and cause the entire vote
+25  thereof to be correctly counted by persons designated by such
+26  court or judge, if three qualified electors of the election
+27  district shall file, as hereinafter provided, a petition duly
+28  verified by them, alleging that upon information which they
+29  consider reliable they believe that fraud or error, although not
+30  manifest on the general return of votes made therefrom, was
+1  committed in the computation of the votes cast for all offices
+2  or for any particular office or offices in such election
+3  district, or in the marking of the ballots, or otherwise in
+4  connection with such ballots. It shall not be necessary for the
+5  petitioners to specify in their petition the particular act of
+6  fraud or error which they believe to have been committed, nor to
+7  offer evidence to substantiate the allegations of their
+8  petition.
+9     (a.1)  In cases resulting from a recount or recanvass order
+10  by the Secretary of the Commonwealth under section 1404(g), all
+11  of the following apply:
+12     (1)  Upon petition under clause (2), Commonwealth Court
+13  shall:
+14     (i)  open the ballot box of each election district in which
+15  ballots were used at a general, municipal, special or primary
+16  election; and
+17     (ii)  cause the entire vote of the election district to be
+18  correctly counted by persons designated by the court.
+19     (2)  To obtain relief under clause (1):
+20     (i)  Three (3) qualified electors of a county must file a
+21  verified petition alleging that, upon information which they
+22  consider reliable, they believe that fraud or error, although
+23  not manifest on the general return of votes, was committed:
+24     (A)  in the computation of votes cast;
+25     (B)  in the marking of the ballots; or
+26     (C)   otherwise in connection with the ballots.
+27     (ii)  It is not be necessary for the petitioners to specify
+28  in their petition the particular act of fraud or error which
+29  they believe to have been committed nor to offer evidence to
+30  substantiate the allegations of their petition.
+1     (b)  Every petition for the opening of a ballot box under the
+2  provisions of this section shall be filed in the office of the
+3  prothonotary of the proper county, accompanied by a deposit of
+4  cash in the amount of fifty ($50.00) dollars, or by a bond
+5  signed by the petitioners as principals and by a corporate
+6  surety to be approved by the court, in the amount of one hundred
+7  ($100.00) dollars, conditioned upon the payment to the county
+8  treasurer for the use of the county of the sum of fifty ($50.00)
+9  dollars, in the event that, upon the opening of the ballot box,
+10  it shall not appear that fraud or substantial error was
+11  committed in the computation of the votes cast on the ballots
+12  contained therein, or fraud in the marking of the ballots
+13  contained therein, or otherwise in connection with such ballots.
+14     (c)  Before any ballot box is opened under the provisions of
+15  this section, the court shall direct that notice of time and
+16  place of proposed recount be given, either personally or by
+17  registered mail, to each candidate for the office or offices
+18  which are to be recounted by the order of the court, and each
+19  such candidate may be present at such recount, either in person
+20  or by his attorney or by his duly authorized representative,
+21  under such regulations as the court may prescribe.
+22     (d)  If, upon opening any such ballot box, it shall appear
+23  that fraud or substantial error was committed in the computation
+24  of the votes cast on the ballots contained therein, or fraud in
+25  the marking of the ballots contained therein, or otherwise in
+26  connection with such ballots, it shall be the duty of the court
+27  to certify such fact to the prothonotary and thereupon the
+28  prothonotary shall return to the petitioners the said sum of
+29  fifty ($50.00) dollars, or if the petitioners shall have filed a
+30  bond in lieu of cash, to mark said bond cancelled and notify the
+1  petitioners that he has done so.
+2     (e)  If, upon opening any ballot box under the provisions of
+3  this section, it shall not appear that fraud or substantial
+4  error was committed in the computation of the votes cast on the
+5  ballots contained therein, or fraud in the marking of the
+6  ballots contained therein, or otherwise in connection with such
+7  ballots, the persons upon whose petition such ballot box shall
+8  have been opened shall forfeit to the county the sum of fifty
+9  ($50.00) dollars. If said petitioners shall have deposited the
+10  said sum in cash with the prothonotary at the time of filing the
+11  petition, the prothonotary, upon certification of the court that
+12  fraud or substantial error was not discovered, shall pay said
+13  sum deposited with him to the county treasurer; and if the
+14  petitioners shall have filed with their petition a bond in the
+15  sum of one hundred ($100.00) dollars, it shall be the duty of
+16  the county treasurer forthwith to collect from the principals or
+17  surety on said bond, the sum of fifty ($50.00) dollars, and
+18  costs of suit, and for this purpose, he is hereby authorized to
+19  institute any necessary legal proceedings. When so collected,
+20  the said sum of fifty ($50.00) dollars shall be paid over to the
+21  county treasurer.
+22     (f)  Ballot boxes may be opened under the provisions of this
+23  section at any time within four months after the date of the
+24  general, municipal, special or primary election at which the
+25  ballots therein shall have been cast.
+26     Section 11.  Section 1702 of the act, amended December 17,
+27  1959 (P.L.1891, No.692), is amended to read:
+28     Section 1702.  Recanvassing Voting Machines upon Petition of
+29  Electors Alleging Fraud or Error.--(a)  [The] Judicial
+30  proceedings shall be as follows:
+1     (1)  Except as set forth in clause (2), the court of common
+2  pleas, or a judge thereof, of the county in which any election
+3  district is located, shall make visible the registering counters
+4  of the voting machine or machines used in such election district
+5  at any primary or election, and without unlocking the machine
+6  against voting, shall recanvass the vote cast therein, if three
+7  qualified electors of the election district shall file a
+8  petition, duly verified by them, alleging that, upon information
+9  which they consider reliable, they believe that fraud or error,
+10  although not manifest on the general return of votes made
+11  therefrom, was committed in the canvassing of the votes cast on
+12  such machine or machines. It shall not be necessary for the
+13  petitioners to specify in their petition the particular act of
+14  fraud or error they believe to have been committed, nor to offer
+15  evidence to substantiate the allegations of their petition.
+16     (2)  In cases resulting from a recount or recanvass ordered
+17  by the Secretary of the Commonwealth under section 1404(g), all
+18  of the following apply:
+19     (i)  Upon petition under subclause (ii), Commonwealth Court
+20  shall:
+21     (A)  make visible the registering counter of the voting
+22  machine used;
+23     (B)  without unlocking the machine against voting, recanvass
+24  the vote cast in the machine.
+25     (ii)  To obtain relief under subclause (i):
+26     (A)  Three qualified electors of the county must file a
+27  verified petition alleging that, upon information which they
+28  consider reliable, they believe that fraud or error, although
+29  not manifest on the general return of votes, was committed in
+30  the canvassing of the votes cast on the machine.
+1     (B)  It is not be necessary for the petitioners to specify in
+2  their petition the particular act of fraud or error they believe
+3  to have been committed, nor to offer evidence to substantiate
+4  the allegations of the petition.
+5     (a.1)  Every petition for the recanvassing of votes cast in
+6  the voting machine, or voting machines of an election district,
+7  under the provisions of this section, shall be filed in the
+8  office of the prothonotary of the proper county accompanied by a
+9  deposit of cash in the amount of fifty ($50) dollars, or by a
+10  bond signed by the petitioners as principals and by a corporate
+11  surety to be approved by the court in the amount of one hundred
+12  ($100) dollars, conditioned upon the payment to the county
+13  treasurer for the use of the county of the sum of fifty ($50)
+14  dollars, in the event that upon the recanvassing of the votes
+15  cast in a voting machine or voting machines, it does not appear
+16  that fraud or substantial error was committed in the canvassing
+17  of the votes cast on such machine or otherwise in connection
+18  with such voting machines.
+19     (b)  Before the votes cast on any voting machine are
+20  recanvassed under the provisions of this section, the court
+21  shall direct that notice of the time and place of the proposed
+22  recanvass be given, either personally or by registered mail, to
+23  each candidate whose name appears on the ballot labels, and each
+24  such candidate may be present at such recanvass, either in
+25  person or by his attorney, or by his duly authorized
+26  representative, under such regulations as the court may
+27  prescribe.
+28     (b.1)  If, upon the recanvassing of the votes in any voting
+29  machine, it shall appear that fraud or substantial error was
+30  committed in the computation of the votes cast on the voting
+1  machine or otherwise in connection with such voting machine, it
+2  shall be the duty of the court to certify such fact to the
+3  prothonotary, and thereupon the prothonotary shall return to the
+4  petitioners the said sum of fifty ($50) dollars, or if the
+5  petitioners shall have filed a bond, in lieu of cash, to mark
+6  said bond cancelled and notify the petitioners that he has done
+7  so.
+8     (b.2)  If, upon the recanvassing of the votes in any voting
+9  machine under the provisions of this section, it shall not
+10  appear that fraud or substantial error was committed in the
+11  computation of the votes cast in the voting machine or otherwise
+12  in connection with such voting machine, the persons upon whose
+13  petition such voting machine was recanvassed shall forfeit to
+14  the county the sum of fifty ($50) dollars. If said petitioners
+15  shall have deposited the said sum in cash with the prothonotary
+16  at the time of filing the petition, the prothonotary, upon
+17  certification of the court that fraud or substantial error or
+18  otherwise in connection with such machine was not discovered,
+19  shall pay said sum deposited with him to the county treasurer,
+20  and if the petitioners shall have filed with their petition a
+21  bond in the sum of one hundred ($100) dollars, it shall be the
+22  duty of the county treasurer forthwith to collect from the
+23  principals or surety on said bond the sum of fifty ($50) dollars
+24  and costs of suit, and for this purpose he is hereby authorized
+25  to institute any necessary legal proceedings. When so collected,
+26  the said sum of fifty ($50) dollars shall be paid over to the
+27  county treasurer.
+28     (c)  Voting machines may be recanvassed under the provisions
+29  of this section at any time within twenty days after the date of
+30  the primary or election at which they were used.
+1     Section 12.  Section 1703 of the act, amended May 5, 1982
+2  (P.L.374, No.108), is amended to read:
+3     Section 1703.  Correction of Returns; Decision Not to Be
+4  Final; Evidence for Prosecution.--
+5     (a)  (1)  Any petition to open a ballot box or to recanvass
+6  the votes on a voting machine or an electronic voting system
+7  pursuant to sections 1701 and 1702 shall be filed no later than
+8  five (5) days after the completion of the computational
+9  canvassing of all returns of the county by the county board. If
+10  any error or fraud is found the court shall grant the interested
+11  parties an additional five (5) days to file petitions requesting
+12  additional ballot boxes to be opened or voting machines or
+13  electronic voting systems to be recanvassed.
+14     (i)  Except as set forth in subclause (ii):
+15     (A)  a recount or recanvass shall include all election
+16  districts in which ballots were cast for the office in question;
+17  and
+18     (B)  petitions, accompanied by the appropriate money or bond,
+19  must be filed in each election district in accordance with this
+20  act.
+21     (ii)  Subclause (i) shall not apply if a petitioner under
+22  section 1701 or 1702 pleads that a particular act of fraud or
+23  error occurred and offers prima facie evidence supporting the
+24  allegation.
+25     (2)  If any petition to open a ballot box or to recanvass the
+26  votes on a voting machine or an electronic voting system shall
+27  have been presented, under the provisions of sections 1701 and
+28  1702 of this act and the court shall discover therein any fraud
+29  or error, the court shall correct, compute and certify to the
+30  county board the votes justly, regardless of any fraudulent or
+1  erroneous entries made by the election officers thereof, and the
+2  county board shall correct accordingly any entries previously
+3  made in the returns of the county being prepared by it, or which
+4  have been prepared and not yet certified.
+5     (b)  No order or decision of the court under the provisions
+6  of sections 1701 and 1702 of this act, shall be deemed a final
+7  adjudication regarding the results of any primary or election,
+8  so as to preclude any contest thereof under the provisions of
+9  this article, and no such order or decision shall affect the
+10  official returns of any election district, unless a petition to
+11  open the ballot boxes or to recanvass the votes on a voting
+12  machine or an electronic voting system shall have been presented
+13  before the certification of the returns of the county by the
+14  county board, or unless a contest shall have been instituted in
+15  the manner provided by this article.
+16     (c)  If upon the opening of any ballot box or recanvass of
+17  any voting machine or electronic voting system under the
+18  provisions of this article, it shall be found that fraud was
+19  committed in the computation of the votes cast on the ballots or
+20  voting machine, or in the marking of the ballots contained
+21  therein or otherwise in connection with such ballots, the county
+22  board shall take such steps as shall be appropriate to enable
+23  the ballot box and contents thereof or voting machine or
+24  electronic voting system to be available as evidence in any
+25  prosecution which may be begun against any person or persons
+26  alleged to be guilty of such fraud.
+27     Section 13.  This act shall take effect immediately.
+J1L25VDL/20040H2884B4473        - 26 -

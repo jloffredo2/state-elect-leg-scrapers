@@ -1,0 +1,131 @@
+13     Section 1.  The definition of "registration card" in section
+14  102 of the act of June 30, 1995 (P.L.170, No.25), known as the
+15  Pennsylvania Voter Registration Act, is amended to read:
+16  Section 102.  Definitions.
+17     The following words and phrases when used in this act shall
+18  have the meanings given to them in this section unless the
+19  context clearly indicates otherwise:
+20     * * *
+21     "Registration card."  A registration record containing all
+1  information required on the registration application, including
+2  the elector's signature, and suitable space for the insertion by
+3  the appropriate official of the following information:
+4         (1)  The ward and election district of residence.
+5         (1.1)  The last four digits of the elector's Social
+6     Security number.
+7         (2)  The registrant's street address.
+8         (3)  Data required to be given upon removal from the
+9     registrant's residence.
+10         (4)  The date of each election at which the registrant
+11     votes.
+12         (5)  The number and letter of the stub of the ballot
+13     issued to the registrant or the registrant's number in the
+14     order of admission to the voting machines.
+15         (6)  The initials of the election officer who enters the
+16     record of voting in the district register.
+17         (7)  Whether the registrant needs assistance to vote and,
+18     if so, the nature of the disability.
+19     * * *
+20     Section 2.  Sections 301, 523(b) and 527(a)(1) of the act are
+21  amended to read:
+22  Section 301.  Regulations.
+23     The secretary shall promulgate regulations necessary to
+24  administer this act. The regulations shall include, but not be
+25  limited to, provisions which do all of the following:
+26         (1)  Provide for applicants to submit their voter
+27     registration application to the commission, the Department of
+28     Transportation and other agencies designated in section 525.
+29         (2)  Prescribe a procedure for the return of completed
+30     voter registration applications from the Department of
+1     Transportation, the Department of Public Welfare, armed
+2     forces recruitment centers, Offices of the Clerk of Orphan's
+3     Court and all other offices under this act to the secretary
+4     or the appropriate commission.
+5         [(3)  Prescribe a procedure to conduct a study of the
+6     technological needs and other aspects of the development and
+7     implementation of a Statewide central registry of registered
+8     qualified voters, and the study shall be completed by July 1,
+9     1996.]
+10         (4)  Establish a Statewide central registry of registered
+11     qualified voters. To assist in establishment of the Statewide
+12     central registry, the secretary may appoint a task force to
+13     recommend an implementation strategy, which shall include
+14     provision for making grants available to each commission.
+15  Section 523.  Application with driver's license application.
+16     * * *
+17     (b)  Process.--
+18         (1)  The Department of Transportation shall provide for
+19     an application for voter registration as part of a driver's
+20     license application.
+21         (2)  The format of the driver's license/voter
+22     registration application shall be determined and prescribed
+23     by the secretary and the Secretary of Transportation. The
+24     application shall contain in every case an entry that the
+25     person is registered and show the person's address of record.
+26         (3)  The voter registration application portion of the
+27     application shall contain all the requirements of an official
+28     voter registration application specified in section 527. The
+29     voter registration portion of the application:
+30             (i)  may not require any information that duplicates
+1         information required in the driver's license portion of
+2         the form, other than a second signature; and
+3             (ii)  may require only the minimum amount of
+4         information necessary to prevent duplicate voter
+5         registration, to enable the registration commission to
+6         assess the eligibility of the applicant and to administer
+7         voter registration and other parts of the election
+8         process.
+9     * * *
+10  Section 527.  Preparation and distribution of applications.
+11     (a)  Form.--
+12         (1)  The secretary shall prescribe the form of official
+13     voter registration application. The official voter
+14     registration application shall provide space for the
+15     following information about the applicant:
+16             (i)  Full name.
+17             (i.1)  Last four digits of Social Security number.
+18             (ii)  Address of residence. If the residence is a
+19         portion only of the house, the location or number of the
+20         room, apartment or floor which is occupied.
+21             (iii)  Mailing address if different than address of
+22         residence.
+23             (iv)  Name and residence address on previous
+24         registration and the year of that registration.
+25             (v)  Designation of political party, for the purpose
+26         of voting at a primary election.
+27             (vi)  Date of birth.
+28             (vii)  Telephone number. An application shall not be
+29         rejected because of noncompliance with this subparagraph.
+30             (viii)  Race. An application shall not be rejected
+1         because of noncompliance with this subparagraph.
+2             (ix)  Proof that the applicant has been a citizen of
+3         the United States for at least one month prior to the
+4         next election.
+5         * * *
+6     Section 3.  Section 702 of the act is amended by adding a
+7  subsection to read:
+8  Section 702.  District registers.
+9     * * *
+10     (b.1)  Change of address.--Where the registrant's place of
+11  residence has changed, the registration card file or the
+12  computer list, as the case may be, shall show both the
+13  registrant's current place of residence and the registrant's
+14  previous place of residence.
+15     * * *
+16     Section 4.  The act is amended by adding sections to read:
+17  Section 909.1.  Purging of duplicate registrations.
+18     In addition to the procedure established under section 909,
+19  the commission may cancel or suspend a registration where it
+20  appears that duplicate registrations listing the same address
+21  have been issued.
+22  Section 5101.1.  Federal cooperation and funds.
+23     (a)  Verification of information.--The secretary shall call
+24  upon the United States Immigration and Naturalization Service to
+25  cooperate with each commission to verify proof of citizenship
+26  and Social Security numbers submitted by applicants for
+27  registration.
+28     (b)  Application for Federal funds.--With the approval of the
+29  Governor, the secretary shall make an application for Federal
+30  funds to carry out the voter removal program under section 1901.
+1     Section 5.  This act shall take effect in 60 days.
+D14L25WMB/19990S0969B1124        - 6 -

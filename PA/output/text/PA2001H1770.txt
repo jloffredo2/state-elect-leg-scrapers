@@ -1,0 +1,127 @@
+9     Section 1.  Sections 901 and 1903 of the act of June 30, 1995
+10  (P.L.170, No.25), known as the Pennsylvania Voter Registration
+11  Act, are amended to read:
+12  Section 901.  Removal notices.
+13     (a)  Form.--
+14         (1)  The commission shall make removal notices available
+15     to electors who are registered in the county.
+16         (2)  The notice shall be printed upon cards suitable for
+17     mailing, addressed to the office of the commission. The
+18     notice shall provide the following information:
+1             (i)  The address of present residence, including
+2         municipality.
+3             (ii)  The address of last registration, including
+4         municipality.
+5             (iii)  Date of removal to present residence.
+6             (iv)  Signature.
+7         (3)  The notice shall contain a statement that the
+8     elector may, by filling out properly and signing a removal
+9     notice and returning it to the office of the commission,
+10     secure the transfer of registration effective as to elections
+11     at least 30 days after the date of removal into the new
+12     district.
+13         (4)  The notice shall contain a warning to the elector
+14     that the notice will not be accepted as an application for
+15     transfer of the elector's registration unless the signature
+16     thereon can be identified by the commission as the elector's
+17     signature as it appears on file with the commission.
+18         (5)  The notice shall contain a warning to the elector
+19     that the notice must be received by the commission not later
+20     than 30 days before the election. If mailed, the notice must
+21     be postmarked not later than the deadline for registration
+22     or, in the case of an illegible or missing postmark, received
+23     within five days of the close of registration.
+24     (b)  Use.--An elector who removes residence from one place to
+25  another within the same county must notify the commission by
+26  filing a removal notice under subsection (a), or a signed
+27  request for renewal that contains the information required in
+28  subsection (a), with the commission not later than the
+29  registration deadline before the election. If mailed, the notice
+30  or request must be postmarked not later than the deadline for
+1  registration or, in the case of an illegible or missing
+2  postmark, received within five days of the close of
+3  registration. The following apply:
+4         (1)  An official registration application of an elector
+5     who has registered by mail qualifies as a removal notice.
+6         (2)  An elector who removes residence from one place to
+7     another within the same county and who has not yet filed a
+8     removal notice with the commission shall be permitted to vote
+9     [at the election next following removal if, at the time of
+10     signing voter's certificate, the elector files with the judge
+11     of election a signed removal notice properly filled out.
+12     Removal notices under this paragraph shall be returned to the
+13     commission with the voting check list, and the commission
+14     shall proceed to transfer the registration of the electors
+15     under section 902.] in accordance with sections 1902 and
+16     1903.
+17  Section 1903.  Incorrect records and provisional ballots.
+18     [If] (a)  General rule.--If an elector claims to be properly
+19  registered in the area covered by the polling place and eligible
+20  to vote at the precinct in the election, but his or her
+21  eligibility cannot be determined, or if registration records
+22  incorrectly indicate that an elector has moved from an address
+23  in the area covered by a polling place, the elector shall, upon
+24  written affirmation before an election official at that polling
+25  place, be permitted to vote at that polling place[.] using a
+26  provisional ballot. Once voted, a provisional ballot shall be
+27  placed in an envelope in a form prescribed by the secretary and
+28  substantially in the format required for absentee ballots under
+29  section 1304 of the act of June 3, 1937 (P.L.1333, No.320),
+30  known as the Pennsylvania Election Code.
+1     (b)  Form.--The provisional ballot affirmation shall be in
+2  substantially the following form:
+3                       Commonwealth of Pennsylvania
+4         County of................................................
+5         I do solemnly affirm that my name is....................;
+6         that my birth date is...................................;
+7         that I am registered to vote; that my address is9 9 9 ..;
+8         in......................County, Pennsylvania; and that I
+9         am a qualified elector in this election.
+10                       ............................
+11                           (Signature of voter)
+12         Sworn and subscribed to before me on.....................
+13                       ............................
+14                           (Judge of Elections)
+15         Additional information may be provided to further assist
+16         the judge of elections in determining eligibility. If
+17         known, please provide the place and date that you
+18         registered...............................................
+19     (c)  Alternate rule.--In counties where the voting system
+20  does not utilize paper ballots, the judge of elections shall
+21  provide the appropriate provisional ballot at each polling place
+22  in accordance with regulations issued by the secretary.
+23     (d)  Hearing.--Provisional ballots shall be returned to the
+24  county board with the returns of the local election district
+25  where they shall be placed unopened in a secure, safe and sealed
+26  container in the custody of the county board until it shall fix
+27  a time and place for a formal hearing of all such ballots. A
+28  formal hearing shall be held of all such provisional ballots and
+29  notice shall be given to all electors thus submitting
+30  provisional ballots and to every attorney, watcher or candidate
+1  in the same manner as hearings for challenged absentee ballots
+2  under section 1308(e) of the Pennsylvania Election Code. At such
+3  hearing, the county board shall examine each provisional ballot
+4  to determine if the person voting that ballot was entitled to
+5  vote at the precinct in the election and that the person had not
+6  already cast a ballot in the election.
+7     (e)  Signature.--If it is determined that the person was
+8  registered and entitled to vote at the precinct in the election,
+9  the county board shall compare the signature on the provisional
+10  ballot envelope with the signature on the voter's registration
+11  and, if it matches, shall count the ballot. If it is determined
+12  that the person was registered and entitled to vote at another
+13  precinct in the election, the county board shall compare the
+14  signature on the provisional ballot envelope with the signature
+15  on the voter's registration and, if it matches, shall count the
+16  ballot for all offices the person was eligible to vote for.
+17     (f)  Rejection.--If it is determined that the person voting
+18  the provisional ballot was not registered or entitled to vote in
+19  the county at the election, the provisional ballot shall not be
+20  counted and the ballot shall remain in an envelope marked
+21  "Rejected and illegal."
+22     (g)  Addition.--Upon completion of the computation of the
+23  returns of the county, the votes cast upon provisional ballots
+24  shall be added to the other votes cast within the election
+25  district.
+26     Section 2.  This act shall take effect in 60 days.
+F13L25MRD/20010H1770B2248        - 5 -

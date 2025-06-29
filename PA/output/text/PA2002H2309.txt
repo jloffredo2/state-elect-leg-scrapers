@@ -1,0 +1,163 @@
+8     Section 1.  Sections 301 and 521 of the act of June 30, 1995
+9  (P.L.170, No.25), known as the Pennsylvania Voter Registration
+10  Act, are amended to read:
+11  Section 301.  Regulations.
+12     The secretary shall promulgate regulations necessary to
+13  administer this act. The regulations shall include, but not be
+14  limited to, provisions which do all of the following:
+15         (1)  Provide for applicants to submit their voter
+16     registration application to the commission[,] and the
+17     Department of Transportation [and other agencies designated
+18     in section 525].
+1         (2)  Prescribe a procedure for the return of completed
+2     voter registration applications from the Department of
+3     Transportation[, the Department of Public Welfare, armed
+4     forces recruitment centers, Offices of the Clerk of Orphan's
+5     Court] and all other offices under this act to the secretary
+6     or the appropriate commission.
+7         (3)  Prescribe a procedure to conduct a study of the
+8     technological needs and other aspects of the development and
+9     implementation of a Statewide central registry of registered
+10     qualified voters, and the study shall be completed by July 1,
+11     1996.
+12  Section 521.  Methods of voter registration.
+13     An individual qualified to register to vote under section
+14  501(a) may apply to register as follows:
+15         (1)  In person under section 522.
+16         (2)  In conjunction with an application for a motor
+17     vehicle driver's license under section 523.
+18         (3)  By mail application under section 524.
+19         [(4)  In conjunction with certain government agency
+20     services under section 525.]
+21     Section 2.  Section 525 of the act is repealed.
+22     Section 3.  Sections 526(b), 527(a)(3) and (4) and (b)(3),
+23  706(a) and 1701(a) of the act are amended to read:
+24  Section 526.  Time.
+25     * * *
+26     (b)  Deadlines.--In the administration of voter registration,
+27  each commission shall ensure that any eligible applicant is
+28  registered to vote in an election when the applicant has met any
+29  of the following conditions:
+30         (1)  In the case of voter registration with a motor
+1     vehicle driver's license application under section 523, if
+2     the valid voter registration application is submitted to the
+3     appropriate Department of Transportation office not later
+4     than 30 days before the date of the election.
+5         (2)  In the case of registration by mail under section
+6     524, if the valid voter registration mail application is
+7     postmarked not later than the deadline to register for the
+8     ensuing election or, in the case of an illegible or missing
+9     postmark, it is received not later than five days after the
+10     deadline to register for the ensuing election.
+11         [(3)  In the case of voter registration at a voter
+12     registration agency under section 525, if the valid voter
+13     registration application is accepted at the voter
+14     registration agency not later than 30 days before the date of
+15     the election.]
+16         (4)  In any other case, if the valid voter registration
+17     application of the applicant is received by the appropriate
+18     commission not later than 30 days before the election.
+19     * * *
+20  Section 527.  Preparation and distribution of applications.
+21     (a)  Form.--
+22         * * *
+23         (3)  Any person who assists in the completion of the
+24     registration application shall sign the application and
+25     indicate the person's address. In the case of those
+26     registering under [sections 523 and 525] section 523, the
+27     person providing assistance shall insert the person's
+28     initials or employee or agent identification number on a
+29     separate or detachable portion of the application or computer
+30     data file.
+1         (4)  A voter registration application shall be printed on
+2     stock of good quality and shall be of suitable uniform size.
+3     Nothing in this act shall prohibit the design and use of an
+4     electronic voter registration application which includes the
+5     applicant's digitized signature. The registration application
+6     shall contain the following information; however, the
+7     information may be provided on a separate form for voter
+8     registration made under section 523 [or 525]:
+9             (i)  Notice that an individual currently registered
+10         does not need to reregister unless the individual has
+11         moved.
+12             (ii)  Instructions on how to fill out and submit the
+13         application and notification of when the application must
+14         be submitted to a voter registration office in order to
+15         be registered for the ensuing election.
+16             (iii)  Notice that the registrant must be a citizen
+17         of the United States for at least one month prior to the
+18         next election and a resident of this Commonwealth and the
+19         election district for at least 30 days and must be at
+20         least 18 years of age by the day of the next ensuing
+21         election and has not been confined in a penal institution
+22         for a conviction of a felony within the last five years.
+23         The notice required in this subparagraph shall be in
+24         print identical to the declaration under subsection (b).
+25             (iv)  Notice that political party enrollment is
+26         mandatory to vote in a primary election of a political
+27         party.
+28             (v)  Notice that the commission will mail by
+29         nonforwardable mail to the applicant a voter's
+30         identification card upon acceptance of the application
+1         and that the registrant should contact the commission if
+2         the identification card is not received within 14 days
+3         from the date the application is sent to the registration
+4         office.
+5             (vi)  Notice that registration is not complete until
+6         the application is processed and accepted by the
+7         commission.
+8             (vii)  A warning to the registrant that making a
+9         false registration or furnishing false information is
+10         perjury. The notice required in this subparagraph shall
+11         be in print identical to the declaration under subsection
+12         (b).
+13             (viii)  Instructions to Federal or State employees
+14         who wish to retain voting residence in county of last
+15         residence to so indicate on the application.
+16             (ix)  Notice that, if an applicant declines to
+17         register to vote, the fact that the applicant has
+18         declined to register will remain confidential and will be
+19         used only for voter registration purposes. The notice
+20         required in this subparagraph shall be in print identical
+21         to the declaration under subsection (b).
+22             (x)  Notice that, if an applicant does register to
+23         vote, the office at which the applicant submits a voter
+24         registration application will remain confidential and
+25         will be used for voter registration purposes only. The
+26         notices required in this subparagraph shall be in print
+27         identical to the declaration in subsection (b).
+28         * * *
+29     (b)  Registration declaration.--
+30         * * *
+1         (3)  The registration declaration shall contain the
+2     printed name and signature of the applicant and the date of
+3     signing. An applicant unable to sign the voter registration
+4     application shall make a mark before a person of the
+5     applicant's choice other than the applicant's employer or an
+6     agent of the applicant's union. Such person shall insert the
+7     person's name, address and telephone number. If such person
+8     is an employee or agent of the Department of Transportation
+9     [or another agency, as provided under section 525,] and is
+10     assisting the applicant in an official capacity, such
+11     employee or agent shall insert the initials and
+12     identification number of the employee or agent. In the case
+13     of applicants registering under section 523 [or 525], the
+14     person providing assistance shall insert initials or employee
+15     or agent identification number on a separate or detachable
+16     portion of the application or computer data file.
+17         * * *
+18  Section 706.  Reports.
+19     (a)  Commission.--By March 1, the commission shall submit to
+20  the secretary an annual report setting forth the number of
+21  electors registered under sections 522, 523[, 524 and 525] and
+22  524. The report shall specify the number of electors whose
+23  registration has been canceled under Chapter 9 and any other
+24  information required by the secretary.
+25     * * *
+26  Section 1701.  Attorney General.
+27     (a)  Investigation.--The secretary shall investigate alleged
+28  violations of [sections 523 and 525] section 523 and report
+29  apparent violations to the Attorney General.
+30     * * *
+1     Section 4.  This act shall take effect immediately.
+E24L25BIL/20020H2309B3177        - 7 -

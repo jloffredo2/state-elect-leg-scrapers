@@ -1,0 +1,189 @@
+9     Section 1.  Section 521 of the act of June 30, 1995 (P.L.170,
+10  No.25), known as the Pennsylvania Voter Registration Act, is
+11  amended by adding a paragraph to read:
+12  Section 521.  Methods of voter registration.
+13     An individual qualified to register to vote under section
+14  501(a) may apply to register as follows:
+15         * * *
+16         (2.1)  In conjunction with college and university student
+17     registration under section 523.1.
+18         * * *
+19     Section 2.  The act is amended by adding a section to read:
+1  Section 523.1.  Application with college and university student
+2                 registration.
+3     (a)  General rule.--
+4         (1)  The Department of Education shall provide voter
+5     registration applications and information to all State-owned
+6     institutions and State-related institutions, as defined in
+7     section 2 of the act of May 26, 1988 (P.L.448, No.73), known
+8     as the College and University Security Information Act. The
+9     institution shall inform and provide voter registration
+10     applications and information to students upon registration. A
+11     registration under this section shall serve as an application
+12     to register to vote unless the applicant fails to sign the
+13     voter registration application. The Secretary of Education
+14     has the primary responsibility for implementing and enforcing
+15     the student registration/voter registration system created
+16     under this section. The secretary, in consultation with the
+17     Secretary of Education, may promulgate regulations for
+18     implementing this section.
+19         (2)  An application for voter registration submitted to
+20     the Department of Education under this subsection shall be
+21     considered as updating any previous voter registration
+22     information by the applicant.
+23         (3)  Any change of address submitted to the Department of
+24     Education for the purposes of student registration shall
+25     serve as notification of change of address for voter
+26     registration for the registrant involved unless the
+27     registrant indicates that the change of address is not for
+28     voter registration purposes.
+29     (b)  Process.--
+30         (1)  The Department of Education shall provide for an
+1     application for voter registration as part of student
+2     registration.
+3         (2)  The format of the student registration/voter
+4     registration application shall be determined and prescribed
+5     by the secretary and the Secretary of Education.
+6         (3)  The voter registration application portion of the
+7     application shall contain all the requirements of an official
+8     voter registration application specified in section 527. The
+9     voter registration portion of the application:
+10             (i)  may not require any information that duplicates
+11         information required in the student registration portion
+12         of the form, other than a second signature; and
+13             (ii)  may require only the minimum amount of
+14         information necessary to prevent duplicate voter
+15         registration, to enable the registration commission to
+16         assess the eligibility of the applicant and to administer
+17         voter registration and other parts of the election
+18         process.
+19     (c)  Transmission.--
+20         (1)  The Department of Education shall forward completed
+21     applications or contents of the completed voter registration
+22     applications in machine-readable format to the department.
+23         (2)  The department shall transmit the material to the
+24     appropriate commission within ten days after the date of its
+25     receipt by the Department of Education. If a voter
+26     registration application is received by the Department of
+27     Education within five days before the last day to register
+28     before an election, the application shall be transmitted to
+29     the appropriate commission not later than five days after the
+30     date of its receipt by the Department of Education.
+1         (3)  Upon receipt of the completed voter registration
+2     information from the department, the commission shall make a
+3     record of the date of the receipt of the application and
+4     process the application. No applicant shall be deemed
+5     eligible to vote until the commission has received and
+6     approved the application.
+7         (4)  Changes of address shall comply with the following:
+8             (i)  The Department of Education shall notify the
+9         secretary of changes of address received under subsection
+10         (a)(3). The secretary shall notify the commission of the
+11         county of the registrant's prior residence. Except as
+12         provided in subparagraph (ii), if the registrant has
+13         moved outside of the county, the commission shall forward
+14         the registrant's registration card to the commission of
+15         the registrant's new county of residence. Except as
+16         provided in subparagraph (ii), if the registrant has
+17         moved to an address within the commission's jurisdiction,
+18         the commission shall update the registration record of
+19         the registrant.
+20             (ii)  In the case of changes of address received by
+21         the Department of Education which do not contain a
+22         signature of the registrant, the commission receiving the
+23         change of address notification shall mail a notice to the
+24         registrant at the new residence address requesting
+25         verification of the address change. The verification
+26         notice shall be in substantially the following form:
+27         Date................
+28               Office of the Registration Commission
+29                  .......... County, Pennsylvania
+30         ........ (Address and Telephone No. of Commission)
+1         We have been notified by the Department of Education that
+2         you recently moved from ................. (old residence
+3         address) to ............... (new residence address) and
+4         that this change of address is to serve as a change of
+5         address for voter registration purposes. Unless you
+6         notify this office within ten days from the date of this
+7         notice that this information is not correct, your voter
+8         registration will be transferred to ........... County.
+9         You may notify this office by calling the telephone
+10         number appearing on this form or by mailing this notice
+11         to this office. You need not notify this office if this
+12         information is correct.
+13                                 ............................
+14                                                Chief Clerk
+15         If the address change is within the commission's
+16         jurisdiction, the county shall notify the registrant what
+17         precinct the new address is in using the following form:
+18         Date...............
+19               Office of the Registration Commission
+20                 ............ County, Pennsylvania
+21        .......... (Address and Telephone No. of Commission)
+22         We have been notified by the Department of Education that
+23         you recently moved from ............... (old residence
+24         address) to ............... (new residence address) and
+25         that this change of address is to serve as a change of
+26         address for voter registration purposes. Unless you
+27         notify this office within ten days from the date of this
+28         notice that this information is not correct, your voter
+29         registration will be transferred to ............... (new
+30         precinct) in this county. You may notify this office by
+1         calling the telephone number appearing on this form or by
+2         mailing this notice to this office. You need not notify
+3         this office if this information is correct.
+4                                 ............................
+5                                                Chief Clerk
+6         Such notices must be sent by first class nonforwardable
+7         mail, return postage guaranteed, and must be in a form
+8         approved by the secretary and designed in such a manner
+9         to allow the registrant to indicate that the address
+10         change is incorrect, the reason why such discrepancy
+11         exists and to allow for return to the county commission.
+12         Such notice must be signed by the registrant and dated.
+13             (iii)  If the registrant does not return the notice
+14         under subparagraph (ii) within the ten-day period, the
+15         commission shall process the change of address according
+16         to subparagraph (i). If the registrant notifies the
+17         commission that the information is incorrect and the
+18         commission is satisfied with the registrant's explanation
+19         of the discrepancy, the address of the registrant's
+20         registration shall remain unchanged. If the verification
+21         notification is returned by the post office, the
+22         commission shall direct a confirmation notice to the
+23         registrant's address of former residence in accordance
+24         with section 1901(d)(2).
+25     (d)  Prohibition.--An individual who is not a qualified
+26  elector is ineligible to register to vote under this section.
+27     (e)  Effect.--Failure to properly complete a voter
+28  registration application shall not affect the validity of
+29  student registration, a renewal application or an identification
+30  card application.
+1     (f)  Use of information.--No information regarding a
+2  declination to register to vote in connection with an
+3  application made under this section may be used for any purpose
+4  other than voter registration.
+5     (g)  Staff.--Agents and employees working on behalf of the
+6  Department of Education assisting in the completion of voter
+7  registration applications shall conduct themselves in a manner
+8  consistent with the following principles:
+9         (1)  They shall not seek to influence an applicant's
+10     political preference or party registration or display
+11     political preference or party allegiance.
+12         (2)  They shall not make a statement to an applicant or
+13     take an action the purpose or effect of which is to
+14     discourage the applicant from registering to vote.
+15         (3)  Applicants wishing to register to vote under this
+16     section shall be given the same degree of assistance with the
+17     voter registration application as with all other registration
+18     forms.
+19  Employees of State-owned institutions and State-related
+20  institutions, as defined in section 2 of the act of May 26, 1988
+21  (P.L.448, No.73), known as the College and University Security
+22  Information Act, who violate this subsection shall be removed
+23  from employment, provided that the agency at its discretion may
+24  impose a penalty of suspension without pay for at least 30 days,
+25  but not more than 120 days, if it finds that the violation does
+26  not warrant termination.
+27     Section 3.  This act shall take effect in 60 days.
+D9L25SAF/19960H2654B3624         - 7 -

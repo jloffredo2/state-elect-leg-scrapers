@@ -1,0 +1,315 @@
+7     Section 1.  Sections 1301, 1325(b) and 1327 of Title 25 of
+8  the Pennsylvania Consolidated Statutes are amended to read:
+9  § 1301.  Qualifications to register.
+10     (a)  Eligibility.--An individual who will be at least 18
+11  years of age on the day of the next election, who has been a
+12  citizen of the United States for at least one month prior to the
+13  next election and who has resided in this Commonwealth and the
+14  election district where the individual offers to vote for at
+15  least 30 days prior to the next ensuing election and has not
+16  been confined in a penal institution for a conviction of a
+1  felony within the last five years shall be eligible to register
+2  as provided in this chapter.
+3     (b)  Effect.--No individual shall be permitted to vote at any
+4  election unless the individual is registered under this
+5  subsection, except as provided by law or by order of a court of
+6  common pleas. No registered elector shall be required to
+7  register again for any election while the elector continues to
+8  reside at the same address.
+9     (c)  Removal of residence.--Except as otherwise provided by
+10  this part, a registered elector who removes residence from one
+11  place to another outside the elector's last election district
+12  shall not be entitled to vote in the election district of the
+13  elector's last residence except pursuant to the provisions of
+14  this section and sections 1501(b) (relating to removal notices),
+15  1502 (relating to transfer of registration) and 1902 (relating
+16  to procedure for voting following failure to return notification
+17  card).
+18     (d)  Eligibility for primaries.--An individual who meets the
+19  requirements of subsection (a) who will be at least 18 years of
+20  age on the day of the next general or municipal election may
+21  register and vote for the corresponding primary. No person shall
+22  be entitled to vote as a member of a party at any primary unless
+23  he is registered and enrolled as a member of such party upon the
+24  district register. This enrollment upon the district register
+25  shall be conclusive as to his party membership and shall not be
+26  subject to challenge on the day of the primary.
+27  § 1325.  Government agencies.
+28     * * *
+29     (b)  Forms.--An agency designated in subsection (a) shall
+30  provide a form for office visits or, if the agency provides
+1  services to persons with disabilities, for home visits which
+2  contains all of the following:
+3         (1)  The question "If you are not registered to vote
+4     where you live now, would you like to apply to register to
+5     vote today?"
+6         (2)  If the agency provides public assistance, the
+7     statement "Applying to register or declining to register to
+8     vote will not affect the amount of assistance that you will
+9     be provided by this agency."
+10         (3)  Boxes for the applicant to check to indicate whether
+11     the applicant would like to register or decline to register
+12     to vote. In close proximity to the boxes the following words
+13     shall appear in prominent type: "IF YOU DO NOT CHECK EITHER
+14     BOX, YOU WILL BE CONSIDERED TO HAVE DECIDED NOT TO REGISTER
+15     TO VOTE AT THIS TIME."
+16         (4)  The statement "In order to be qualified to register
+17     to vote, you must be at least 18 years of age on the day of
+18     the next general, municipal or special election, you must
+19     have been a citizen of the United States for at least one
+20     month prior to the next election and have resided in
+21     Pennsylvania and the election district where you plan to vote
+22     for at least 30 days prior to the next election, and you must
+23     not have been confined in a penal institution for a
+24     conviction of a felony within the last five years."
+25         (5)  The statement "If you would like help in filling out
+26     the voter registration application form, we will help you.
+27     The decision whether to seek help is yours. You may fill out
+28     the form in private."
+29         (6)  The statement "If you believe that someone has
+30     interfered with your right to register or to decline to
+1     register to vote, your right to privacy in deciding whether
+2     to register or in applying to register to vote or your right
+3     to choose your own political party or other political
+4     preference, you may file a complaint with the Secretary of
+5     the Commonwealth, Pennsylvania Department of State,
+6     Harrisburg, PA 17120." The secretary shall establish and
+7     publish a toll-free telephone number for the purpose of
+8     receiving complaints.
+9     * * *
+10  § 1327.  Preparation and distribution of applications.
+11     (a)  Form.--
+12         (1)  The secretary shall prescribe the form of an
+13     official voter registration application. The official voter
+14     registration application shall provide space for the
+15     following information about the applicant:
+16             (i)  Full name.
+17             (ii)  Address of residence. If the residence is a
+18         portion only of the house, the location or number of the
+19         room, apartment or floor which is occupied.
+20             (iii)  Mailing address if different than address of
+21         residence.
+22             (iv)  Name and residence address on previous
+23         registration and the year of that registration.
+24             (v)  Designation of political party, for the purpose
+25         of voting at a primary election.
+26             (vi)  Date of birth.
+27             (vii)  Telephone number. An application shall not be
+28         rejected because of noncompliance with this subparagraph.
+29             (viii)  Race. An application shall not be rejected
+30         because of noncompliance with this subparagraph.
+1         (2)  Data required on the voter registration application
+2     shall not be more nor less than the minimum data elements
+3     permissible for Federal voter registration.
+4         (3)  Any person who assists in the completion of the
+5     registration application shall sign the application and
+6     indicate the person's address. In the case of those
+7     registering under sections 1323 (relating to application with
+8     driver's license application) and 1325 (relating to
+9     government agencies), the person providing assistance shall
+10     insert the person's initials or employee or agent
+11     identification number on a separate or detachable portion of
+12     the application or computer data file.
+13         (4)  A voter registration application shall be printed on
+14     stock of good quality and shall be of suitable uniform size.
+15     Nothing in this part shall prohibit the design and use of an
+16     electronic voter registration application which includes the
+17     applicant's digitized or electronic signature. The
+18     registration application shall contain the following
+19     information; however, the information may be provided on a
+20     separate form for voter registration made under section 1323
+21     or 1325:
+22             (i)  Notice that a registered elector does not need
+23         to reregister unless the registered elector has moved.
+24             (ii)  Instructions on how to fill out and submit the
+25         application and notification of when the application must
+26         be submitted to a voter registration office in order to
+27         be registered for the ensuing election.
+28             (iii)  Notice that the applicant must be a citizen of
+29         the United States for at least one month prior to the
+30         next election and a resident of this Commonwealth and the
+1         election district for at least 30 days and must be at
+2         least 18 years of age by the day of the next [ensuing]
+3         general, municipal or special election and has not been
+4         confined in a penal institution for a conviction of a
+5         felony within the last five years. The notice required in
+6         this subparagraph shall be in print identical to the
+7         declaration under subsection (b).
+8             (iv)  Notice that political party enrollment is
+9         mandatory to vote in a primary election of a political
+10         party.
+11             (v)  Notice that the commission will mail by
+12         nonforwardable mail to the applicant a voter's
+13         identification card upon acceptance of the application
+14         and that the applicant should contact the commission if
+15         the identification card is not received within 14 days
+16         from the date the application is sent to the registration
+17         office.
+18             (vi)  Notice that registration is not complete until
+19         the application is processed and accepted by the
+20         commission.
+21             (vii)  A warning to the applicant that making a false
+22         registration or furnishing false information is perjury.
+23         The notice required in this subparagraph shall be in
+24         print identical to the declaration under subsection (b).
+25             (viii)  Instructions to Federal or State employees
+26         who wish to retain voting residence in county of last
+27         residence to so indicate on the application.
+28             (ix)  Notice that, if an individual declines to
+29         register to vote, the fact that the individual has
+30         declined to register will remain confidential and will be
+1         used only for voter registration purposes. The notice
+2         required in this subparagraph shall be in print identical
+3         to the declaration under subsection (b).
+4             (x)  Notice that, if an individual does register to
+5         vote, the office at which the individual submits a voter
+6         registration application will remain confidential and
+7         will be used for voter registration purposes only. The
+8         notices required in this subparagraph shall be in print
+9         identical to the declaration in subsection (b).
+10         (5)  In jurisdictions where there is a single language
+11     minority, the secretary may print a bilingual application.
+12         (6)  In jurisdictions where a single language minority
+13     exceeds 5% of the population, the secretary shall:
+14             (i)  print a bilingual application; and
+15             (ii)  conduct a public educational program among that
+16         language group alerting both organizations and
+17         individuals of that group of the availability of the
+18         bilingual application and encouraging individuals to
+19         register.
+20         (7)  To implement section 1324 (relating to application
+21     by mail), the secretary shall print an official voter
+22     registration mail application designed to preserve the
+23     confidentiality of the information required to be submitted.
+24     The application shall contain information required by this
+25     section and shall include the name of each county seat, its
+26     post office mailing address and zip code and its telephone
+27     number. Voter registration mail applications shall contain
+28     information indicating whether the application is a new
+29     registration, change of party enrollment, change of address
+30     or change of name.
+1         (8)  Nothing in this part shall prohibit a private
+2     organization or individual from printing blank voter
+3     registration applications or shall prohibit the use of such
+4     applications by any other individual, provided that the form,
+5     content and paper quality of such voter registration
+6     application complies with department regulations for the
+7     forms or has received prior approval from the secretary.
+8     (b)  Registration declaration.--
+9         (1)  The official voter registration application shall
+10     contain a registration declaration. On the declaration, the
+11     applicant shall state all of the following:
+12             (i)  The applicant has been a citizen of the United
+13         States for at least one month prior to the next election.
+14             (ii)  On the day of the next [ensuing] general,
+15         municipal or special election, the applicant shall be at
+16         least 18 years of age.
+17             (iii)  On the day of the next ensuing election, the
+18         applicant shall have resided in this Commonwealth and in
+19         the election district for at least 30 days.
+20             (iv)  The applicant has not been confined in a penal
+21         institution for a conviction of a felony within the last
+22         five years.
+23             (v)  The applicant is legally qualified to vote.
+24         (2)  The applicant shall affirm all of the following:
+25             (i)  The information provided in the registration
+26         declaration is true.
+27             (ii)  The applicant understands that:
+28                 (A)  the registration declaration will be
+29             accepted for all purposes as the equivalent of an
+30             affidavit; and
+1                 (B)  if the registration contains a material
+2             false statement, the applicant shall be subject to
+3             penalties for perjury.
+4         (3)  The registration declaration shall contain the
+5     printed name and signature of the applicant and the date of
+6     signing. An applicant unable to sign the voter registration
+7     application shall make a mark before a person of the
+8     applicant's choice other than the applicant's employer or an
+9     agent of the applicant's union. The person shall insert the
+10     person's name, address and telephone number. If the person is
+11     an employee or agent of the Department of Transportation or
+12     another agency as provided under section 1325 and is
+13     assisting the applicant in an official capacity, the employee
+14     or agent shall insert the initials and identification number
+15     of the employee or agent. In the case of applicants
+16     registering under section 1323 or 1325, the person providing
+17     assistance shall insert initials or employee or agent
+18     identification number on a separate or detachable portion of
+19     the application or computer data file.
+20         (4)  The official registration application shall contain
+21     a notice entitled "PENALTY FOR FALSIFYING DECLARATION." The
+22     notice shall advise the applicant that if a person signs an
+23     official registration application knowing a statement
+24     declared in the application to be false, the person commits
+25     perjury. The notice shall specify the penalty for perjury.
+26     (c)  Distribution.--
+27         (1)  The secretary shall supply official registration
+28     applications to commissions.
+29         (2)  The secretary shall make available for distribution
+30     official voter registration applications to public libraries,
+1     public schools, State-related institutions of higher
+2     education, offices operated by the Department of Revenue,
+3     offices operated by the Department of Aging, area agencies on
+4     aging, offices operated by the Pennsylvania Game Commission
+5     or any of its authorized license-issuing agents, offices
+6     operated by the Pennsylvania Fish and Boat Commission or any
+7     of its issuing agents, and offices that provide unemployment
+8     compensation.
+9         (3)  Each participating agency identified under paragraph
+10     (2) shall:
+11             (i)  Provide that official voter registration mail
+12         applications are available on the premises and displayed
+13         prominently in a conspicuous location during normal
+14         business hours.
+15             (ii)  Provide an official voter registration mail
+16         application to any individual requesting one.
+17             (iii)  Provide reasonable space for nonpartisan signs
+18         or posters indicating the availability of official voter
+19         registration mail applications on the premises.
+20         (4)  The secretary may provide technical assistance to
+21     commissions upon request and agencies designated under
+22     paragraph (2).
+23         (5)  The secretary shall print and distribute mail
+24     registration applications which are not postage paid and
+25     which shall not be specific to any county registration
+26     office. Along with the distribution of such applications, the
+27     secretary shall also include instructions to inform the
+28     applicant where the application is to be sent.
+29         (6)  The secretary and commissions shall supply
+30     applications to all of the following:
+1             (i)  Persons and organizations who request
+2         applications.
+3             (ii)  Federal, State and political subdivision
+4         offices.
+5             (iii)  Political parties and political bodies.
+6             (iv)  Candidates.
+7     (d)  Staff.--Agency employees assisting in the distribution
+8  of voter registration applications under subsection (c) shall
+9  conduct themselves in a manner consistent with the following
+10  principles:
+11         (1)  They shall not seek to influence an applicant's
+12     political preference or party registration or display
+13     political preference or party allegiance.
+14         (2)  They shall not make any statement to an applicant or
+15     take any action the purpose of or effect of which is to
+16     discourage the applicant from registering to vote.
+17         (3)  They shall not make any statement to an applicant or
+18     take any action the purpose of or effect of which is to lead
+19     the applicant to believe that a decision to register or not
+20     to register has any bearing on the availability of services
+21     or benefits.
+22  Agency employees who violate this subsection shall be removed
+23  from employment, provided that the agency at its discretion may
+24  impose a penalty of suspension without pay for at least 30 days,
+25  but not more than 120 days, if it finds that the violation does
+26  not warrant termination.
+27     Section 2.  Repeals are as follows:
+28         (1)  The General Assembly declares that the repeal under
+29     paragraph (2) is necessary to effectuate the amendment of 25
+30     Pa.C.S. §§ 1301, 1325(b) and 1327.
+1         (2)  Sections 701, 702, 703 and 704 of the act of June 3,
+2     1937 (P.L.1333, No.320), known as the Pennsylvania Election
+3     Code, are repealed.
+4     Section 3.  This act shall take effect in 60 days.
+A11L25SFL/20070H0520B0593       - 12 -

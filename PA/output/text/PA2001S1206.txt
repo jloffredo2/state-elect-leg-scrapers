@@ -1,0 +1,76 @@
+15     Section 1.  Section 102 of the act of June 3, 1937 (P.L.1333,
+16  No.320), known as the Pennsylvania Election Code, is amended by
+17  adding subsections to read:
+18     Section 102.  Definitions.--The following words, when used in
+19  this act, shall have the following meanings, unless otherwise
+20  clearly apparent from the context:
+21     * * *
+22     (z-5)  The word "punchcard" shall mean a system that employs
+1  a card (or cards) and a small clipboard-sized device for
+2  recording votes. Voters use a supplied punch device to punch
+3  holes in the cards, either opposite their candidate and ballot
+4  issue choice or in numbered positions which are assigned to
+5  candidate and issue choices listed in a separate booklet. After
+6  voting, the voter may place the ballot into a computer vote
+7  tabulating device at the election district or a ballot box for
+8  return to a central tabulating device.
+9     (z-6)  The words "mark sense or optical scan" shall mean a
+10  system that employs a paper ballot, or ballot card on which
+11  candidates and issue choices are preprinted next to an empty
+12  rectangle, circle, oval or an incomplete arrow. After voting,
+13  the voter may place the ballot into a computer vote tabulating
+14  device at the election district or a ballot box for return to a
+15  central tabulating device. The tabulating device reads the votes
+16  using dark mark logic, whereby the computer selects the darkest
+17  mark within a given set as the current choice or vote.
+18     (z-7)  The words "direct recording electronic" or "DRE" shall
+19  mean a system that is an electronic implementation of the old
+20  mechanical lever system. There is no ballot, as all possible
+21  choices are visible to the voter on the front of the machine, or
+22  by scrolling, or advancing through pages, or screens on the
+23  front of the machine. The voter directly enters choices into
+24  electronic storage with the use of a touchscreen, push buttons
+25  or similar device. The voters choices are stored within the
+26  machines internal memory and/or committed to a memory cartridge,
+27  diskette or smart card and added to the choices of all other
+28  voters.
+29     Section 2.  Section 1107-A(3) of the act, added July 11, 1980
+30  (P.L.600, No.128), is amended to read:
+1     Section 1107-A.  Requirements of Electronic Voting Systems.--
+2  No electronic voting system shall, upon any examination or
+3  reexamination, be approved by the Secretary of the Commonwealth,
+4  or by any examiner appointed by him, unless it shall be
+5  established that such system, at the time of such examination or
+6  reexamination:
+7     * * *
+8     (3)  Permits each voter, at other than primary elections, to
+9  vote a straight political party ticket by one mark or act and,
+10  by one mark or act, to vote for all the candidates of one
+11  political party for presidential electors and, by one mark or
+12  act, to vote for all the candidates of one political party for
+13  every office to be voted for, and every such mark or act shall
+14  be equivalent to and shall be counted as a vote for every
+15  candidate of the political party so marked including its
+16  candidates for presidential electors, except in:
+17     (i)  counties using punchcard, mark sense, or optical scan
+18  systems with respect to those offices as to which the voter has
+19  registered a vote for individual candidates of the same or
+20  another political party or political body, in which case the
+21  automatic tabulating equipment shall credit the vote for that
+22  office only for the candidate individually so selected,
+23  notwithstanding the fact that the voter may not have
+24  individually voted for the full number of candidates for that
+25  office for which he was entitled to vote[.]; or
+26     (ii)  counties using direct recording electronic devices with
+27  respect to those offices where the voter has deselected their
+28  vote for individual candidates of the straight political party
+29  vote and selected individual candidates of another political
+30  party or political body, in which case the automatic tabulating
+1  equipment shall credit the vote for all candidates of the
+2  straight political party vote which the voter has not
+3  individually deselected and for any candidate of another
+4  political party or political body which the voter has
+5  individually selected.
+6     * * *
+7     Section 3.  This act shall take effect immediately.
+J9L25MSP/20010S1206B1520         - 4 -

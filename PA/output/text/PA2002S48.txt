@@ -1,0 +1,521 @@
+14     Section 1.  Section 1003(a) and (f) of the act of June 3,
+15  1937 (P.L.1333, No.320), known as the Pennsylvania Election
+16  Code, amended April 24, 1947 (P.L.68, No.33) and December 10,
+17  1974 (P.L.835, No.280), are amended to read:
+18     Section 1003.  Form of Official Election Ballot.--
+19     (a)  (1)  The official ballots for general, municipal and
+20  special elections shall be in substantially the following form:
+21                          OFFICIAL BALLOT
+22  ........... District, ........... Ward, City of ...............,
+1  County of ................., State of Pennsylvania ............
+2  Election held on the ..... day of .........., 19.. A cross (X)
+3  or check ( ) mark in the square opposite the name of any
+4  candidate indicates a vote for that candidate.
+5     (2)  [To vote a straight party ticket, mark a cross (X) or
+6  check ( ) in the square, in the Party Column, opposite the name
+7  of the party of your choice.] To vote for an individual
+8  candidate [of another party after making a mark in the party
+9  square], mark a cross (X) or check ( ) opposite his name. For an
+10  office where more than one candidate is to be voted for, the
+11  voter, after marking in the party square, may divide his vote by
+12  marking a cross (X) or check ( ) to the right of each candidate
+13  for whom he or she desires to vote. For such office votes shall
+14  not be counted for candidates not individually marked.
+15     (3)  To vote for a person whose name is not on the ballot,
+16  write, print or paste his name in the blank space provided for
+17  that purpose. A cross (X) or check ( ) mark in the square
+18  opposite the names of the candidates of any party for President
+19  and Vice-President of the United States indicates a vote for all
+20  the candidates of that party for presidential elector. To vote
+21  for individual candidates for presidential elector, write, print
+22  or paste their names in the blank spaces provided for that
+23  purpose under the title "Presidential Electors." Mark ballot
+24  only in black lead pencil, indelible pencil or blue, black or
+25  blue-black ink, in fountain pen or ball point pen; use the same
+26  pencil or pen for all markings you place on the ballot.
+27     (4)  Before leaving the voting compartment, fold this ballot,
+28  without displaying the markings thereon, in the same way it was
+29  folded when received, then leave the compartment and exhibit the
+30  ballot to one of the election officers who shall ascertain by an
+1  inspection of the number appearing upon the right hand corner of
+2  the back of the ballot whether the ballot so exhibited to him is
+3  the same ballot which the elector received before entering the
+4  voting compartment. If it is the same, the election officer
+5  shall direct the elector, without unfolding the ballot, to
+6  remove the perforated corner containing the number, and the
+7  elector shall immediately deposit the ballot in the ballot box.
+8  Any ballot deposited in a ballot box at any primary or election
+9  without having the said number torn off shall be void and shall
+10  not be counted.
+11          Party Column                 Presidential Electors
+12  [To Vote a Straight Party Ticket    (Vote for the candidates of
+13  Mark a Cross (X) or Check ( ) in   one party for President and
+14  this Column.]                      Vice-President, or insert the
+15                                     names of candidates.)
+16                                       For
+17          Democratic                 John Stiles
+18                                       and
+19                                     Richard Doe,
+20                                     Democratic ..................
+21                                       For
+22          Republican                 John Doe
+23                                       and
+24                                     Richard Roe,
+25                                     Republican ..................
+26                                       For
+27          Socialist                  John Smith
+28                                       and
+29                                     William Jones,
+30                                     Socialist ...................
+1          Citizens
+2                       United States Senator.
+3                           (Vote for one)
+4  Richard Roe ...................................... Democratic
+5  John Doe ......................................... Republican
+6  Richard Stiles ................................... Socialist
+7                             Governor.
+8                           (Vote for one)
+9  Richard Roe ...................................... Democratic
+10  John Doe ......................................... Republican
+11  Richard Stiles ................................... Socialist
+12                    Representative in Congress,
+13                         ....... District.
+14                           (Vote for one)
+15  Richard Roe ...................................... Democratic
+16  John Doe ......................................... Republican
+17  Richard Stiles ................................... Socialist
+18                  Senator in the General Assembly,
+19                         ....... District.
+20                           (Vote for one)
+21  John Doe ........................................ Democratic
+22  Richard Roe ..................................... Republican
+23     * * *
+24     [(f)  In order that each elector may have the opportunity of
+25  designating his choice for all the candidates nominated by one
+26  political party or political body, there shall be printed on the
+27  extreme left of the ballot, and separated from the rest of the
+28  ballot by a space of at least one-half inch, a list of the names
+29  of all the political parties or political bodies represented on
+30  such ballot which have nominated candidates to be voted for at
+1  such election. Such names shall be arranged in the order of the
+2  votes obtained at the last gubernatorial election by the
+3  candidate for Governor of the parties or bodies nominating,
+4  beginning with the party that received the highest number of
+5  votes cast. Following the names of such political parties and
+6  political bodies shall be the names of the parties and bodies
+7  not represented on the ballot at the last gubernatorial
+8  election, arranged alphabetically, according to the party name
+9  or appellation. A square of sufficient size for the convenient
+10  insertion of a cross mark shall be placed at the right of each
+11  party name or appellation.]
+12     * * *
+13     Section 2.  Section 1107(b) of the act is amended to read:
+14     Section 1107.  Requirements of Voting Machines.--No voting
+15  machine shall, upon any examination or reexamination, be
+16  approved by the Secretary of the Commonwealth, or by any
+17  examiner appointed by him, unless it shall, at the time, satisfy
+18  the following requirements:
+19     * * *
+20     [(b) It shall permit each voter, at other than primary
+21  elections, to vote a straight political party ticket in one
+22  operation, and, in one operation, to vote for all the candidates
+23  of one political party for presidential electors, and, in one
+24  operation, to vote for all the candidates of one political party
+25  for every office to be voted for, except those offices as to
+26  which he votes for individual candidates.]
+27     * * *
+28     Section 3.  Section 1110(a), (b) and (h) of the act, amended
+29  April 24, 1947 (P.L.68, No.33) and December 22, 1971 (P.L.613,
+30  No.165), are amended to read:
+1     Section 1110.  Form of Ballot Labels on Voting Machines.--
+2     (a)  The papers, cards or strips, enclosed within the ballot
+3  frame or frames of any voting machine, and containing the names
+4  of a candidate or candidates, [or political party,] or the
+5  statement of a question to be voted upon, hereinafter referred
+6  to as ballot labels, shall be printed in black ink, upon clear
+7  white material, of such size as will fit the ballot frame, and
+8  in plain clear type so as to be easily readable by persons with
+9  normal vision.
+10     (b)  If the construction of the machine shall require it, the
+11  ballot label for each candidate, group of candidates, [political
+12  party,] or question, to be voted on, shall bear the designating
+13  letter or number of the counter on the voting machine which will
+14  register or record votes therefor. Each question to be voted on
+15  shall appear on the ballot labels, in brief form, of not more
+16  than seventy-five words, to be determined by the Secretary of
+17  the Commonwealth in the case of constitutional amendments or
+18  other questions to be voted on by the electors of the State at
+19  large, and by the county election board in other cases.
+20     * * *
+21     (h)  The names of all candidates of a political party shall
+22  appear in the same row or column, and except in cases of names
+23  of presidential commitments of nominees for delegate or
+24  alternate delegate to political party National conventions no
+25  other names shall appear in the same row or column[, to the left
+26  or top of which shall be a straight party lever, by means of
+27  which an elector may, in one operation, vote for all the
+28  candidates of that political party for every office to be voted
+29  for]. Where the names of the delegate or alternate delegate and
+30  the presidential candidate he is supporting shall both appear,
+1  the print size of the name of the delegate or alternate delegate
+2  shall be equal to the size of the name of the particular
+3  presidential candidate to whom he is committed, or in the case
+4  where he is uncommitted, the word "uncommitted" shall appear in
+5  the same size print. The names of such candidates shall be
+6  arranged under or opposite the title of the office for which
+7  they are candidates, and shall appear in the order of the votes
+8  obtained by the candidate for Governor of the party nominated at
+9  the last gubernatorial election, beginning with the party
+10  obtaining the highest number of votes: Provided, however, That
+11  in the case of parties or bodies not represented on the ballot
+12  at the last gubernatorial election, the names of the candidates
+13  of such parties shall be arranged alphabetically, according to
+14  the party or body name. The names of all candidates of a
+15  political body shall appear in the same row or column, and, if
+16  the number of parties and bodies permits, each political body
+17  shall be entitled exclusively to a separate row or column[, with
+18  a straight party lever]. If, however, the number of political
+19  parties and political bodies renders it impossible or
+20  impracticable to so arrange the political bodies, in such case
+21  said bodies shall not be entitled to a separate row or column
+22  [and a straight party lever], but shall be listed by political
+23  appellations on the first left hand or top row, with the
+24  designating letter and number of the ballot label where their
+25  candidates may be found, together with the political
+26  appellations of other political bodies, whose candidates may be
+27  interspersed on the same row or column. Subject to the aforesaid
+28  limitations, the form and arrangement of ballot labels, as to
+29  the placing thereon of political bodies, shall be within the
+30  discretion of the county board.
+1     * * *
+2     Section 4.  Sections 1107-A(3), 1109-A(a)(2) and (d) and
+3  1112-A(a)(2) and (b)(4) of the act, added July 11, 1980
+4  (P.L.600, No.128), are amended to read:
+5     Section 1107-A.  Requirements of Electronic Voting Systems.--
+6  No electronic voting system shall, upon any examination or
+7  reexamination, be approved by the Secretary of the Commonwealth,
+8  or by any examiner appointed by him, unless it shall be
+9  established that such system, at the time of such examination or
+10  reexamination:
+11     * * *
+12     [(3)  Permits each voter, at other than primary elections, to
+13  vote a straight political party ticket by one mark or act and,
+14  by one mark or act, to vote for all the candidates of one
+15  political party for presidential electors and, by one mark or
+16  act, to vote for all the candidates of one political party for
+17  every office to be voted for, and every such mark or act shall
+18  be equivalent to and shall be counted as a vote for every
+19  candidate of the political party so marked including its
+20  candidates for presidential electors, except with respect to
+21  those offices as to which the voter has registered a vote for
+22  individual candidates of the same or another political party or
+23  political body, in which case the automatic tabulating equipment
+24  shall credit the vote for that office only for the candidate
+25  individually so selected, notwithstanding the fact that the
+26  voter may not have individually voted for the full number of
+27  candidates for that office for which he was entitled to vote.]
+28     * * *
+29     Section 1109-A.  Forms.--(a)  * * *
+30     (2)  The pages placed on the voting device shall be of
+1  sufficient number to include, following the listing of
+2  particular candidates, the names of candidates for any
+3  nonpartisan offices and any measures for which a voter may be
+4  qualified to vote on a given election day[, provided further
+5  that for municipal, general or special elections, the first
+6  ballot page shall list in the order that such political parties
+7  are entitled to priority on the ballot, the names of such
+8  political parties with designating arrows so as to indicate the
+9  voting square or position on the ballot card where the voter may
+10  insert by one mark or punch the straight party ticket of his
+11  choice].
+12     * * *
+13     [(d)  In partisan elections the ballot cards shall include a
+14  voting square or position whereby the voter may by one punch or
+15  mark record a straight party ticket vote for all the candidates
+16  of one party or may vote a split ticket for the candidates of
+17  his choice.]
+18     * * *
+19     Section 1112-A.  Election Day Procedures and the Process of
+20  Voting.--(a)  In an election district which uses an electronic
+21  voting system in which votes are registered electronically, the
+22  following procedures will be applicable for the conduct of the
+23  election at the election district:
+24     * * *
+25     (2)  At primary elections, the voter shall be able to vote
+26  for each candidate individually by the means provided. At all
+27  other elections, he may vote for each candidate individually[,
+28  or he may vote a straight political party ticket in one
+29  operation by operating the straight political party mechanism of
+30  the political party or political body of his choice]. He may
+1  also, [after having operated the straight party mechanism and]
+2  before recording his vote, cancel the vote for any candidate [of
+3  such political party or political body] and may thereupon vote
+4  for a candidate of another party, or political body for the same
+5  office. The voter may also vote individually for or against a
+6  question submitted to the vote of the electors.
+7     * * *
+8     (b)  In an election district which uses an electronic voting
+9  system which utilizes paper ballots or ballot cards to register
+10  the votes, the following procedures will be applicable for the
+11  conduct of the election at the election district:
+12     * * *
+13     (4)  [If the voter desires to vote for every candidate of a
+14  political party or political body, except its candidates for
+15  offices as to which he votes for individual candidates in the
+16  manner hereinafter provided, he may make a cross (X) or check
+17  ( ) or punch or mark sense mark in the square opposite the name
+18  of the party or political body so marked, including its
+19  candidates for presidential electors, except for those offices
+20  as to which he has indicated a choice for individual candidates
+21  of the same or another party or political body, by making a
+22  cross (X) or check ( ) or punch or mark sense mark opposite
+23  their names in the manner hereinabove provided, as to which
+24  offices his ballot shall be counted only for the candidates
+25  which he has thus individually marked, notwithstanding the fact
+26  that he made a mark in the party column, and even though in the
+27  case of an office for which more than one candidate is to be
+28  voted for, he has not individually marked for such office the
+29  full number of candidates for which he is entitled to vote. If
+30  he desires to vote for the entire group of presidential electors
+1  nominated by any party or political body, he may make a cross
+2  (X) or check ( ) or punch or mark sense mark in the appropriate
+3  space opposite the names of the candidates for President and
+4  Vice-President of such party or body.] If [he] the voter desires
+5  to vote a ticket for presidential electors made up of the names
+6  of persons nominated by different parties or political bodies,
+7  or partially of names of persons so in nomination and partially
+8  of names of persons not in nomination by any party or political
+9  body, or wholly of names of persons not in nomination by any
+10  party or political body, he shall insert the names of the
+11  candidates for presidential electors for whom he desires to vote
+12  in the blank spaces provided therefor on the write-in ballot
+13  under the title of the office "Presidential Electors". In case
+14  of a question submitted to the vote of the electors, he may make
+15  a cross (X) or check ( ) or punch or mark sense mark in the
+16  appropriate square opposite the answer which he desires to give.
+17     * * *
+18     Section 5.  Section 1215(c) of the act, amended January 8,
+19  1960 (1959 P.L.2142, No.790), is amended to read:
+20     Section 1215.  Method of Marking Ballots and Depositing Same
+21  in Districts in Which Ballots are Used.--* * *
+22     (c) At elections, the elector shall prepare his ballot in the
+23  following manner: He may vote for the candidates of his choice
+24  for each office to be filled according to the number of persons
+25  to be voted for by him for each office, by making a cross (X) or
+26  check ( ) mark in the square opposite the name of the candidate,
+27  or he may insert by writing, stamping or sticker, in the blank
+28  spaces provided therefor, any name not already printed on the
+29  ballot, and such insertion shall count as a vote without the
+30  making of a cross (X) or check ( ) mark. [If he desires to vote
+1  for every candidate of a political party or political body,
+2  except its candidates for offices as to which he votes for
+3  individual candidates in the manner hereinafter provided, he may
+4  make a cross (X) or check ( ) mark in the square opposite the
+5  name of the party or political body of his choice in the party
+6  column on the left of the ballot, and every such cross (X) or
+7  check ( ) mark shall be equivalent to and be counted as a vote
+8  for every candidate of a party or political body so marked,
+9  including its candidates for presidential electors, except for
+10  those offices as to which he has indicated a choice for
+11  individual candidates of the same or another party or political
+12  body, by making a cross (X) or check ( ) mark opposite their
+13  names in the manner hereinabove provided, as to which offices
+14  his ballot shall be counted only for the candidates which he has
+15  thus individually marked, notwithstanding the fact that he made
+16  a mark in the party column, and even though in the case of an
+17  office for which more than one candidate is to be voted for, he
+18  has not individually marked for such office the full number of
+19  candidates for which he is entitled to vote. If he desires to
+20  vote for the entire group of presidential electors nominated by
+21  any party or political body, he may make a cross (X) or check
+22  ( ) mark in the appropriate square at the right of the names of
+23  the candidates for President and Vice-President of such party or
+24  body.] If he desires to vote a ticket for presidential electors
+25  made up of the names of persons nominated by different parties
+26  or political bodies, or partially of names of persons so in
+27  nomination and partially of names of persons not in nomination
+28  by any party or political body, or wholly of names of persons
+29  not in nomination by any party or political body, he shall
+30  insert the names of the candidates for presidential electors for
+1  whom he desires to vote in the blank spaces provided therefor
+2  under the title of the office "Presidential Electors." In case
+3  of a question submitted to the vote of the electors, he may make
+4  a cross (X) or check ( ) mark in the appropriate square opposite
+5  the answer which he desires to give.
+6     * * *
+7     Section 6.  Section 1216(d) of the act is amended to read:
+8     Section 1216.  Instructions of Voters and Manner of Voting in
+9  Districts in Which Voting Machines are Used.--
+10     * * *
+11     (d) At primaries, he shall vote for each candidate
+12  individually by operating the key, handle, pointer or knob, upon
+13  or adjacent to which the name of such candidate is placed. At
+14  elections, he may vote for each candidate individually by
+15  operating the key, handle, pointer or knob, upon or adjacent to
+16  which the names of candidates of his choice are placed[, or he
+17  may vote a straight political party ticket in one operation by
+18  operating the straight political party lever of the political
+19  party or political body of his choice, if such machine has
+20  thereon a separate lever for all the candidates of the political
+21  body]. He may also, [after having operated the straight party
+22  lever, and] before recording his vote, cancel the vote for any
+23  candidate [of such political party or political body] by
+24  replacing the individual key, handle, pointer or knob of such
+25  candidate, and may thereupon vote for a candidate of another
+26  party, or political body for the same office by operating the
+27  key, handle, pointer or knob, upon or adjacent to which the name
+28  of such candidate appears. In the case of a question submitted
+29  to the vote of the electors, the elector shall operate the key,
+30  handle, pointer or knob corresponding to the answer which he
+1  desires to give.
+2     * * *
+3     Section 7.  Section 1222 of the act, amended July 14, 1961
+4  (P.L.644, No.332), is amended to read:
+5     Section 1222.  Count and Return of Votes in Districts in
+6  Which Ballots are Used.--
+7     (a) As soon as all the ballots have been properly accounted
+8  for, and those outside the ballot box, as well as the "Voting
+9  Check List," numbered lists of voters and district register
+10  sealed, the election officers shall forthwith open the ballot
+11  box, and take therefrom all ballots therein, and at primaries,
+12  separate the same according to the party to which they belong.
+13  The ballots shall then be counted one by one, and a record made
+14  of the total number, and at primaries of the total number cast
+15  for each party. Then the judge, under the scrutiny of the
+16  minority inspector, or the minority inspector, under the
+17  scrutiny of the judge, in the presence of the other officers,
+18  clerks, and of the overseers, if any, and within the hearing and
+19  sight of the watchers outside the enclosed space, shall read
+20  aloud the names of the candidates marked or inserted upon each
+21  ballot (at primaries the ballots of each party being read in
+22  sequence), together with the office for which the person named
+23  is a candidate, and the answers contained on the ballots to the
+24  questions submitted, if any, and the majority inspector and
+25  clerks shall carefully enter each vote as read, and keep account
+26  of the same in ink in triplicate tally papers (triplicate tally
+27  papers for each party at primaries) to be provided by the county
+28  board of elections for that purpose, all three of which shall be
+29  made at the same time[: Provided, That at all general, municipal
+30  and special elections, in entering each vote received by
+1  candidates at such election, it shall not be necessary to enter
+2  separate tally marks for each vote received by such candidates
+3  upon the ballots containing the same votes for the same names,
+4  commonly known, and in this act designated as "Straight Party
+5  Tickets" for such purpose straight party ticket votes shall be
+6  entered carefully as each straight party ticket vote is read on
+7  the triplicate tally sheets under the heading "Number of votes
+8  received upon the ........................ straight party
+9  tickets." Upon completing the number of votes received by each
+10  straight party ticket, the number so tallied for each party
+11  shall be entered numerically on the extreme right hand margin of
+12  each such tally paper]. All ballots, after being removed from
+13  the box, shall be kept within the unobstructed view of all
+14  persons in the voting room until replaced in the box. No person
+15  while handling the ballots shall have in his hand any pencil,
+16  pen, stamp or other means of marking or spoiling any ballot. The
+17  election officers shall forthwith proceed to canvass and compute
+18  the votes cast, and shall not adjourn or postpone the canvass or
+19  computation until it shall have been fully completed.
+20     (b) When the vote cast for the different persons named upon
+21  the ballots and upon the questions, if any, appearing thereon,
+22  shall have been fully recorded in the tally papers and counted,
+23  the election officers shall duly certify to the number of votes
+24  cast for each person (upon the respective party tickets at
+25  primaries), and shall prepare in ink two (2) general returns,
+26  showing, in addition to the entries made thereon as aforesaid,
+27  the total number of ballots received from the county board (the
+28  total of each party at primaries), the number of ballots cast
+29  (the number of each party at primaries), the number of ballots
+30  (of each party at primaries) declared void, and the number of
+1  ballots spoiled and cancelled, and any blank ballots cast, as
+2  well as the votes cast for each candidate. At elections, the
+3  number of votes cast for each candidate by each political party
+4  or political body of which such candidate is a nominee shall be
+5  separately stated[: Provided, That the number of votes received
+6  by each set of candidates upon "straight party tickets" shall be
+7  entered opposite the names of the respective candidates in a
+8  column immediately adjoining upon the left which column shall be
+9  of convenient width and shall be headed "number of votes
+10  received upon straight party tickets." In an immediate column to
+11  the left thereto, the number of votes received by each candidate
+12  upon all ballots other than "straight party tickets" including
+13  all ballots known as "split tickets" shall be entered, such
+14  column to be of convenient width and shall be headed "number of
+15  votes received other than upon straight party tickets." The
+16  number of votes received by each candidate as shown in the
+17  column headed "number of votes received upon straight party
+18  tickets" shall then be added, together with the number of votes
+19  received by each candidate as shown in the column headed "number
+20  of votes received other than upon straight party tickets"] and
+21  thereupon, the total number of votes received by each candidate
+22  shall be entered in a column on the extreme right-hand side of
+23  the return sheets, which column shall be of convenient width and
+24  shall be headed "total number of votes."
+25     [Nothing in this section contained shall be construed to
+26  authorize or permit the canvassing, counting or tallying ballots
+27  with any less degree of strictness than otherwise required by
+28  law, the intention of this section being to dispense with the
+29  individual tally marks only so far as the so-called "straight
+30  party tickets" are concerned, and all other operations of
+1  tallying, counting, canvassing and announcing the votes shall
+2  proceed as near as may be in accordance with the other
+3  provisions of this act.]
+4     (c) In returning any votes cast for any person whose name is
+5  not printed on the ballot, the election officers shall record
+6  any such names exactly as they were written, stamped or applied
+7  to the ballot by sticker.
+8     Section 8.  Section 1223 of the act, amended January 8, 1960
+9  (1959 P.L.2142, No.790) and August 13, 1963 (P.L.707, No.379),
+10  is amended to read:
+11     Section 1223.  What Ballots Shall Be Counted; Manner of
+12  Counting; Defective Ballots.--[(a)] No ballot which is so marked
+13  as to be capable of identification shall be counted. Any ballot
+14  that is marked in blue, black or blue-black ink, in fountain pen
+15  or ball point pen, or black lead pencil or indelible pencil,
+16  shall be valid and counted: Provided, That all markings on the
+17  ballot are made by the same pen or pencil. Any ballot marked by
+18  any other mark than an (X) or check ( ) in the spaces provided
+19  for that purpose shall be void and not counted: Provided,
+20  however, That no vote recorded thereon shall be declared void
+21  because a cross (X) or check ( ) mark thereon is irregular in
+22  form. [Any erasure, mutilation or defective marking of the
+23  straight party column at November elections shall render the
+24  entire ballot void, unless the voter has properly indicated his
+25  choice for candidates in any office block, in which case the
+26  vote or votes for such candidates only shall be counted.] Any
+27  erasure or mutilation in the vote in any office block shall
+28  render void the vote for any candidates in said block, but shall
+29  not invalidate the votes cast on the remainder of the ballot, if
+30  otherwise properly marked. Any ballot indicating a vote for any
+1  person whose name is not printed on the ballot, by writing,
+2  stamping or sticker, shall be counted as a vote for such person,
+3  if placed in the proper space or spaces provided for that
+4  purpose, whether or not an (X) or check ( ) is placed after the
+5  name of such person: Provided, however, That if such writing,
+6  stamping or sticker is placed over the name of a candidate
+7  printed on the ballot, it shall render the entire vote in said
+8  office block void. If an elector shall mark his ballot for more
+9  persons for any office than there are candidates to be voted for
+10  such office, or if, for any reason, it may be impossible to
+11  determine his choice for any office, his ballot shall not be
+12  counted for such office, but the ballot shall be counted for all
+13  offices for which it is properly marked. Ballots not marked, or
+14  improperly or defectively marked, so that the whole ballot is
+15  void, shall be set aside and shall be preserved with the other
+16  ballots.
+17     [(b) At November elections, a cross (X) or check ( ) mark in
+18  the square opposite the name of political party or political
+19  body in the party column shall be counted as a vote for every
+20  candidate of that party or body so marked, including its
+21  candidates for presidential electors, except for those offices
+22  as to which the voter has indicated a choice for individual
+23  candidates of the same or another party or body in any office
+24  block, in which case the ballot for such office block shall be
+25  counted only for the candidates thus individually marked,
+26  notwithstanding the fact that the voter has made a mark in the
+27  party column, and even though in the case of an office for which
+28  more than one candidate is to be voted for, he has not
+29  individually marked for such office the full number of
+30  candidates for which he is entitled to vote.]
+1     Section 9.  This act shall take effect in one year.
+L8L25JLW/20010S0048B0046        - 19 -

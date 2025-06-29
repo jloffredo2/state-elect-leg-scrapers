@@ -1,0 +1,421 @@
+16     Section 1.  Section 1002(a) and (b) of the act of June 3,
+17  1937 (P.L.1333, No.320), known as the Pennsylvania Election
+18  Code, amended December 22, 1971 (P.L.613, No.165) and December
+19  2, 1976 (P.L.1221, No.269), are amended to read:
+20     Section 1002.  Form of Official Primary Ballot.--(a)  At
+21  primaries separate official ballots shall be prepared for each
+22  party which shall be in substantially the following form:
+23       Official.................................. Primary Ballot.
+1                     (Name of Party)
+2  ........District,........Ward, City of.......................,
+3  County of............................, State of Pennsylvania
+4  ........Primary election held on the.....day of........., 19...
+5     Make a cross (X) or check ( ) in the square to the right of
+6  each candidate for whom you wish to vote. If you desire to vote
+7  for a person whose name is not on the ballot, write, print or
+8  paste his name in the blank space provided for that purpose. To
+9  indicate support for none of the candidates listed for any one
+10  office, mark a cross (X) or check( ) in the square to the right
+11  of the statement "none of the above" where it appears. Mark
+12  ballot only in black lead pencil, indelible pencil or blue,
+13  black or blue-black ink in fountain pen or ball point pen. Use
+14  the same pencil or pen for all markings you place on the ballot.
+15                  President of the United States.
+16                           (Vote for one)
+17  John Doe
+18  Richard Roe
+19  John Stiles
+20  None of the Above
+21                       United States Senator.
+22                           (Vote for one)
+23  John Doe
+24  Richard Roe
+25  John Stiles
+26  None of the Above
+27                             Governor.
+28                           (Vote for one)
+29  John Doe
+30  Richard Roe
+1  John Stiles
+2  None of the Above
+3                         Attorney General.
+4                           (Vote for one)
+5  John Doe
+6  Richard Roe
+7  John Stiles
+8  None of the Above
+9                          Auditor General.
+10                           (Vote for one)
+11  John Doe
+12  Richard Roe
+13  John Stiles
+14  None of the Above
+15                             Treasurer.
+16                           (Vote for one)
+17  John Doe
+18  Richard Roe
+19  John Stiles
+20  None of the Above
+21              Representative in Congress....District.
+22                           (Vote for one)
+23  John Doe
+24  Richard Roe
+25  John Stiles
+26  None of the Above
+27             Delegates at Large to National Convention.
+28                          (Vote for.....)
+29  John Doe
+30     (Committed to Jeremiah Smith)
+1  John Stiles
+2     (Uncommitted)
+3           Delegate to National Convention.....District.
+4                          (Vote for.....)
+5  John Doe
+6     (Committed to Jeremiah Smith)
+7  John Stiles
+8     (Uncommitted)
+9           Senator in the General Assembly.....District.
+10                           (Vote for one)
+11  John Doe
+12  Richard Roe
+13  John Stiles
+14  None of the Above
+15        Representative in the General Assembly.....District.
+16                           (Vote for one)
+17  John Doe
+18  Richard Roe
+19  John Stiles
+20  None of the Above
+21                     Member of State Committee.
+22                           (Vote for one)
+23  John Doe
+24  Richard Roe
+25  John Stiles
+26                        Party Committeemen.
+27                          (Vote for.....)
+28  John Doe
+29  Richard Roe
+30  John Stiles
+1     (b)  On the back of each ballot shall be printed in prominent
+2  type the words "OFFICIAL PRIMARY BALLOT OF ........PARTY FOR"
+3  followed by the designation of the election district for which
+4  it is prepared, the date of the primary and the facsimile
+5  signatures of the members of the county board of elections. The
+6  names of candidates shall in all cases be arranged under the
+7  title of the office for which they are candidates, and be
+8  printed thereunder in the order determined by the casting of
+9  lots as provided by this act. Under the title of such offices
+10  where more than one candidate is to be voted for, shall be
+11  printed "Vote for not more than ........" (the blank space to
+12  indicate the number of candidates to be voted for the particular
+13  office.) At the right of the name of each candidate there shall
+14  be a square of sufficient size for the convenient insertion of a
+15  cross (x) or check ( ) mark. There shall be left at the end of
+16  the list of candidates for each office (or under the title of
+17  the office itself in case there be no candidates who have filed
+18  nomination petitions therefor) as many blank spaces as there are
+19  persons to be voted for, for such office, in which space the
+20  elector may insert the name of any person whose name is not
+21  printed on the ballot as a candidate for such office.
+22  Immediately following the blank spaces which are left at the end
+23  of each group of candidates seeking one of the executive or
+24  legislative offices shall be printed, on a separate line, "none
+25  of the above" and, at the right of this statement, a square of
+26  sufficient size for the convenient insertion of a cross (X) or
+27  check ( ) mark. For purposes of this subsection, the term
+28  "candidates seeking one of the executive or legislative offices"
+29  shall include persons seeking any of the following offices:
+30  President of the United States, United States Senator, Governor,
+1  Attorney General, Auditor General, Treasurer, Representative in
+2  Congress, and Senator or Representative in the General Assembly.
+3  Opposite or under the name of each candidate, except candidates
+4  for the office of President of the United States and candidates
+5  for delegate or alternate delegate to a National Party
+6  Convention, who is to be voted for by the electors of more than
+7  one county, shall be printed the name of the county in which
+8  such candidate resides; and opposite or under the name of each
+9  candidate except candidates for delegate or alternate delegate
+10  to a National Party Convention who is to be voted for by the
+11  electors of an entire county or any congressional, senatorial or
+12  representative district within the county, shall be printed the
+13  name of the city, borough, township or ward, as the case may be,
+14  in which such candidate resides.
+15     * * *
+16     Section 2.  Section 1003(a) and (e) of the act, amended April
+17  24, 1947 (P.L.68, No.33) and December 10, 1974 (P.L.835,
+18  No.280), are amended to read:
+19     Section 1003.  Form of Official Election Ballot.--
+20     (a)  The official ballots for general, municipal and special
+21  elections shall be in substantially the following form:
+22                          OFFICIAL BALLOT
+23  ........... District, ........... Ward, City of ...............,
+24  County of ................., State of Pennsylvania ............
+25  Election held on the ..... day of .........., 19.. A cross (X)
+26  or check ( ) mark in the square opposite the name of any
+27  candidate indicates a vote for that candidate.
+28     To vote a straight party ticket, mark a cross (X) or check
+29  ( ) in the square, in the Party Column, opposite the name of the
+30  party of your choice. To vote for an individual candidate of
+1  another party after making a mark in the party square, mark a
+2  cross (X) or check ( ) opposite his name. For an office where
+3  more than one candidate is to be voted for, the voter, after
+4  marking in the party square, may divide his vote by marking a
+5  cross (X) or check ( ) to the right of each candidate for whom
+6  he or she desires to vote. For such office votes shall not be
+7  counted for candidates not individually marked.
+8     To vote for a person whose name is not on the ballot, write,
+9  print or paste his name in the blank space provided for that
+10  purpose. To indicate support for none of the candidates listed
+11  for an office, mark a cross (X) or check ( ) opposite the
+12  statement " none of the above" where it appears. A cross (X) or
+13  check ( ) mark in the square opposite the names of the
+14  candidates of any party for President and Vice-President of the
+15  United States indicates a vote for all the candidates of that
+16  party for presidential elector. To vote for individual
+17  candidates for presidential elector, write, print or paste their
+18  names in the blank spaces provided for that purpose under the
+19  title "Presidential Electors." Mark ballot only in black lead
+20  pencil, indelible pencil or blue, black or blue-black ink, in
+21  fountain pen or ball point pen; use the same pencil or pen for
+22  all markings you place on the ballot.
+23     Before leaving the voting compartment, fold this ballot,
+24  without displaying the markings thereon, in the same way it was
+25  folded when received, then leave the compartment and exhibit the
+26  ballot to one of the election officers who shall ascertain by an
+27  inspection of the number appearing upon the right hand corner of
+28  the back of the ballot whether the ballot so exhibited to him is
+29  the same ballot which the elector received before entering the
+30  voting compartment. If it is the same, the election officer
+1  shall direct the elector, without unfolding the ballot, to
+2  remove the perforated corner containing the number, and the
+3  elector shall immediately deposit the ballot in the ballot box.
+4  Any ballot deposited in a ballot box at any primary or election
+5  without having the said number torn off shall be void and shall
+6  not be counted.
+7          Party Column                 Presidential Electors
+8  To Vote a Straight Party Ticket    (Vote for the candidates of
+9  Mark a Cross (X) or Check ( ) in   one party for President and
+10  this Column.                       Vice-President, or insert the
+11                                     names of candidates.)
+12                                       For
+13          Democratic                 John Stiles
+14                                       and
+15                                     Richard Doe,
+16                                     Democratic ..................
+17                                       For
+18          Republican                 John Doe
+19                                       and
+20                                     Richard Roe,
+21                                     Republican ..................
+22                                       For
+23          Socialist                  John Smith
+24                                       and
+25                                     William Jones,
+26                                     Socialist ...................
+27                                     None of the Above
+28          Citizens
+29                       United States Senator.
+30                           (Vote for one)
+1  Richard Roe ...................................... Democratic
+2  John Doe ......................................... Republican
+3  Richard Stiles ................................... Socialist
+4  None of the Above
+5                             Governor.
+6                           (Vote for one)
+7  Richard Roe ...................................... Democratic
+8  John Doe ......................................... Republican
+9  Richard Stiles ................................... Socialist
+10  None of the Above
+11                         Attorney General.
+12                           (Vote for one)
+13  Richard Roe ...................................... Democratic
+14  John Doe ......................................... Republican
+15  Richard Stiles ................................... Socialist
+16  None of the Above
+17                          Auditor General.
+18                           (Vote for one)
+19  Richard Roe ...................................... Democratic
+20  John Doe ......................................... Republican
+21  Richard Stiles ................................... Socialist
+22  None of the Above
+23                             Treasurer.
+24                           (Vote for one)
+25  Richard Roe ...................................... Democratic
+26  John Doe ......................................... Republican
+27  Richard Stiles ................................... Socialist
+28  None of the Above
+29                    Representative in Congress,
+30                         ....... District.
+1                           (Vote for one)
+2  Richard Roe ...................................... Democratic
+3  John Doe ......................................... Republican
+4  Richard Stiles ................................... Socialist
+5  None of the Above
+6                  Senator in the General Assembly,
+7                         ....... District.
+8                           (Vote for one)
+9  John Doe ........................................ Democratic
+10  Richard Roe ..................................... Republican
+11  None of the Above
+12              Representative in the General Assembly,
+13                         ....... District.
+14                           (Vote for one)
+15  John Doe ........................................ Democratic
+16  Richard Roe ..................................... Republican
+17  None of the Above
+18     * * *
+19     (e)  There shall be left at the end of the group of
+20  candidates for President and Vice-President of the United States
+21  under the title "Presidential Electors," as many blank spaces as
+22  there are presidential electors to be elected, in which spaces
+23  the elector may insert the names of any individual candidates
+24  for presidential electors for whom he desires to vote. There
+25  shall also be left at the end of each group of candidates for
+26  each other office (or under the title of the office itself in
+27  case no candidates have been nominated therefor), as many blank
+28  spaces as there are persons to be voted for for such office, in
+29  which space the elector may insert the name of any person or
+30  persons whose name is not printed on the ballot as a candidate
+1  for such office. Immediately following the blank spaces which
+2  are left at the end of each group of candidates seeking one of
+3  the executive or legislative offices shall be printed, on a
+4  separate line, "none of the above" and, at the right of this
+5  statement, a square of sufficient size for the convenient
+6  insertion of a cross (X) or check ( ) mark. For purposes of this
+7  subsection, the term "candidates seeking one of the executive or
+8  legislative offices" shall include any of the following offices:
+9  President of the United States, United States Senator, Governor,
+10  Attorney General, Auditor General, Treasurer, Representative in
+11  Congress and Senator or Representative in the General Assembly.
+12     * * *
+13     Section 3.  Section 1215(c) of the act, amended January 8,
+14  1959 (P.L.2142, No.790), is amended and the section is amended
+15  by adding a subsection to read:
+16     Section 1215.  Method of Marking Ballots and Depositing Same
+17  in Districts in Which Ballots are Used.--* * *
+18     (c) At elections, the elector shall prepare his ballot in the
+19  following manner: He may vote for the candidates of his choice
+20  for each office to be filled according to the number of persons
+21  to be voted for by him for each office, by making a cross (X) or
+22  check ( ) mark in the square opposite the name of the candidate,
+23  or he may insert by writing, stamping or sticker, in the blank
+24  spaces provided therefor, any name not already printed on the
+25  ballot, and such insertion shall count as a vote without the
+26  making of a cross (X) or check ( ) mark[.], or he may vote
+27  against all of the candidates listed for an office set forth in
+28  subsection (e), by making a cross (X) or check ( ) mark in the
+29  square opposite the statement "none of the above" where it
+30  appears. If he desires to vote for every candidate of a
+1  political party or political body, except its candidates for
+2  offices as to which he votes for individual candidates in the
+3  manner hereinafter provided, he may make a cross (X) or check (
+4  ) mark in the square opposite the name of the party or political
+5  body of his choice in the party column on the left of the
+6  ballot, and every such cross (X) or check ( ) mark shall be
+7  equivalent to and be counted as a vote for every candidate of a
+8  party or political body so marked, including its candidates for
+9  presidential electors, except for those offices as to which he
+10  has indicated a choice for individual candidates of the same or
+11  another party or political body, by making a cross (X) or check
+12  ( ) mark opposite their names in the manner hereinabove
+13  provided, as to which offices his ballot shall be counted only
+14  for the candidates which he has thus individually marked,
+15  notwithstanding the fact that he made a mark in the party
+16  column, and even though in the case of an office for which more
+17  than one candidate is to be voted for, he has not individually
+18  marked for such office the full number of candidates for which
+19  he is entitled to vote. If he desires to vote for the entire
+20  group of presidential electors nominated by any party or
+21  political body, he may make a cross (X) or check
+22  ( ) mark in the appropriate square at the right of the names of
+23  the candidates for President and Vice-President of such party or
+24  body. If he desires to vote a ticket for presidential electors
+25  made up of the names of persons nominated by different parties
+26  or political bodies, or partially of names of persons so in
+27  nomination and partially of names of persons not in nomination
+28  by any party or political body, or wholly of names of persons
+29  not in nomination by any party or political body, he shall
+30  insert the names of the candidates for presidential electors for
+1  whom he desires to vote in the blank spaces provided therefor
+2  under the title of the office "Presidential Electors." In case
+3  of a question submitted to the vote of the electors, he may make
+4  a cross (X) or check ( ) mark in the appropriate square opposite
+5  the answer which he desires to give.
+6     * * *
+7     (e) Any elector may cast a vote for "none of the above" for
+8  any of the following offices: President of the United States,
+9  United States Senator, Governor, Attorney General, Treasurer,
+10  Representative in Congress, and Senator or Representative in the
+11  General Assembly.
+12     Section 4.  Section 1216(d) of the act is amended and the
+13  section is amended by adding a subsection to read:
+14     Section 1216.  Instructions of Voters and Manner of Voting in
+15  Districts in Which Voting Machines are Used.--
+16     * * *
+17     (d) At primaries, he shall vote for each candidate
+18  individually by operating the key, handle, pointer or knob, upon
+19  or adjacent to which the name of such candidate is placed. At
+20  elections, he may vote for each candidate individually by
+21  operating the key, handle, pointer or knob, upon or adjacent to
+22  which the names of candidates of his choice are placed, or he
+23  may vote a straight political party ticket in one operation by
+24  operating the straight political party lever of the political
+25  party or political body of his choice, if such machine has
+26  thereon a separate lever for all the candidates of the political
+27  body. He may also, after having operated the straight party
+28  lever, and before recording his vote, cancel the vote for any
+29  candidate of such political party or political body by replacing
+30  the individual key, handle, pointer or knob of such candidate,
+1  and may thereupon vote for a candidate of another party, or
+2  political body for the same office by operating the key, handle,
+3  pointer or knob, upon or adjacent to which the name of such
+4  candidate appears. The elector may, at any primary or election,
+5  indicate his support for none of the candidates listed for an
+6  office set forth in subsection (h) by operating the key, handle,
+7  pointer or knob, upon or adjacent to which the statement "none
+8  of the above" is placed. In the case of a question submitted to
+9  the vote of the electors, the elector shall operate the key,
+10  handle, pointer or knob corresponding to the answer which he
+11  desires to give.
+12     * * *
+13     (h) Any elector may cast a vote for "none of the above" for
+14  any of the following offices: President of the United States,
+15  United States Senator, Governor, Attorney General, Auditor
+16  General, Treasurer, Representative in Congress, and Senator or
+17  Representative in the General Assembly.
+18     Section 5.  The act is amended by adding sections to read:
+19     Section 1231.  Count, Canvass and Certification of Votes Cast
+20  for "None of the Above."--Any vote cast for "none of the above,"
+21  in accordance with sections 1215 and 1216 of this act, shall be
+22  canvassed, certified, computed, counted recanvassed, recorded,
+23  tabulated, tallied and otherwise treated as any vote cast for a
+24  candidate is canvassed, certified, computed, counted,
+25  recanvassed, recorded, tabulated, tallied and otherwise treated,
+26  as prescribed in this article.
+27     Section 1419.  Votes Cast for "None of the Above" Outnumber
+28  Votes for Candidates; Special Election to be Held.--In an
+29  election for President of the United States, United States
+30  Senator, Governor, Attorney General, Auditor General, Treasurer,
+1  Representative in Congress, or Senator or Representative in the
+2  General Assembly, if the category of "none of the above"
+3  receives more votes than each candidate for that office, the
+4  Secretary of the Commonwealth shall not issue a certificate of
+5  election to any candidate for that office, but shall schedule a
+6  special election to be held in the appropriate voting districts
+7  at least sixty days after certification of the election returns.
+8  Any special election required by this section shall be conducted
+9  in accordance with section 1229 of this act. None of the
+10  unsuccessful candidates in the initial election shall be
+11  eligible to become a candidate in a subsequent special election
+12  required by this section.
+13     Section 1420.  Certification of Returns; Votes Cast for "None
+14  of the Above."--Except as provided in section 1419 of this act,
+15  any vote or votes cast for "none of the above," in accordance
+16  with sections 1215 and 1216 of this act, shall be canvassed,
+17  certified, computed, counted, recanvassed, recorded, tabulated,
+18  tallied and otherwise treated as any vote or votes cast for a
+19  candidate is canvassed, certified, computed, counted,
+20  recanvassed, recorded, tabulated, tallied and otherwise treated,
+21  as prescribed in this article.
+22     Section 6.  This act shall take effect in 60 days.
+A10L25JRW/19970H0686B0768       - 15 -

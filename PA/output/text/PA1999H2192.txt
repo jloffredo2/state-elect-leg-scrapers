@@ -1,0 +1,119 @@
+12     Section 1.  The definition of "registration care" in section
+13  102 of the act of June 30, 1995 (P.L.170, No.25), known as the
+14  Pennsylvania Voter Registration Act, is amended and the section
+15  is amended by adding a definition to read:
+16  Section 102.  Definitions.
+17     The following words and phrases when used in this act shall
+18  have the meanings given to them in this section unless the
+19  context clearly indicates otherwise:
+20     * * *
+21     "Registration card."  A registration record containing all
+1  information required on the registration application, including
+2  the elector's signature, and suitable space for the insertion by
+3  the appropriate official of the following information:
+4         (1)  The ward and election district of residence.
+5         (1.1)  The last four digits of the registrant's Social
+6     Security number.
+7         (2)  The registrant's street address.
+8         (3)  Data required to be given upon removal from the
+9     registrant's residence.
+10         (4)  The date of each election at which the registrant
+11     votes.
+12         (5)  The number and letter of the stub of the ballot
+13     issued to the registrant or the registrant's number in the
+14     order of admission to the voting machines.
+15         (6)  The initials of the election officer who enters the
+16     record of voting in the district register.
+17         (7)  Whether the registrant needs assistance to vote and,
+18     if so, the nature of the disability.
+19     "Registry."  The Statewide central registry of registered
+20  qualified electors established under section 301.1.
+21     * * *
+22     Section 2.  Section 301 of the act is amended to read:
+23  Section 301.  Regulations.
+24     The secretary shall promulgate regulations necessary to
+25  administer this act. The regulations shall include, but not be
+26  limited to, provisions which do all of the following:
+27         (1)  Provide for applicants to submit their voter
+28     registration application to the commission, the Department of
+29     Transportation and other agencies designated in section 525.
+30         (2)  Prescribe a procedure for the return of completed
+1     voter registration applications from the Department of
+2     Transportation, the Department of Public Welfare, armed
+3     forces recruitment centers, Offices of the Clerk of Orphan's
+4     Court and all other offices under this act to the secretary
+5     or the appropriate commission.
+6         [(3)  Prescribe a procedure to conduct a study of the
+7     technological needs and other aspects of the development and
+8     implementation of a Statewide central registry of registered
+9     qualified voters, and the study shall be completed by July 1,
+10     1996.]
+11         (4)  Provide for establishment and administration of the
+12     Statewide central registry of registered qualified electors
+13     under section 301.1. The regulations shall include uniform
+14     standards for the conduct of voter registration transactions
+15     among the commissions and the department.
+16     Section 3.  The act is amended by adding a section to read:
+17  Section 301.1.  Statewide central registry of registered
+18                 qualified electors.
+19     (a)  Establishment.--The secretary shall establish not later
+20  than June 30, 2001, a Statewide central registry of registered
+21  qualified electors, to which all of the commissions shall be
+22  linked.
+23     (b)  Access to registry.--Commissions shall be authorized to
+24  access the registry for the purposes of entering data into the
+25  registry and searching registration records as part of a voter
+26  removal program established under section 1901.
+27     Section 4.  Section 307 and 527(a)(1) of the act are amended
+28  to read:
+29  Section 307.  Open records and documents.
+30     (a)  Scope.--The following documents under this act are open
+1  to public inspection except as otherwise provided in this
+2  section:
+3         (1)  Records of a registration commission and of district
+4     registers.
+5         (2)  Street lists.
+6         (3)  Official voter registration applications.
+7         (4)  Petitions and appeals.
+8         (5)  Witness lists.
+9         (6)  Accounts and contracts.
+10         (7)  Reports.
+11     (b)  Use.--Open material under subsection (a) may be
+12  inspected during ordinary business hours subject to the
+13  efficient operation of the commission. Public inspection shall
+14  only be in the presence of a commissioner or authorized
+15  commission employee and shall be subject to proper regulation
+16  for safekeeping of the material and subject to this act. Upon
+17  request, a photocopy of the record or computer-generated data
+18  record shall be provided at cost. The material may not be used
+19  for commercial or improper purposes.
+20     (c)  Disclosure of Social Security numbers.--The commission
+21  may not disclose the last four digits of any registrant's Social
+22  Security number nor any data containing the last four digits of
+23  the registrant's Social Security number.
+24  Section 527.  Preparation and distribution of applications.
+25     (a)  Form.--
+26         (1)  The secretary shall prescribe the form of official
+27     voter registration application. The official voter
+28     registration application shall provide space for the
+29     following information about the applicant:
+30             (i)  Full name.
+1             (i.i)  Last four digits of the Social Security
+2         number.
+3             (ii)  Address of residence. If the residence is a
+4         portion only of the house, the location or number of the
+5         room, apartment or floor which is occupied.
+6             (iii)  Mailing address if different than address of
+7         residence.
+8             (iv)  Name and residence address on previous
+9         registration and the year of that registration.
+10             (v)  Designation of political party, for the purpose
+11         of voting at a primary election.
+12             (vi)  Date of birth.
+13             (vii)  Telephone number. An application shall not be
+14         rejected because of noncompliance with this subparagraph.
+15             (viii)  Race. An application shall not be rejected
+16         because of noncompliance with this subparagraph.
+17         * * *
+18     Section 5.  This act shall take effect in 60 days.
+G26L25DMS/20000H2192B2861        - 5 -

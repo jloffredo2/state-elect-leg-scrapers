@@ -1,0 +1,164 @@
+8     Section 1.  Section 1321 of Title 25 of the Pennsylvania
+9  Consolidated Statutes is amended to read:
+10  § 1321.  Methods of voter registration.
+11     An individual qualified to register to vote under section
+12  1301(a) (relating to qualifications to register) may apply to
+13  register as follows:
+14         (1)  Under section 1322 (relating to in-person voter
+15     registration).
+16         (2)  Under section 1323 (relating to application with
+17     driver's license application).
+18         (3)  Under section 1324 (relating to application by
+1     mail).
+2         (4)  Under section 1325 (relating to government
+3     agencies).
+4         (5)  Under section 1326.1 (relating to application by
+5     Internet for military electors).
+6     Section 2.  Title 25 is amended by adding sections to read:
+7  § 1326.1.  Application by Internet for military electors.
+8     (a)  General rule.--An application to register to vote or to
+9  change party enrollment or name or address on a current
+10  registration of a military elector may be submitted by voter
+11  Internet registration application in the manner set forth in
+12  this section. An application may be submitted by Internet on an
+13  official Internet registration application, the form of which
+14  shall be determined and prescribed by the secretary or the
+15  Federal Election Commission pursuant to the National Voter
+16  Registration Act of 1993 (Public Law 103-31, 42 U.S.C. § 1973gg
+17  et seq.). The applicant must complete the information required
+18  on the Internet registration application and electronically sign
+19  the registration declaration.
+20     (b)  Time.--Registration under this section may be made at
+21  any time. If an Internet registration application is received by
+22  a commission beyond the deadline for registration provided in
+23  section 1326 (relating to time), the application shall be
+24  retained by the commission until the beginning of the next
+25  period during which registration can be made.
+26     (c)  Federal form and establishment of residency.--
+27         (1)  A military elector may also apply at any time for
+28     registration on an official registration application or any
+29     form prescribed by the Federal Government for such purpose.
+30         (2)  The status of a military elector to register under
+1     this section with respect to residence shall remain as the
+2     same home residence status from which the military elector is
+3     qualified to register. If, at the time of leaving that home
+4     address, the military elector had not resided in this
+5     Commonwealth or in a particular election district for a
+6     sufficient time to have been entitled to be registered but,
+7     by continued residence, would have become entitled to be
+8     registered, the military elector shall be entitled to be
+9     registered at the time the military elector would have been
+10     entitled to register had the military elector not left that
+11     home address but continued to reside there.
+12         (3)  The commission is authorized to consider a request
+13     for an Internet absentee ballot as a request for an official
+14     Internet registration application and to forward to the
+15     requester all of the following:
+16             (i)  An Internet absentee ballot and balloting
+17         material.
+18             (ii)  An official Internet registration application.
+19         (4)  The military elector must complete and
+20     electronically file these documents in accordance with the
+21     applicable provisions of the act of June 3, 1937 (P.L.1333,
+22     No.320), known as the Pennsylvania Election Code.
+23         (5)  The right to be registered pursuant to this
+24     subsection shall not be subject to challenge for any reason
+25     other than failure to have furnished the commission a
+26     properly completed Internet registration application.
+27     (d)  Internet website specifications.--
+28         (1)  The Pennsylvania Board of Elections shall implement
+29     an Internet website that allows for the registration of
+30     military electors stationed remote from their districts of
+1     residence.
+2         (2)  The Internet website shall be hosted in a secure
+3     fashion in the United States and will incorporate the use of
+4     the United States Postal Service Electronic Postmark service.
+5         (3)  Voter registration under this section shall be
+6     acceptable for military electors stationed remotely when
+7     accomplished over the Internet by in-person proofing
+8     accomplished in an acceptable manner to the Pennsylvania
+9     Board of Elections.
+10         (4)  In-person proofing shall demonstrate the residence
+11     of the person registering in the voting district in which the
+12     person wishes to cast the person's vote as follows:
+13             (i)  The proof shall be presented in the form of a
+14         driver's license with zip code of record and military
+15         identification presented to the postmaster of the
+16         military elector's base of deployment.
+17             (ii)  The postmaster shall be enabled with a United
+18         States Postal Service Electronic Postmark that will be
+19         applied as certification that the in-person proofing of
+20         the voter of record has been performed.
+21         (5)  The voter registration when submitted using this
+22     method shall be submitted to the appropriate voting
+23     authorities in the district in which the military elector
+24     wishes to cast the military elector's vote not later than 30
+25     days prior to the first election that the military elector
+26     wishes to participate in.
+27         (6)  The method of transmission of the registration shall
+28     be via the Internet using e-mail affixed with United States
+29     Postal Service Electronic Postmark service with return
+30     receipt capabilities.
+1         (7)  A user name and password shall be assigned to the
+2     military elector allowing a single ballot to be
+3     electronically postmarked within one week prior or one week
+4     after the date of election.
+5         (8)  The voter registration card shall be transmitted to
+6     the military elector by e-mail, and the electronic voter
+7     registration card shall have the United States Postal Service
+8     Electronic Postmark applied upon transmission with a return
+9     receipt requested.
+10         (9)  The voter registration shall be authenticated and
+11     nonrepudiated using the United States Postal Service
+12     Electronic Postmark.
+13  § 3303.  Application for Internet ballots.
+14     (a)  General rule.--A military elector who has obtained a
+15  voter registration card under section 1326.1 (relating to
+16  application by Internet for military electors) shall be
+17  permitted to cast a vote in the primary or election for a
+18  national or Statewide office in the manner provided by this
+19  section.
+20     (b)  Internet specifications.--
+21         (1)  The Pennsylvania Board of Elections shall implement
+22     an Internet website that allows, in lieu of absentee ballots
+23     otherwise authorized under this title, for the casting of
+24     votes by military electors stationed remote from their
+25     districts of residence.
+26         (2)  The website shall be hosted in a secure fashion in
+27     the United States and will incorporate the use of the United
+28     States Postal Service Electronic Postmark service.
+29         (3)  Ballots under this section shall be acceptable for
+30     military electors stationed remotely when accomplished over
+1     the Internet by in-person proofing accomplished in an
+2     acceptable manner to the Pennsylvania Board of Elections.
+3         (4)  In-person proofing shall demonstrate the residence
+4     of the person for the voting district in which the person
+5     wishes to cast the person's vote as follows:
+6             (i)  The proof shall be presented in the form of a
+7         driver's license with zip code of record and military
+8         identification presented to the postmaster of the
+9         military elector's base of deployment.
+10             (ii)  The postmaster shall be enabled with a United
+11         States Postal Service Electronic Postmark that will be
+12         applied as certification that the in-person proofing of
+13         the voter of record has been performed.
+14         (5)  The ballots when submitted using this method shall
+15     be submitted to the appropriate voting authorities in the
+16     district in which the military elector wishes to cast the
+17     military elector's vote as soon as practicable after election
+18     that the military elector participates in.
+19         (6)  The method of transmission of the ballots shall be
+20     via the Internet using e-mail affixed with United States
+21     Postal Service Electronic Postmark service with return
+22     receipt capabilities.
+23         (7)  The ballots shall be authenticated and nonrepudiated
+24     using the United States Postal Service Electronic Postmark.
+25     (c)  Acceptance of Internet ballots.--Election officials
+26  shall accept ballots submitted in accordance with the provisions
+27  of this section in lieu of an absentee ballot otherwise
+28  authorized under this title.
+29     (d)  Pilot and testing.--The department shall implement, for
+30  demonstration purposes, the Internet website required by this
+1  section within 60 days of the effective date of this section.
+2     Section 3.  This act shall take effect in 60 days.
+J13L25DMS/20050S0984B1315        - 7 -

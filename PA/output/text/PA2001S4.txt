@@ -1,0 +1,795 @@
+15     Section 1.  Section 102 of the act of June 30, 1995 (P.L.170,
+16  No.25), known as the Pennsylvania Voter Registration Act, is
+17  amended by adding definitions to read:
+18  Section 102.  Definitions.
+19     The following words and phrases when used in this act shall
+20  have the meanings given to them in this section unless the
+21  context clearly indicates otherwise:
+22     "Applicant."  An individual who applies to be registered to
+1  vote as provided for in this act.
+2     * * *
+3     "General register."  The registration record of a county
+4  containing at a minimum all information required on a
+5  registration application and a registration card for all
+6  registered electors in the county.
+7     * * *
+8     "Registrant."  An elector who is registered to vote in
+9  accordance with this act.
+10     * * *
+11     "Registration records."  The general register, district
+12  register and any other record of registration of electors
+13  maintained by a county. If provided in regulations promulgated
+14  under this act, the term shall also refer to any record
+15  maintained by the county on the Statewide Uniform Registry of
+16  Electors.
+17     * * *
+18     "Statewide Uniform Registry of Electors" or "SURE system."
+19  The integrated voter registration system containing a data base
+20  of all electors in this Commonwealth established by this act.
+21     Section 2.  The act is amended by adding sections to read:
+22  Section 105.  Existing electors.
+23     All electors registered to vote in this Commonwealth on the
+24  effective date of this section who remain qualified shall
+25  continue to be registered under this act.
+26  Section 106.  Administration.
+27     The department shall administer this act.
+28     Section 3.  Chapter 3 of the act is amended by adding a
+29  subchapter heading to read:
+30                            SUBCHAPTER A
+1                  ADMINISTRATIVE POWERS AND DUTIES
+2     Section 4.  Sections 301, 302 and 303(h) and (k) of the act
+3  are amended to read:
+4  Section 301.  [Regulations.] Departmental responsibilities.
+5     The [secretary shall promulgate regulations necessary to
+6  administer this act. The regulations shall include, but not be
+7  limited to, provisions which] department shall do all of the
+8  following:
+9         (1)  Provide for applicants to submit their voter
+10     registration application to the commission, the Department of
+11     Transportation and other agencies designated in section 525.
+12         (2)  Prescribe a procedure for the return of completed
+13     voter registration applications from the Department of
+14     Transportation, the Department of Public Welfare, armed
+15     forces recruitment centers, Offices of the Clerk of Orphan's
+16     Court and all other offices under this act to the secretary
+17     or the appropriate commission.
+18         (3)  [Prescribe a procedure to conduct a study of the
+19     technological needs and other aspects of the development and
+20     implementation of a Statewide central registry of registered
+21     qualified voters, and the study shall be completed by July 1,
+22     1996.] Develop and establish a Statewide Uniform Registry of
+23     Electors subject to the requirements of section 321.
+24         (4)  Promulgate regulations necessary to administer this
+25     act.
+26  [Section 302.  Existing electors.
+27     All electors registered to vote in this Commonwealth on the
+28  effective date of this act remain registered under this act, and
+29  all electors registered for Federal elections shall, upon the
+30  effective date of this act, become registered for State and
+1  local elections.]
+2  Section 303.  Commissions.
+3     * * *
+4     (h)  Errors.--A commission has the power to correct an error
+5  or irregularity in registration and to cancel the registration
+6  of an individual whom it finds to be improperly registered,
+7  subject only to this act. Written notice must be mailed or
+8  delivered to each individual whose registration is canceled.
+9  Whenever a registered elector's name is changed for any reason,
+10  [the initial] that elector's registration number shall remain
+11  the same, and the file shall reflect the former name change to
+12  the new name. A commission shall promptly update information
+13  contained in its registration records with regard to such errors
+14  or irregularities.
+15     * * *
+16     (k)  Correction of errors.--
+17         (1)  A commission [has the power to] shall correct its
+18     records without requiring action of a registered elector in
+19     any of the following cases:
+20             (i)  If the mailing address of the registered elector
+21         has been changed by the renaming of a street, the
+22         renumbering of a house or the changing of a post office.
+23             (ii)  If the election district of the registered
+24         elector has been changed through a change in the
+25         boundaries of an election district.
+26         (2)  Notice of action under paragraph (1) shall be mailed
+27     promptly to the affected registered elector.
+28     Section 5.  Chapter 3 of the act is amended by adding a
+29  subchapter to read:
+30                            SUBCHAPTER B
+1           STATEWIDE UNIFORM REGISTRY OF ELECTORS (SURE)
+2  Section 321.  Legislative intent.
+3     It is the intent of the General Assembly that a Statewide
+4  system of voter registration be established in this Commonwealth
+5  to insure the integrity and accuracy of voter registration
+6  records. All commissions shall be linked electronically to a
+7  data base containing information pertaining to all registered
+8  electors in this Commonwealth. The system shall be in a uniform
+9  format and shall be compatible, as far as practicable, with
+10  current technologies employed by the commissions with regard to
+11  voter registration. The system shall, as far as practicable,
+12  preserve the power of the commissions to make determinations as
+13  to the qualifications of electors. When commissions fail to
+14  perform the duties imposed by this act, the department shall be
+15  empowered to enforce compliance.
+16  Section 322.  Establishment of SURE system.
+17     (a)  Establishment.--The department shall develop and
+18  implement a Statewide Uniform Registry of Electors containing a
+19  data base of all registered electors in this Commonwealth.
+20     (b)  Advisory board.--
+21         (1)  The secretary shall form an advisory board to assist
+22     the department in determining and identifying the necessary
+23     elements and requirements of the SURE system.
+24         (2)  The secretary shall appoint nine directors of
+25     elections, one from each class of counties, and shall appoint
+26     three county commissioners, each from a different class of
+27     counties from a list submitted by the County Commissioners
+28     Association of Pennsylvania. The advisory board shall also be
+29     comprised of four members of the General Assembly who have
+30     been appointed to the Joint Select Committee on Election
+1     Reform pursuant to House Resolution 14 of 2001 as follows:
+2             (i)  Two members of the House of Representatives, one
+3         of whom shall be a member of the minority party
+4         recommended by the Minority Leader, appointed by the
+5         Speaker of the House of Representatives.
+6             (ii)  Two members of the Senate, one of whom shall be
+7         a member of the minority party recommended by the
+8         Minority Leader, appointed by the President pro tempore
+9         of the Senate.
+10         (3)  On or before September 30 OCTOBER 15, 2001, the       <--
+11     secretary shall make a report of the recommendations of the
+12     department with regard to the necessary elements and
+13     requirements of the SURE system. The report shall be
+14     submitted to the State Government Committee of the Senate and
+15     the State Government Committee of the House of
+16     Representatives. The recommendations shall include, but not
+17     necessarily be limited to, the following:
+18             (i)  requirements for county participation in the
+19         SURE system;
+20             (ii)  access to the SURE system for review and search
+21         capabilities;
+22             (iii)  use of the SURE system as the general register
+23         of a county;
+24             (iv)  use of signatures or other forms of voter
+25         registration identification;
+26             (v)  accuracy, security and protection of all
+27         information in the SURE system and to ensure that
+28         unauthorized entry is not allowed; and
+29             (vi)  usage and compatibility of the various
+30         equipment and technologies currently possessed by the
+1         counties.
+2     Section 6.  Sections 501, 523(c), 528(d), 529(d), 901(b),
+3  902(a), 903, 904 and 905  of the act are amended to read:
+4  Section 501.  Qualifications to register.
+5     (a)  Eligibility.--A qualified elector who will be at least
+6  18 years of age on the day of the next election, who has been a
+7  citizen of the United States for at least one month prior to the
+8  next election and who has resided in this Commonwealth and the
+9  election district where the qualified elector offers to vote for
+10  at least 30 days prior to the next ensuing election and has not
+11  been confined in a penal institution for a conviction of a
+12  felony within the last five years shall be entitled to be
+13  registered as provided in this chapter. If an individual is
+14  qualified to vote in an election district prior to removal of
+15  residence, the individual may, if a resident of this
+16  Commonwealth, vote in the election district from which residence
+17  was removed within the 30 days preceding the election.
+18     (b)  Effect.--No individual shall be permitted to vote at any
+19  election unless the individual is registered under this
+20  subsection, except as provided by law or by order of a court of
+21  common pleas. No registered elector shall be required to
+22  register again for any election while the elector continues to
+23  reside at the same address.
+24     (c)  Removal of residence.--Except as otherwise provided by
+25  this act, an elector who removes the elector's residence to
+26  another outside the elector's last election district shall not
+27  be entitled to vote in the election district of the elector's
+28  last residence except pursuant to the provisions of this section
+29  and sections 901(b), 902 and 1902.
+30  Section 523.  Application with driver's license application.
+1     * * *
+2     (c)  Transmission.--
+3         (1)  The Department of Transportation shall forward
+4     completed applications or contents of the completed voter
+5     registration applications in machine-readable format to the
+6     department by the close of registration for the ensuing
+7     election.
+8         (2)  The department shall transmit the material to the
+9     appropriate commission within ten days after the date of its
+10     receipt by the Department of Transportation. If a voter
+11     registration application is received by the Department of
+12     Transportation within five days before the last day to
+13     register before an election, the application shall be
+14     transmitted to the appropriate commission not later than five
+15     days after the date of its receipt by the Department of
+16     Transportation.
+17         (3)  Upon receipt of the completed voter registration
+18     information from the department, the commission shall make a
+19     record of the date of the receipt of the application and
+20     process the application. No applicant shall be deemed
+21     eligible to vote until the commission has received and
+22     approved the application.
+23         (4)  Changes of address shall comply with the following:
+24             (i)  The Department of Transportation shall notify
+25         the secretary of changes of address received under
+26         subsection (a)(3). The secretary shall notify the
+27         commission of the county of the registrant's prior
+28         residence. Except as provided in subparagraph (ii), if
+29         the registrant has moved outside of the county, the
+30         commission shall forward the registrant's registration
+1         card to the commission of the registrant's new county of
+2         residence. Except as provided in subparagraph (ii), if
+3         the registrant has moved to an address within the
+4         commission's jurisdiction, the commission shall update
+5         the registration record of the registrant. All changes of
+6         address received by the Department of Transportation
+7         under this section at least 30 days before a primary,
+8         general or municipal election must be processed by the
+9         commission for the ensuing election.
+10             (ii)  In the case of changes of address received by
+11         the Department of Transportation which do not contain a
+12         signature of the registrant, the commission receiving the
+13         change of address notification shall mail a notice to the
+14         registrant at the new residence address requesting
+15         verification of the address change. [The verification
+16         notice shall be in substantially the following form:] If
+17         the change of address is to a new residence outside the
+18         commission's jurisdiction, the commission shall mail the
+19         following notice:
+20         Date................
+21               Office of the Registration Commission
+22                  .......... County, Pennsylvania
+23           ........ (Address and Telephone No. of County)
+24         We have been notified by the Department of Transportation
+25         that you recently [moved] changed your address from
+26         ................. (old residence address) to
+27         ............... (new residence address) and that this
+28         change of address is to serve as a change of address for
+29         voter registration purposes. Unless you notify this
+30         office within ten days from the date of this notice that
+1         this information is not correct, your voter registration
+2         will be transferred to ........... County. You may notify
+3         this office by [calling the telephone number appearing
+4         on] writing your residence address, the date and your
+5         signature on the bottom of this form [or by] and mailing
+6         this notice to this office. You need not notify this
+7         office if this information is correct.
+8                                 ............................
+9                                                Chief Clerk
+10         If the address change is within the commission's
+11         jurisdiction, the county shall [notify the registrant
+12         what precinct the new address is in using the following
+13         form:
+14         Date...............
+15               Office of the Registration Commission
+16                 ............ County, Pennsylvania
+17          .......... (Address and Telephone No. of County)
+18         We have been notified by the Department of Transportation
+19         that you recently moved from ................. (old
+20         residence address) to (new residence address) and that
+21         this change of address is to serve as a change of address
+22         for voter registration purposes. Unless you notify this
+23         office within ten days from the date of this notice that
+24         this information is not correct, your voter registration
+25         will be transferred to ................ (new precinct) in
+26         this county. You may notify this office by calling the
+27         telephone number appearing on this form or by mailing
+28         this notice to this office. You need not notify this
+29         office if this information is correct.
+30                                 ............................
+1                                                Chief Clerk
+2         Such notices must be sent by first class nonforwardable
+3         mail, return postage guaranteed, and must be in a form
+4         approved by the secretary and designed in such a manner
+5         to allow the registrant to indicate that the address
+6         change is incorrect, the reason why such discrepancy
+7         exists and for return to the county commission. Such
+8         notice must be signed by the registrant and dated.] mail
+9         a voter's identification card to the registrant at the
+10         new residence address.
+11             (iii)  If the registrant does not return the notice
+12         under subparagraph (ii) within the ten-day period, the
+13         commission shall process the change of address according
+14         to subparagraph (i). If the registrant notifies the
+15         commission that the information is incorrect and the
+16         commission is satisfied with the registrant's explanation
+17         of the discrepancy, the address of the registrant's
+18         registration shall remain unchanged. If the verification
+19         notification or voter identification card is returned by
+20         the post office as undeliverable as addressed or with a
+21         forwarding address, the commission shall [direct] send a
+22         confirmation notice to the registrant's address of former
+23         residence in accordance with section 1901(d)(2).
+24         (5)  Upon notification and confirmation of any change of
+25     address, a commission shall promptly update information
+26     contained in its registration record.
+27     * * *
+28  Section 528.  Approval of registration applications.
+29     * * *
+30     (d)  Disposition.--
+1         (1)  When the registration of an elector has been
+2     [finally] processed under subsection (b)(2), the commission
+3     shall transmit to the applicant by first class nonforwardable
+4     mail a wallet-sized voter's identification card, which shall
+5     serve as notice to the applicant of the disposition of the
+6     application. The card shall contain all of the following:
+7             (i)  Name and address of the elector.
+8             (ii)  Name of municipality.
+9             (iii)  Identification of elector's ward and district.
+10             (iv)  Effective date of registration.
+11             (v)  Designation of party enrollment and date of
+12         enrollment.
+13             (vi)  A space for the elector's signature or mark.
+14             (vii)  A statement that the card relates only to the
+15         time of issuance of the card and is not of itself
+16         evidence or proof of the qualifications of the elector to
+17         vote at an election or proof of identification for
+18         purposes of applying for or receiving general assistance
+19         and that it is not necessary to present the card when
+20         voting. The statements required by this subparagraph
+21         shall be placed on the reverse side of the card from
+22         where all of the other information required by this
+23         paragraph is placed.
+24             (viii)  A statement that the elector must notify the
+25         commission within ten days if any information on the card
+26         is incorrect; otherwise the information shall be deemed
+27         correct for voter registration purposes.
+28         (2)  The carrier envelope in which the identification
+29     card is enclosed shall contain on the outside a request to
+30     the postmaster to return it within five days if it cannot be
+1     delivered to the addressee at the address given.
+2         (3)  No registration application shall be deemed to be
+3         accepted until ten days after the voter's identification
+4         card has been mailed. Upon return by the post office of
+5         an identification card under paragraph (2) which the post
+6         office is unable to deliver at the given address, the
+7         commission shall investigate. If the commission finds
+8         that the applicant is not qualified to register from such
+9         address, the commission shall reject the application of
+10         the applicant and shall notify the applicant by first
+11         class forwardable mail of this action.
+12         (4)  If the applicant discloses that the elector's last
+13     residence address upon registration was a location within
+14     another county, the commission of the county of the elector's
+15     new residence shall direct a cancellation notice to the
+16     commission of [that county] the county of the elector's last
+17     residence. This cancellation notice shall be in a form
+18     approved by the secretary in substantially the following
+19     form:
+20         Date .........................
+21               Office of the Registration Commission
+22               ................ County, Pennsylvania
+23         Cancellation of Previous Registration
+24         Name .................................., whose date of
+25         birth is ..........................., has now registered
+26         as an elector in........................ County,
+27         Pennsylvania. Our records indicate that this registrant
+28         was previously registered in the County of
+29         ............................., Pennsylvania, at the
+30         following address ...............................
+1                                 ............................
+2                                                Chief Clerk
+3         (5)  Upon receipt of the notice in paragraph (4), the
+4     commission of the county of the elector's last residence
+5     shall transfer a copy of the elector's canceled registration   <--
+6     record to the commission of the county of the elector's new
+7     residence and retain a record of the transfer. The
+8     commissions of both counties shall promptly update
+9     information contained in their registration records.
+10     REGISTRATION RECORD TO THE COMMISSION OF THE COUNTY OF THE     <--
+11     ELECTOR'S NEW RESIDENCE AND RETAIN A RECORD OF THE TRANSFER.
+12     THE COMMISSIONS OF BOTH COUNTIES SHALL PROMPTLY UPDATE
+13     INFORMATION CONTAINED IN THEIR REGISTRATION RECORDS.
+14  Section 529.  Challenges.
+15     * * *
+16     (d)  Resolution.--If the challenged individual establishes,
+17  to the satisfaction of the commission, the right to be
+18  registered as required by this act, the challenged individual
+19  shall be registered. If the challenged individual does not
+20  establish to the satisfaction of the commission the right to be
+21  registered as provided in this act, the challenged individual's
+22  registration, if any, shall be canceled, and the commission
+23  shall promptly update information contained in its registration
+24  records.
+25  Section 901.  Removal notices.
+26     * * *
+27     (b)  Use.--An elector who removes residence from one place to
+28  another within the same county must notify the commission by
+29  filing a removal notice under subsection (a), or a signed
+30  request for renewal that contains the information required in
+1  subsection (a), with the commission not later than the
+2  registration deadline before the election. If mailed, the notice
+3  or request must be postmarked not later than the deadline for
+4  registration or, in the case of an illegible or missing
+5  postmark, received within five days of the close of
+6  registration. The following apply:
+7         (1)  An official registration application of an elector
+8     who has registered by mail qualifies as a removal notice.
+9         (2)  An elector who removes residence from one place to
+10     another within the same county and who has not yet filed a
+11     removal notice with the commission shall be permitted to vote
+12     [at the election next] once at the elector's former polling
+13     place following removal if, at the time of signing THE         <--
+14     voter's certificate, the elector files with the judge of
+15     election a signed removal notice properly filled out. Removal
+16     notices under this paragraph shall be returned to the
+17     commission with the voting check list, and the commission
+18     shall proceed to transfer the registration of the electors
+19     under section 902[.] and shall promptly update information
+20     contained in its registration records. An elector may vote in
+21     the election district of the elector's former residence no
+22     more than one time following the elector's removal.
+23         (3)  A registered elector who removes residence from one
+24     county another county and who is not registered to vote in
+25     the new county of residence, shall be permitted to vote in
+26     the election district in the former county of residence if,
+27     at the time of signing the elector's certificate, the elector
+28     files with the judge of election a signed affirmation
+29     declaring the elector's new residence. An elector may vote in
+30     the election district of the elector's former residence no
+1     more than one time following the elector's removal.
+2     Affirmations made under this paragraph shall be returned to
+3     the commission of the elector's former county of residence
+4     with the voting checklist, and that commission shall proceed
+5     to transfer the registration of the elector under section
+6     902. Upon receipt of the transfer notice, the commission of
+7     the elector's new county of residence shall immediately
+8     process the transfer of the elector in accordance with
+9     section 528(d)(3). Both commissions shall promptly update
+10     information contained in their registration records.
+11  Section 902.  Transfer of registration.
+12     (a)  General rule.--Upon timely receipt of notification of
+13  removal under section 901(b), the registration commission shall
+14  proceed as follows:
+15         (1)  The signature on the notification document shall be
+16     compared with the signature of the elector as it appears on
+17     file with the commission.
+18         (2)  If the signature appears authentic, the commission
+19     shall enter the change of residence on the registration card
+20     of the elector in the general register and district register
+21     and shall transfer the registration card of the elector from
+22     the district register of the election district of previous
+23     residence to the district register of the election district
+24     of new residence.
+25         (3)  If a request for transfer which is determined to be
+26     authentic under paragraph (2) shows a removal within the
+27     period of 30 days preceding an election, the commission,
+28     after such election, shall enter the change of residence on
+29     the registration card of the elector in the general register
+30     and district register and shall transfer the registration
+1     card of the elector from the district register of the
+2     election district of previous residence. The commission shall
+3     advise the elector promptly in writing of its action.
+4         (4)  When a registered elector has filed with a
+5     commission a notice that the elector has moved from the
+6     county to another county, if the signature appears authentic,
+7     the commission shall enter the change of residence on the
+8     elector's registration records, cancel the registration of
+9     the elector and notify the commission of the elector's new
+10     county of residence to register the elector. Upon receipt of
+11     the transfer notice, the commission of the elector's new
+12     county of residence shall immediately process the transfer of
+13     the elector in accordance with section 528(d)(3).
+14         (5)  If a request for transfer which is determined to be
+15     authentic under paragraph (4) shows a removal within the
+16     period of 30 days preceding an election, the commission,
+17     after such election, shall enter the change of residence on
+18     the elector's registration records, cancel the registration
+19     of the elector and notify the commission of the elector's new
+20     county of residence to register the elector. Upon receipt of
+21     the transfer notice, the commission of the elector's new
+22     county of residence shall immediately process the transfer of
+23     the elector in accordance with section 528(d)(3).
+24         (6)  A commission shall promptly update information
+25     contained in its registration records.
+26     * * *
+27  Section 903.  Change of enrollment of political party.
+28     By the deadline for registration, a registered voter who
+29  desires to change the enrollment of political designation or
+30  who, although registered, has not previously enrolled as a
+1  member of a party may appear before a commissioner, registrar or
+2  clerk or may submit an application by mail under section 524 and
+3  state in a signed writing the political party in which the voter
+4  desires to be enrolled. If the signature of the elector is
+5  verified by comparison with the elector's signature as it
+6  appears on file with the commission, the commissioner, registrar
+7  or clerk shall make the change in the general register and
+8  district register. The commission shall also promptly update the
+9  information contained in its registration records. If supported
+10  by other evidence of identity, a mark may be made in lieu of a
+11  signature by an elector who is unable to write. The mark must be
+12  made in the presence of a witness who must sign the registration
+13  application.
+14  Section 904.  [Physical disability.] Disability.
+15     (a)  Eligibility.--If an elector by reason of blindness,
+16  disability or inability to read or write is unable to read the
+17  names on the ballot or on the voting machine labels or is unable
+18  to see or mark the ballot or operate the voting machine or to
+19  enter the voting compartment or voting machine booth without
+20  assistance, the following apply:
+21         (1)  The elector may, at least ten days prior to the next
+22     election, personally make application to the commission or a
+23     registrar or a clerk.
+24         (2)  The application must request the entry of the exact
+25     nature of the disability on the elector's registration card.
+26         (3)  The commission shall make the entry as appropriate.
+27         (4)  If the disability is not entered on the registration
+28     card, the elector may receive assistance if the elector
+29     completes a declaration in the polling place.
+30         (5)  Following the election the commission shall examine
+1     declarations completed under this section and shall update
+2     the elector's voter registration card to reflect the need for
+3     assistance and the nature of the disability.
+4     (b)  Termination.--If the commission ascertains that an
+5  elector who has declared need for assistance is no longer in
+6  need of assistance, it shall cancel on the registration card the
+7  entry relating to illiteracy or [physical] disability which
+8  authorized assistance. The commission shall notify the elector
+9  by mail of its action.
+10  Section 905.  [Department of Health] Death of registrant.
+11     (a)  Department of Health.--The registration commission shall
+12  cancel the registration of a registered elector reported dead by
+13  the Department of Health. The Department of Health shall, within
+14  60 days of receiving notice of the death of an individual 18
+15  years of age or older, send the name and address of residence of
+16  that individual to the commission in a manner and on a form
+17  prescribed by the department. The commission shall promptly
+18  update information contained in its registration records.
+19     (b)  Other sources.--A registration commission may also
+20  utilize published newspaper obituaries, letters testamentary or
+21  letters of administration issued by the office of the registrar
+22  of wills to cancel and remove the registration of an elector,
+23  provided that such removals are uniform, nondiscriminatory and
+24  in compliance with the Voting Rights Act of 1965 (Public Law 89-
+25  110, 42 U.S.C. § 1973 et seq.). The commission shall promptly
+26  update information contained in its registration records.
+27     (c)  Corrections.--An individual incorrectly reported
+28  deceased by the Department of Health or incorrectly removed by
+29  the commission for reason of death may appear in person before a
+30  commissioner, registrar or clerk at the office of the commission
+1  and prove identity. The commission, upon such proof, shall
+2  correct its registration records.
+3     Section 7.  The act is amended by adding a section SECTIONS    <--
+4  to read:
+5  Section 1703.  Power of department.
+6     The department shall have the authority to take any actions
+7  which are necessary to ensure compliance and participation by
+8  the counties.
+9  SECTION 1704.  RELIEF.                                            <--
+10     IN THE EVENT THAT A COMMISSION FAILS TO ADHERE TO ANY
+11  PROVISION OF THIS ACT, THE SECRETARY IS AUTHORIZED TO SEEK
+12  DECLARATORY AND INJUNCTIVE RELIEF IN COMMONWEALTH COURT.
+13     Section 8.  Sections 1901, 1902(b), 1903, 1904 and 1905(c) of
+14  the act are amended to read:
+15  Section 1901.  Removal of voters.
+16     (a)  Removal of elector's registration record.--Commissions
+17  shall institute a program to protect the integrity of the
+18  electoral process and to ensure the maintenance of accurate and
+19  current voter registration records. The program shall be
+20  uniform, nondiscriminatory and in compliance with the Voting
+21  Rights Act of 1965 (Public Law 89-110, 42 U.S.C. § 1973 et
+22  seq.). An elector's registration shall not be canceled except as
+23  follows:
+24         (1)  At the request of the elector.
+25         (2)  Upon the death of the elector under section 905.
+26         (3)  Upon confirmation that the elector has moved to a
+27     residence outside the county.
+28         (4)  Under a voter removal program as provided for under
+29     subsection (b), and in compliance with the National Voter
+30     Registration Act of 1993 (Public Law 103-31, 42 U.S.C. §
+1     1973gg et seq.).
+2     (b)  Voter removal program.--
+3         (1)  The commission shall establish a program to identify
+4     electors whose address may have changed by establishing one
+5     of the following programs:
+6             (i)  National change of address. The secretary shall
+7         establish by regulation a program whereby information
+8         supplied by the United States Postal Service through its
+9         licensees is used on a periodic basis, but not less than
+10         once every calendar year, to identify electors who may
+11         have changed addresses. The information shall be
+12         incorporated in the [administration of the Statewide
+13         central registry] SURE system and shall be forwarded to
+14         the commissions in a manner determined by the secretary
+15         by regulation.
+16                 (A)  If it appears from the information provided
+17             through the United States Postal Service that an
+18             elector has moved to a different residence address
+19             within the same county as the elector is currently
+20             registered, the commission shall change the
+21             registration records to show the new address and
+22             shall send the elector, to the address recorded on
+23             the elector's registration, a notice of the change of
+24             address by forwardable mail and a postage prepaid,
+25             preaddressed return form by which the elector may
+26             verify or correct the address information.
+27                 (B)  If it appears from the information provided
+28             through the United States Postal Service that an
+29             elector has moved to a different residence address
+30             outside the county, the commission shall use the
+1             notice procedure described in clause (A).
+2             (ii)  Confirmation mailing:
+3                 (A)  A commission may establish a program by
+4             sending a direct, nonforwardable first class "return
+5             if undeliverable - address correction requested"
+6             mailing to all registered electors in the county.
+7                 (B)  If this program is established, the
+8             commission shall use the notice procedure described
+9             in subparagraph (i)(A) for any elector whose mailing
+10             is returned undeliverable.
+11         (2)  In conjunction with and not as an alternative to a
+12     program established under paragraph (1), a canvass may be
+13     used as follows:
+14             (i)  The registration commission may, by
+15         commissioners or by inspectors of registration, verify
+16         the registration in an election district by visiting the
+17         building from which an elector is registered and other
+18         buildings as the commission deems necessary.
+19             (ii)  The commission shall make a record of the name
+20         and address of each registered elector who is found not
+21         to reside at the registered address or who for any other
+22         reason appears to be not qualified to vote in the
+23         registered election district.
+24             (iii)  The commission shall leave at the address of
+25         each person referred to in subparagraph (ii) a notice
+26         requiring him to communicate with the commission on or
+27         before a date which the commission shall designate, and
+28         which shall be not less than seven days and not more than
+29         15 days from the date of the notice and in any case not
+30         later than the 15th day preceding the election next
+1         ensuing, and satisfy the commission of his qualifications
+2         as an elector. The commission shall cause a confirmation
+3         of each such notice to be sent by mail promptly to such
+4         person at the address from which he is registered. The
+5         envelope containing such information is to be plainly
+6         marked that it is not to be forwarded. At the expiration
+7         of the time specified in the notice, the commission shall
+8         cancel the registration of such person who has not
+9         communicated with the commission and proved his
+10         qualifications as an elector.
+11             (iv)  To facilitate the canvass under this section,
+12         the commission may, when necessary, appoint special
+13         inspectors of registration, in number not exceeding
+14         double the number of election districts being canvassed.
+15             (v)  Special inspectors must be qualified electors of
+16         the county. They shall be appointed without reference to
+17         residence in election districts or to political
+18         affiliations or beliefs. The commission shall instruct
+19         special inspectors in their duties. Special inspectors
+20         have the powers conferred by this act upon inspectors of
+21         registration.
+22         (3)  In conjunction with and not as an alternative to a
+23     program established under paragraph (1), the commission shall
+24     send a notice pursuant to subsection (d) to any elector who
+25     has not voted nor appeared to vote during the period
+26     beginning five years before the date of the notice and ending
+27     on the date of the notice and for whom the board of elections
+28     did not during that period in any other way receive any
+29     information that the voter still resides in the registered
+30     election district.
+1         (4)  Commissions shall complete, not later than 90 days
+2     before each primary, at least once per year the voter removal
+3     programs under this section[.], and shall promptly update
+4     information contained in its registration records. This
+5     paragraph shall not be construed to preclude any of the
+6     following:
+7             (i)  Cancellation of an elector's registration as
+8         provided for under subsection (a)(1) or (2).
+9             (ii)  Correction of registration records in
+10         accordance with this act.
+11     (c)  Identification of inactive voters.--A commission shall
+12  mark an "I" on the registration card of each elector who has
+13  been mailed a form under subsection (b)(1) or (3) and has failed
+14  to respond, which shall be included with all other registration
+15  cards for that polling site and located at the individual's
+16  polling site on the day of the election.
+17     (d)  Cancellation of registration.--
+18         (1)  A commission shall not cancel the registration of an
+19     elector on the ground that the elector has changed residence
+20     unless any of the following apply:
+21             (i)  The elector confirms in writing that the elector
+22         has changed residence to a location outside the county in
+23         which the elector is registered.
+24             (ii)  The elector:
+25                 (A)  has failed to respond to a notice described
+26             in paragraph (2); and
+27                 (B)  has not voted nor appeared to vote and, if
+28             necessary, corrected the commission's record of the
+29             elector's address, in an election during the period
+30             beginning on the date of the notice and ending on the
+1             day after the date of the second general election for
+2             Federal office that occurs after the date of the
+3             notice.
+4         (2)  A notice, as required in paragraph (1)(ii), is
+5     acceptable if it is a postage prepaid and preaddressed return
+6     card, sent by forwardable mail, on which the elector may
+7     state the elector's current address, if it contains a notice
+8     as follows:
+9             (i)  The notice must state all of the following:
+10                 (A)  If the elector did not change residence or
+11             changed residence but still resides in the county,
+12             the elector must return the card not later than 30
+13             days prior to the next election. If the card is not
+14             returned, affirmation or confirmation of the
+15             elector's address may be required before the elector
+16             is permitted to vote in an election during the period
+17             beginning on the date of the notice and ending on the
+18             day after the date of the second general election for
+19             Federal office that occurs after the date of the
+20             notice. If the elector does not vote in an election
+21             during that period, the elector's registration shall
+22             be canceled.
+23                 (B)  If the elector has changed residence to a
+24             place outside the county in which the elector is
+25             registered, information shall be provided concerning
+26             how the elector can register in the new county of
+27             residence.
+28             (ii)  The notice must state the date of the notice,
+29         the date of the next election and the date of the second
+30         general election for Federal office occurring after the
+1         date of the notice.
+2         (3)  The commission shall correct registration records in
+3     accordance with change of residence information obtained in
+4     conformance with this subsection. The commission shall also
+5     promptly update its registration records.
+6  Section 1902.  Procedure for voting following failure to return
+7                 notification card.
+8     * * *
+9     (b)  Different county.--An elector who has moved from one
+10  county to another county and who has failed to notify the
+11  commission of the change of address prior to the date of the
+12  election shall be permitted to correct the voting records and
+13  vote at the elector's former polling place upon written
+14  affirmation by the elector of the new address before an election
+15  official at the former polling place. Upon receipt of the
+16  written affirmation, the commission shall follow the procedures
+17  in this act for change of address to a new county and shall
+18  update information contained in its registration records.
+19  Section 1903.  Incorrect records.
+20     If registration records incorrectly indicate that an elector
+21  has moved from an address in the area covered by a polling
+22  place, the elector shall, upon written affirmation before an
+23  election official at that polling place, be permitted to vote at
+24  that polling place. Upon receipt of the written affirmation, the
+25  commission shall promptly update information contained in its
+26  registration records.
+27  Section 1904.  Files.
+28     (a)  Cancellation.--If the registration of an elector is
+29  canceled, the registration commission shall mark on the
+30  registration cards of the elector the word "canceled" and the
+1  date and cause of cancellation. The commission shall remove the
+2  card from the general register and the district register.
+3  Removed cards shall be retained for five years. The commission
+4  shall promptly update information contained in its registration
+5  records.
+6     (b)  Nonessential records.--Records which are not essential
+7  for maintaining the current status of a qualified elector may be
+8  destroyed by the commission three years from the date the
+9  commission marks them as nonessential.
+10  Section 1905.  Errors in cancellation.
+11     * * *
+12     (c)  Action.--
+13         (1)  The commission shall hold a hearing on the petition.
+14         (2)  If the commission finds that there was an error, the
+15     commission shall reinstate the registration and shall
+16     promptly update information contained in its registration
+17     records.
+18     Section 9.  The secretary shall establish and convene the
+19  advisory committee provided for in section 322(b) of the act as
+20  soon as practicable following enactment of this act. The
+21  implementation DEVELOPMENT of the Statewide Uniform Registry of   <--
+22  Electors shall begin immediately upon enactment of legislation
+23  providing for the requirements and elements of the Statewide
+24  Uniform Registry of Electors.
+25     Section 10.  This act shall take effect as follows:
+26         (1)  Section 9 and this section shall take effect          <--
+27     immediately.
+28         (2)  The amendment or addition of sections 102, 105, 301,
+29     302, Subchapter B of Chapter 3 and section 905 of the act
+30     shall take effect immediately.
+1         (3)  The remainder of this act shall take effect in 60
+2     days.
+3         (1)  THE AMENDMENT OR ADDITION OF SECTIONS 106, 523(C)(4)  <--
+4     AND 1703 OF THE ACT SHALL TAKE EFFECT IN 60 DAYS.
+5         (2)  THE REMAINDER OF THIS ACT SHALL TAKE EFFECT
+6     IMMEDIATELY.
+F6L25BIL/20010S0004B1230        - 28 -

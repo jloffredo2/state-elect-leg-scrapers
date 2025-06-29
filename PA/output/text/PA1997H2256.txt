@@ -1,0 +1,690 @@
+15     Section 1.  Section 102(w) of the act of June 3, 1937
+16  (P.L.1333, No.320), known as the Pennsylvania Election Code,
+17  amended or added August 13, 1963 (P.L.707, No.379), December 11,
+18  1968 (P.L.1183, No.375), May 5, 1986 (P.L.150, No.47) and
+19  December 7, 1990 (P.L.681, No.169), is amended and the section
+20  is amended by adding a clause to read:
+21     Section 102.  Definitions.--The following words, when used in
+22  this act, shall have the following meanings, unless otherwise
+23  clearly apparent from the context:
+1     * * *
+2     (w)  The words "qualified absentee elector" shall mean:
+3     (1)  Any qualified elector who is or who may be in the
+4  military service of the United States regardless of whether at
+5  the time of voting he is present in the election district of his
+6  residence or is within or without this Commonwealth and
+7  regardless of whether he is registered or enrolled; or
+8     (2)  Any qualified elector who is a spouse or dependent
+9  residing with or accompanying a person in the military service
+10  of the United States if at the time of voting such spouse or
+11  dependent is absent from the [State or county] municipality of
+12  his residence: Provided, however, That the said elector has been
+13  registered or enrolled according to law or is entitled, under
+14  provisions of the Permanent Registration Law as now or
+15  hereinafter enacted by the General Assembly, to absentee
+16  registration prior to or concurrently with the time of voting;
+17  or
+18     (3)  Any qualified elector who is or who may be in the
+19  service of the Merchant Marine of the United States if at the
+20  time of voting he is absent from the [State or county]
+21  municipality of his residence: Provided, however, That the said
+22  elector has been registered or enrolled according to law or is
+23  entitled, under provisions of the Permanent Registration Law as
+24  now or hereinafter enacted by the General Assembly, to absentee
+25  registration prior to or concurrently with the time of voting;
+26  or
+27     (4)  Any qualified elector who is a spouse or dependent
+28  residing with or accompanying a person who is in the service of
+29  the Merchant Marine of the United States if at the time of
+30  voting such spouse or dependent is absent from the [State or
+1  county] municipality of his residence: Provided, however, That
+2  the said elector has been registered or enrolled according to
+3  law or is entitled, under provisions of the Permanent
+4  Registration Law as now or hereinafter enacted by the General
+5  Assembly, to absentee registration prior to or concurrently with
+6  the time of voting; or
+7     (5)  Any qualified elector who is or who may be in a
+8  religious or welfare group officially attached to and serving
+9  with the armed forces if at the time of voting he is absent from
+10  the [State or county] municipality of his residence: Provided,
+11  however, That the said elector has been registered or enrolled
+12  according to law or is entitled, under provisions of the
+13  Permanent Registration Law as now or hereinafter enacted by the
+14  General Assembly, to absentee registration prior to or
+15  concurrently with the time of voting; or
+16     (6)  Any qualified elector who is a spouse or dependent
+17  residing with or accompanying a person in a religious or welfare
+18  group officially attached to and serving with the armed forces
+19  if at the time of voting such spouse or dependent is absent from
+20  the [State or county] municipality of his residence: Provided,
+21  however, That the said elector has been registered or enrolled
+22  according to law or is entitled, under provisions of the
+23  Permanent Registration Law as now or hereinafter enacted by the
+24  General Assembly, to absentee registration prior to or
+25  concurrently with the time of voting; or
+26     (7)  Any qualified elector who expects to be or is outside
+27  the territorial limits of the several States of the United
+28  States and the District of Columbia because his duties,
+29  occupation or business require him to be elsewhere during the
+30  entire period the polls are open for voting on the day of any
+1  primary or election or who is or who may be a civilian employee
+2  of the United States outside the territorial limits of the
+3  several States of the United States and the District of
+4  Columbia, whether or not such elector is subject to civil-
+5  service laws and the Classification Act of 1949 and whether or
+6  not paid from funds appropriated by the Congress, if at the time
+7  of voting he is absent from the [State or county] municipality
+8  of his residence: Provided, however, That said elector has been
+9  registered or enrolled according to law or is entitled, under
+10  provisions of the Permanent Registration Law as now or
+11  hereinafter enacted by the General Assembly, to absentee
+12  registration prior to or concurrently with the time of voting;
+13  or
+14     (8)  Any qualified elector who is a spouse or dependent
+15  residing with or accompanying a person who expects to be or is
+16  outside the territorial limits of the several States of the
+17  United States and the District of Columbia because his duties,
+18  occupation or business require him to be elsewhere during the
+19  entire period the polls are open for voting on the day of any
+20  primary or election or who is a spouse or dependent residing
+21  with or accompanying a person who is a civilian employee of the
+22  United States outside the territorial limits of the several
+23  States of the United States and the District of Columbia whether
+24  or not such person is subject to civil-service laws and the
+25  Classification Act of 1949 and whether or not paid from funds
+26  appropriated by the Congress if at the time of voting such
+27  spouse or dependent is absent from the [State or county]
+28  municipality of his residence: Provided, however, That the said
+29  elector has been registered or enrolled according to law or is
+30  entitled, under provisions of the Permanent Registration Law as
+1  now or hereinafter enacted by the General Assembly, to absentee
+2  registration prior to or concurrently with the time of voting;
+3  or
+4     (9)  Any qualified war veteran elector who is bedridden or
+5  hospitalized due to illness or physical disability if he is
+6  absent from the [Commonwealth or county] municipality of his
+7  residence and unable to attend his polling place because of such
+8  illness or physical disability regardless of whether he is
+9  registered and enrolled; or
+10     (10)  Any qualified, registered and enrolled elector who
+11  expects to be or is absent from the [Commonwealth or county]
+12  municipality of his residence because his duties, occupation or
+13  business require him to be elsewhere during the entire period
+14  the polls are open for voting on the day of any primary or
+15  election; or
+16     (11)  Any qualified, registered and enrolled elector who is
+17  unable to attend his polling place because of illness or
+18  physical disability; or
+19     (12)  Any qualified, registered and enrolled elector who is a
+20  spouse or dependent accompanying a person employed in the
+21  service of this Commonwealth or in the service of the Federal
+22  Government within the territorial limits of the several States
+23  of the United States and the District of Columbia in the event
+24  the duties, profession or occupation of such person require him
+25  to be absent from the [Commonwealth or county] municipality of
+26  his residence; or
+27     (13)  Any qualified elector who is a county employe who
+28  cannot vote due to duties on election day relating to the
+29  conduct of the election; or
+30     (14)  Any qualified elector who will not attend a polling
+1  place because of the observance of a religious holiday:
+2     Provided, however, That the words "qualified absentee
+3  elector" shall in nowise be construed to include persons
+4  confined in a penal institution or a mental institution nor
+5  shall it in anywise be construed to include a person not
+6  otherwise qualified as a qualified elector in accordance with
+7  the definition set forth in section 102(t) of this act.
+8     * * *
+9     (z.4)  The word "municipality" shall mean a city, borough,
+10  incorporated town, township or any similar general purpose unit
+11  of government which may be created by the General Assembly.
+12     Section 2.  Section 1301 of the act, amended August 13, 1963
+13  (P.L.707, No.379), December 11, 1968 (P.L.1183, No.375),
+14  December 6, 1972 (P.L.1405, No.301), May 5, 1986 (P.L.150,
+15  No.47) and December 7, 1990 (P.L.681, No.169), is amended to
+16  read:
+17     Section 1301.  Qualified Absentee Electors.--The following
+18  persons shall be entitled to vote by an official absentee ballot
+19  in any primary or election held in this Commonwealth in the
+20  manner hereinafter provided:
+21     (a)  Any qualified elector who is or who may be in the
+22  military service of the United States regardless of whether at
+23  the time of voting he is present in the election district of his
+24  residence or is within or without this Commonwealth and
+25  regardless of whether he is registered or enrolled; or
+26     (b)  Any qualified elector who is a spouse or dependent
+27  residing with or accompanying a person in the military service
+28  of the United States if at the time of voting such spouse or
+29  dependent is absent from the [State or county] municipality of
+30  his residence: Provided, however, That the said elector has been
+1  registered or enrolled according to law or is entitled, under
+2  provisions of the Permanent Registration Law as now or
+3  hereinafter enacted by the General Assembly, to absentee
+4  registration prior to or concurrently with the time of voting;
+5  or
+6     (c)  Any qualified elector who is or who may be in the
+7  service of the Merchant Marine of the United States if at the
+8  time of voting he is absent from the [State or county]
+9  municipality of his residence: Provided, however, That the said
+10  elector has been registered or enrolled according to law or is
+11  entitled, under provisions of the Permanent Registration Law as
+12  now or hereinafter enacted by the General Assembly, to absentee
+13  registration prior to or concurrently with the time of voting;
+14  or
+15     (d)  Any qualified elector who is a spouse or dependent
+16  residing with or accompanying a person who is in the service of
+17  the Merchant Marine of the United States if at the time of
+18  voting such spouse or dependent is absent from the [State or
+19  county] municipality of his residence: Provided, however, That
+20  the said elector has been registered or enrolled according to
+21  law or is entitled, under provisions of the Permanent
+22  Registration Law as now or hereinafter enacted by the General
+23  Assembly, to absentee registration prior to or concurrently with
+24  the time of voting; or
+25     (e)  Any qualified elector who is or who may be in a
+26  religious or welfare group officially attached to and serving
+27  with the armed forces if at the time of voting he is absent from
+28  the [State or county] municipality of his residence: Provided,
+29  however, That the said elector has been registered or enrolled
+30  according to law or is entitled, under provisions of the
+1  Permanent Registration Law as now or hereinafter enacted by the
+2  General Assembly, to absentee registration prior to or
+3  concurrently with the time of voting; or
+4     (f)  Any qualified elector who is a spouse or dependent
+5  residing with or accompanying a person in a religious or welfare
+6  group officially attached to and serving with the armed forces
+7  if at the time of voting such spouse or dependent is absent from
+8  the [State or county] municipality of his residence: Provided,
+9  however, That the said elector has been registered or enrolled
+10  according to law or is entitled, under provisions of the
+11  Permanent Registration Law as now or hereinafter enacted by the
+12  General Assembly, to absentee registration prior to or
+13  concurrently with the time of voting; or
+14     (g)  Any qualified elector who expects to be or is outside
+15  the territorial limits of the several States of the United
+16  States and the District of Columbia because his duties,
+17  occupation or business require him to be elsewhere during the
+18  entire period the polls are open for voting on the day of any
+19  primary or election or who is or who may be a civilian employee
+20  of the United States outside the territorial limits of the
+21  several States of the United States and the District of
+22  Columbia, whether or not such elector is subject to civil-
+23  service laws and the Classification Act of 1949 and whether or
+24  not paid from funds appropriated by the Congress, if at the time
+25  of voting he is absent from the [State or county] municipality
+26  of his residence: Provided, however, That said elector has been
+27  registered or enrolled according to law or is entitled, under
+28  provisions of the Permanent Registration Law as now or
+29  hereinafter enacted by the General Assembly, to absentee
+30  registration prior to or concurrently with the time of voting;
+1  or
+2     (h)  Any qualified elector who is a spouse or dependent
+3  residing with or accompanying a person who expects to be or is
+4  outside the territorial limits of the several States of the
+5  United States and the District of Columbia because his duties,
+6  occupation or business require him to be elsewhere during the
+7  entire period the polls are open for voting on the day of any
+8  primary or election or who is a spouse or dependent residing
+9  with or accompanying a person who is a civilian employee of the
+10  United States outside the territorial limits of the several
+11  States of the United States and the District of Columbia,
+12  whether or not such person is subject to civil-service laws and
+13  the Classification Act of 1949 and whether or not paid from
+14  funds appropriated by the Congress, if at the time of voting
+15  such spouse or dependent is absent from the [State or county]
+16  municipality of his residence: Provided, however, That the said
+17  elector has been registered or enrolled according to law or is
+18  entitled, under provisions of the Permanent Registration Law as
+19  now or hereinafter enacted by the General Assembly, to absentee
+20  registration prior to or concurrently with the time of voting;
+21  or
+22     (i)  Any qualified war veteran elector who is bedridden or
+23  hospitalized due to illness or physical disability if he is
+24  absent from the [Commonwealth or county] municipality of his
+25  residence and unable to attend his polling place because of such
+26  illness or physical disability regardless of whether he is
+27  registered and enrolled; or
+28     (j)  Any qualified registered and enrolled elector who
+29  expects to be or is absent from the [Commonwealth or county]
+30  municipality of his residence because his duties, occupation or
+1  business require him to be elsewhere during the entire period
+2  the polls are open for voting on the day of any primary or
+3  election; or
+4     (k)  Any qualified registered and enrolled elector who
+5  because of illness or physical disability is unable to attend
+6  his polling place or operate a voting machine and secure
+7  assistance by distinct and audible statement as required in
+8  section 1218 of this act;
+9     (l)  Any qualified registered and enrolled elector who is a
+10  spouse or dependent accompanying a person employed in the
+11  service of this Commonwealth or in the service of the Federal
+12  Government within the territorial limits of the several States
+13  of the United States and the District of Columbia in the event
+14  the duties, profession or occupation of such person require him
+15  to be absent from the [Commonwealth or county] municipality of
+16  his residence; or
+17     (m)  Any qualified elector who is a county employe who cannot
+18  vote due to duties on election day relating to the conduct of
+19  the election; or
+20     (n)  Any qualified elector who will not attend a polling
+21  place because of the observance of a religious holiday:
+22     Provided, however, That the words "qualified absentee
+23  elector" shall in nowise be construed to include persons
+24  confined in a penal institution or a mental institution nor
+25  shall it in anywise be construed to include a person not
+26  otherwise qualified as a qualified elector in accordance with
+27  the definition set forth in section 102(t) of this act.
+28     Section 3.  Section 1302 of the act, amended August 13, 1963
+29  (P.L.707, No.47), December 11, 1968 (P.L.1183, No.375), July 12,
+30  1980 (P.L.649, No.134) and May 5, 1986 (P.L.150, No.47), is
+1  amended to read:
+2     Section 1302.  Applications for Official Absentee Ballots.--
+3  (a)  Any qualified elector defined in preceding section 1301,
+4  subsections (a) to (h), inclusive, may apply at any time before
+5  any primary or election for any official absentee ballot in
+6  person, on any form supplied by the Federal Government, or on
+7  any official county board of election form addressed to the
+8  Secretary of the Commonwealth of Pennsylvania or the county
+9  board of election of the county in which his voting residence is
+10  located.
+11     (b)  The application shall contain the following information:
+12  Home residence at the time of entrance into actual military
+13  service or Federal employment, length of time a citizen, length
+14  of residence in Pennsylvania, date of birth, length of time a
+15  resident of voting district, voting district if known, party
+16  choice in case of primary, name and, for a military elector, his
+17  stateside military address, FPO or APO number and serial number.
+18  Any elector other than a military elector shall in addition
+19  specify the nature of his employment, the address to which
+20  ballot is to be sent, relationship where necessary, and such
+21  other information as may be determined and prescribed by the
+22  Secretary of the Commonwealth. When such application is received
+23  by the Secretary of the Commonwealth it shall be forwarded to
+24  the proper county board of election.
+25     (c)  The application of any qualified military elector, as
+26  defined in preceding section 1301 subsection (a), for an
+27  official absentee ballot in any primary or election may not be
+28  made over the signature of any person, other than the qualified
+29  elector or an adult member of his immediate family, as required
+30  in the preceding subsection.
+1     (d)  The application of any qualified elector, as defined in
+2  preceding section 1301, subsections (b) to (h), inclusive, for
+3  an official absentee ballot in any primary or election shall be
+4  signed by the applicant.
+5     (e)  Any qualified bedridden or hospitalized veteran absent
+6  from the [State or county] municipality of his residence and
+7  unable to attend his polling place because of such illness or
+8  physical disability, regardless of whether he is registered or
+9  enrolled, may apply at any time before any primary or election
+10  for an official absentee ballot on any official county board of
+11  election form addressed to the Secretary of the Commonwealth of
+12  Pennsylvania or the county board of elections of the county in
+13  which his voting residence is located.
+14     The application shall contain the following information:
+15  Residence at the time of becoming bedridden or hospitalized,
+16  length of time a citizen, length of residence in Pennsylvania,
+17  date of birth, length of time a resident in voting district,
+18  voting district if known, party choice in case of primary, name
+19  and address of present residence or hospital at which
+20  hospitalized. When such application is received by the Secretary
+21  of the Commonwealth, it shall be forwarded to the proper county
+22  board of elections.
+23     The application for an official absentee ballot for any
+24  primary or election shall be made on information supplied over
+25  the signature of the bedridden or hospitalized veteran as
+26  required in the preceding subsection. Any qualified registered
+27  elector, including a spouse or dependent referred to in
+28  subsection (l) of section 1301, who expects to be or is absent
+29  from the [Commonwealth or county] municipality of his residence
+30  because his duties, occupation or business require him to be
+1  elsewhere on the day of any primary or election and any
+2  qualified registered elector who is unable to attend his polling
+3  place on the day of any primary or election because of illness
+4  or physical disability and any qualified registered bedridden or
+5  hospitalized veteran in the county of residence, or in the case
+6  of a county employe who cannot vote due to duties on election
+7  day relating to the conduct of the election, or in the case of a
+8  person who will not attend a polling place because of the
+9  observance of a religious holiday, may apply to the county board
+10  of elections of the county in which his voting residence is
+11  located for an Official Absentee Ballot. Such application shall
+12  be made upon an official application form supplied by the county
+13  board of elections. Such official application form shall be
+14  determined and prescribed by the Secretary of the Commonwealth
+15  of Pennsylvania.
+16     (1)  The application of any qualified registered elector,
+17  including spouse or dependent referred to in subsection (l) of
+18  section 1301, who expects to be or is absent from the
+19  [Commonwealth or county] municipality of his residence because
+20  his duties, occupation or business require him to be elsewhere
+21  on the day of any primary or election, or in the case of a
+22  county employe who cannot vote due to duties on election day
+23  relating to the conduct of the election, or in the case of a
+24  person who will not attend a polling place because of the
+25  observance of a religious holiday, shall be signed by the
+26  applicant and shall include the surname and given name or names
+27  of the applicant, his occupation, date of birth, length of time
+28  a resident in voting district, voting district if known, place
+29  of residence, post office address to which ballot is to be
+30  mailed, the reason for his absence, and such other information
+1  as shall make clear to the county board of elections the
+2  applicant's right to an official absentee ballot.
+3     (2)  The application of any qualified registered elector who
+4  is unable to attend his polling place on the day of any primary
+5  or election because of illness or physical disability and the
+6  application of any qualified registered bedridden or
+7  hospitalized veteran in the county of residence shall be signed
+8  by the applicant and shall include surname and given name or
+9  names of the applicant, his occupation, date of birth, residence
+10  at the time of becoming bedridden or hospitalized, length of
+11  time a resident in voting district, voting district if known,
+12  place of residence, post office address to which ballot is to be
+13  mailed, and such other information as shall make clear to the
+14  county board of elections the applicant's right to an official
+15  ballot. In addition, the application of such electors shall
+16  include a declaration stating the nature of their disability or
+17  illness, and the name, office address and office telephone
+18  number of their attending physician: Provided, however, That in
+19  the event any elector entitled to an absentee ballot under this
+20  subsection be unable to sign his application because of illness
+21  or physical disability, he shall be excused from signing upon
+22  making a statement which shall be witnessed by one adult person
+23  in substantially the following form: I hereby state that I am
+24  unable to sign my application for an absentee ballot without
+25  assistance because I am unable to write by reason of my illness
+26  or physical disability. I have made or have received assistance
+27  in making my mark in lieu of my signature.
+28  ...............................     ......................(Mark)
+29             (Date)
+30  ...............................     ............................
+1   (Complete Address of Witness)         (Signature of Witness)
+2     (e.1)  Any qualified registered elector, including any
+3  qualified bedridden or hospitalized veteran, who is unable
+4  because of illness or physical disability to attend his polling
+5  place on the day of any primary or election or operate a voting
+6  machine and state distinctly and audibly that he is unable to do
+7  so as required by section 1218 of this act may, with the
+8  certification by his attending physician that he is permanently
+9  disabled, and physically unable to attend the polls or operate a
+10  voting machine and make the distinct and audible statement
+11  required by section 1218 appended to the application
+12  hereinbefore required, be placed on a permanently disabled
+13  absentee ballot list file. An absentee ballot application shall
+14  be mailed to every such person for each primary or election so
+15  long as he does not lose his voting rights by failure to vote as
+16  otherwise required by this act. Such person shall not be
+17  required to file a physician's certificate of disability with
+18  each application as required in subsection (e) of this section
+19  but such person must submit a written statement asserting
+20  continuing disability every four years in order to maintain his
+21  eligibility to vote under the provisions of this subsection.
+22  Should any such person lose his disability he shall inform the
+23  county board of elections of the county of his residence.
+24     (e.2)  Notwithstanding the other provisions of this act any
+25  qualified elector who expects to be or is absent from the
+26  [Commonwealth or county] municipality of his residence because
+27  his duties, occupation or business require him to be elsewhere
+28  on the day of any election or a county employe who cannot vote
+29  due to duties on election day relating to the conduct of the
+30  election or a person who will not attend a polling place because
+1  of the observance of a religious holiday may make an application
+2  for an absentee ballot by mail by sending a letter to the county
+3  board of elections in the county in which his voting residence
+4  is located. The letter shall be signed by the applicant and
+5  contain his name and place of residence.
+6     (f)  The county chairman of each political party or the head
+7  of each political body shall designate one representative from
+8  his respective political party or body for each public
+9  institution. The representatives so appointed shall, at the same
+10  time on a date fixed by the county board of election visit every
+11  public institution situate in the county for the purpose of
+12  obtaining the names and addresses of public institution
+13  residents who desire to receive applications for absentee
+14  ballots and to act as an election board as provided in
+15  subsection (g) of this section. The list of names and addresses
+16  thus obtained shall then be submitted by said representatives to
+17  the board which shall furnish applications individually to those
+18  appearing in the written request. If the chairman or head of a
+19  political party or body fails to appoint a representative within
+20  fifteen days from written notice from the county board of
+21  election, the county board of election shall appoint a
+22  representative from the political party or body.
+23     (g)  The county board of election shall appoint teams of
+24  three members for each public institution that shall go to the
+25  public institutions and hold the election on the first Friday
+26  prior to election day. Each member of the board shall appoint
+27  one member on every team. After the votes are cast, the teams
+28  shall collect the ballots and return them to the county board of
+29  election where they shall be placed unopened in a secure, safe
+30  and sealed container in the custody of the board until they
+1  shall be distributed to the respective absentee voters' election
+2  district as provided in section 1308 of this act where they
+3  shall be counted with the other absentee ballots, if any.
+4     (h)  The county board of election shall number, in
+5  chronological order, the applications for an official absentee
+6  ballot, which number shall likewise appear on the official
+7  absentee ballot for the qualified elector. The numbers shall
+8  appear legibly and in a conspicuous place but before the ballots
+9  are distributed the number on the ballot shall be torn off by
+10  the county board of election. This number information shall be
+11  appropriately inserted and become a part of the Registered
+12  Absentee Voters File and the Military, Veterans and Emergency
+13  Civilian Absentee Voters File provided in section 1302.3 of this
+14  act.
+15     (i)  Application for official absentee ballots shall be on
+16  forms prescribed by the Secretary of the Commonwealth. The
+17  application shall state that a voter who receives an absentee
+18  ballot pursuant to section 1301 and who, on election day, is
+19  capable of voting at the appropriate polling place must void the
+20  absentee ballot and vote in the normal manner at the appropriate
+21  voting place. Such forms shall be made freely available to the
+22  public at county board of elections, municipal buildings and at
+23  such other locations designated by the secretary. No written
+24  application or personal request shall be necessary to receive
+25  the application forms. Copies of all completed applications for
+26  official absentee ballots shall be retained by the county board
+27  of elections.
+28     Section 4.  Sections 1302.1, 1306 and 1308(e) of the act,
+29  amended December 11, 1968 (P.L.1183, No.375), are amended to
+30  read:
+1     Section 1302.1.  Date of Application for Absentee Ballot.--
+2     Applications for absentee ballots unless otherwise specified
+3  shall be received in the office of the county board of elections
+4  not earlier than fifty (50) days before the primary or election
+5  and not later than five o'clock P.M. of the first Tuesday prior
+6  to the day of any primary or election: Provided, however, That
+7  in the event any elector otherwise qualified who is so
+8  physically disabled or ill on or before the first Tuesday prior
+9  to any primary or election that he is unable to file his
+10  application or who becomes physically disabled or ill after the
+11  first Tuesday prior to any primary or election and is unable to
+12  appear at his polling place or any elector otherwise qualified
+13  who because of the conduct of his business, duties or occupation
+14  will necessarily be absent from the [State or county]
+15  municipality of his residence on the day of the primary or
+16  election, which fact was not and could not reasonably be known
+17  to said elector on or before the first Tuesday prior to any
+18  primary or election, shall be entitled to an absentee ballot at
+19  any time prior to five o'clock P.M. on the first Friday
+20  preceding any primary or election upon execution of an Emergency
+21  Application in such form prescribed by the Secretary of the
+22  Commonwealth.
+23     In the case of an elector who is physically disabled or ill
+24  on or before the first Tuesday prior to a primary or election or
+25  becomes physically disabled or ill after the first Tuesday prior
+26  to a primary or election, such Emergency Application shall
+27  contain a supporting affidavit from his attending physician
+28  stating that due to physical disability or illness said elector
+29  was unable to apply for an absentee ballot on or before the
+30  first Tuesday prior to the primary or election or became
+1  physically disabled or ill after that period.
+2     In the case of an elector who is necessarily absent because
+3  of the conduct of his business, duties or occupation under the
+4  unforeseen circumstances specified in this subsection, such
+5  Emergency Application shall contain a supporting affidavit from
+6  such elector stating that because of the conduct of his
+7  business, duties or occupation said elector will necessarily be
+8  absent from the [State or county] municipality of his residence
+9  on the day of the primary or election which fact was not and
+10  could not reasonably be known to said elector on or before the
+11  first Tuesday prior to the primary or election.
+12     Section 1306.  Voting by Absentee Electors.--(a) At any time
+13  after receiving an official absentee ballot, but on or before
+14  five o'clock P. M. on the Friday prior to the primary or
+15  election, the elector shall, in secret, proceed to mark the
+16  ballot only in black lead pencil, indelible pencil or blue,
+17  black or blue-black ink, in fountain pen or ball point pen, and
+18  then fold the ballot, enclose and securely seal the same in the
+19  envelope on which is printed, stamped or endorsed "Official
+20  Absentee Ballot." This envelope shall then be placed in the
+21  second one, on which is printed the form of declaration of the
+22  elector, and the address of the elector's county board of
+23  election and the local election district of the elector. The
+24  elector shall then fill out, date and sign the declaration
+25  printed on such envelope. Such envelope shall then be securely
+26  sealed and the elector shall send same by mail, postage prepaid,
+27  except where franked, or deliver it in person to said county
+28  board of election:
+29     Provided, however, That any elector, spouse of the elector or
+30  dependent of the elector, qualified in accordance with the
+1  provisions of section 1301, subsections (e), (f), (g) and (h) to
+2  vote by absentee ballot as herein provided, shall be required to
+3  include on the form of declaration a supporting declaration in
+4  form prescribed by the Secretary of the Commonwealth, to be
+5  signed by the head of the department or chief of division or
+6  bureau in which the elector is employed, setting forth the
+7  identity of the elector, spouse of the elector or dependent of
+8  the elector:
+9     Provided further, That any elector who has filed his
+10  application in accordance with section 1302 subsection (e) (2),
+11  and is unable to sign his declaration because of illness or
+12  physical disability, shall be excused from signing upon making a
+13  declaration which shall be witnessed by one adult person in
+14  substantially the following form: I hereby declare that I am
+15  unable to sign my declaration for voting my absentee ballot
+16  without assistance because I am unable to write by reason of my
+17  illness or physical disability. I have made or received
+18  assistance in making my mark in lieu of my signature.
+19                                     .....................(Mark)
+20  ...................................
+21               (Date)
+22                                 ...............................
+23                                      (Signature of Witness)
+24  ...................................
+25     (Complete Address of Witness)
+26     (b) In the event that any such elector, excepting an elector
+27  in military service or any elector unable to go to his polling
+28  place because of illness or physical disability, entitled to
+29  vote an official absentee ballot shall be in the [county]
+30  municipality of his residence on the day for holding the primary
+1  or election for which the ballot was issued, or in the event any
+2  such elector shall have recovered from his illness or physical
+3  disability sufficiently to permit him to present himself at the
+4  proper polling place for the purpose of casting his ballot, such
+5  absentee ballot cast by such elector shall, be declared void.
+6     Any such elector referred to in this subsection, who is
+7  within the [county] municipality of his residence must present
+8  himself at his polling place and, shall be permitted to vote
+9  upon presenting himself at his regular polling place in the same
+10  manner as he could have voted had he not received an absentee
+11  ballot: Provided, That such elector has first presented himself
+12  to the judge of elections in his local election district and
+13  shall have signed the affidavit on the absentee voter's
+14  temporary registration card, which affidavit shall be in
+15  substantially the following form:
+16     I hereby swear that I am a qualified registered elector who
+17  has obtained an absentee ballot, however, I am present in the
+18  [county] municipality of my residence and physically able to
+19  present myself at my polling place and therefore request that my
+20  absentee ballot be voided.
+21                                  ..............................
+22          (Date)                      (Signature of Elector)
+23  .........................................
+24       (Local Judge of Elections)
+25     An elector who has received an absentee ballot under the
+26  emergency application provisions of section 1302.1, and for
+27  whom, therefore, no temporary absentee voter's registration card
+28  is in the district register, shall sign the aforementioned
+29  affidavit in any case, which the local judge of elections shall
+30  then cause to be inserted in the district register with the
+1  elector's permanent registration card.
+2     Section 1308.  Canvassing of Official Absentee Ballots.--
+3     * * *
+4     (e)  At such time the local election board shall then further
+5  examine the declaration on each envelope not so set aside and
+6  shall compare the information thereon with that contained in the
+7  "Registered Absentee Voters File," the absentee voters' list and
+8  the "Military Veterans and Emergency Civilians Absentee Voters
+9  File." If the local election board is satisfied that the
+10  declaration is sufficient and the information contained in the
+11  "Registered Absentee Voters File," the absentee voters' list and
+12  the "Military Veterans and Emergency Civilians Absentee Voters
+13  File" verifies his right to vote, the local election board shall
+14  announce the name of the elector and shall give any watcher
+15  present an opportunity to challenge any absentee elector upon
+16  the ground or grounds (1) that the absentee elector is not a
+17  qualified elector; or (2) that the absentee elector was within
+18  the [county] municipality of his residence on the day of the
+19  primary or election during the period the polls were open,
+20  except where he was in military service or except in the case
+21  where his ballot was obtained for the reason that he was unable
+22  to appear personally at the polling place because of illness or
+23  physical disability; or (3) that the absentee elector was able
+24  to appear personally at the polling place on the day of the
+25  primary or election during the period the polls were open in the
+26  case his ballot was obtained for the reason that he was unable
+27  to appear personally at the polling place because of illness or
+28  physical disability. Upon challenge of any absentee elector, as
+29  set forth herein the local election board shall mark
+30  "challenged" on the envelope together with the reason or reasons
+1  therefor, and the same shall be set aside for return to the
+2  county board unopened pending decision by the county board and
+3  shall not be counted. All absentee ballots not challenged for
+4  any of the reasons provided herein shall be counted and included
+5  with the general return of paper ballots or voting machines, as
+6  the case may be as follows. Thereupon, the local election board
+7  shall open the envelope of every unchallenged absentee elector
+8  in such manner as not to destroy the declaration executed
+9  thereon. All of such envelopes on which are printed, stamped or
+10  endorsed the words "Official Absentee Ballot" shall be placed in
+11  one or more depositories at one time and said depository or
+12  depositories well shaken and the envelopes mixed before any
+13  envelope is taken therefrom. If any of these envelopes shall
+14  contain any extraneous marks or identifying symbols other than
+15  the words "Official Absentee Ballot," the envelopes and the
+16  ballots contained therein shall be set aside and declared void.
+17  The local election board shall then break the seals of such
+18  envelopes, remove the ballots and record the votes in the same
+19  manner as district election officers are required to record
+20  votes. With respect to the challenged ballots, they shall be
+21  returned to the county board with the returns of the local
+22  election district where they shall be placed unopened in a
+23  secure, safe and sealed container in the custody of the county
+24  board until it shall fix a time and place for a formal hearing
+25  of all such challenges and notice shall be given where possible
+26  to all absentee electors thus challenged and to every attorney,
+27  watcher or candidate who made such challenge. The time for the
+28  hearing shall not be later than seven (7) days after the date of
+29  said challenge. On the day fixed for said hearing, the county
+30  board shall proceed without delay to hear said challenges and,
+1  in hearing the testimony, the county board shall not be bound by
+2  technical rules of evidence. The testimony presented shall be
+3  stenographically recorded and made part of the record of the
+4  hearing. The decision of the county board in upholding or
+5  dismissing any challenge may be reviewed by the court of common
+6  pleas of the county upon a petition filed by any person
+7  aggrieved by the decision of the county board. Such appeal shall
+8  be taken, within two (2) days after such decision shall have
+9  been made, whether reduced to writing or not, to the court of
+10  common pleas setting forth the objections to the county board's
+11  decision and praying for an order reversing same. Pending the
+12  final determination of all appeals, the county board shall
+13  suspend any action in canvassing and computing all challenged
+14  ballots irrespective of whether or not appeal was taken from the
+15  county board's decision. Upon completion of the computation of
+16  the returns of the county, the votes cast upon the challenged
+17  official absentee ballots shall be added to the other votes cast
+18  within the county.
+19     * * *
+20     Section 5.  This act shall take effect immediately.
+B10L25JLW/19980H2256B2983       - 24 -
