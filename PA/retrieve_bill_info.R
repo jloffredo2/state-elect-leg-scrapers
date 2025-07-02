@@ -1,3 +1,10 @@
+##################################################
+## Project: State Election Legislation Scrapers
+## Script purpose: Collect PA Data Downloads
+## Date: July 2025
+## Author: Joe Loffredo
+##################################################
+
 library(tidyverse)
 library(xml2)
 library(lubridate)
