@@ -61,7 +61,6 @@ scrape_text <- function(UUID, session, bill_number){
   Sys.sleep(5)
 }
 
-
 gs_pa_list <- googlesheets4::read_sheet('1riJDT0wamZmwGIl-S2fmVKv3aNN9tpx7D7bPhfQYM1s') |> janitor::clean_names()
 gs_pa_list <- gs_pa_list |> 
   mutate(
