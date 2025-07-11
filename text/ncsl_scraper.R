@@ -63,9 +63,6 @@ prefiled_bills <- ncsl_bill_database |> filter(!is.na(YEAR2)) |> mutate(YEAR = Y
 
 ncsl_bill_database <- rbind(ncsl_bill_database, prefiled_bills) |> select(-c(YEAR2))
 
-#### Legacy bills ####
-# TODO: Add LexisNexis links when I get them
-
 #### VRL ####
 vrl_bill_database <- read.csv("https://raw.githubusercontent.com/jloffredo2/state-elect-law-db/main/output/vrl_bill_database.csv") |>
   mutate(SOURCE = 'VRL') |>
@@ -150,7 +147,7 @@ version_pull <- function(url, original_url, uuid){
     str_squish()
   
   message("Writing HTML format text file: ", file_name)
-  writeLines(html_format_text, glue("{TEXT_DIR}/data/VENDORS/{uuid}/{file_name}_html.txt"))
+  writeLines(html_format_text, glue("{TEXT_DIR}/LexisNexis/{uuid}/{file_name}_html.txt"))
   
   Sys.sleep(runif(1, 1, 2) |> as.integer())
 }
@@ -159,7 +156,7 @@ version_pull <- function(url, original_url, uuid){
 scrape_text <- function(UUID, BILLTEXTURL){
   TEXT_DIR = "/Users/josephloffredo/Dropbox (MIT)/election_bill_text"
   # Ensure the directory exists
-  dir_create(glue("{TEXT_DIR}/data/VENDORS/{UUID}"))
+  dir_create(glue("{TEXT_DIR}/LexisNexis/{UUID}"))
   
   # Start scrape
   message(BILLTEXTURL)
@@ -178,5 +175,5 @@ scrape_text <- function(UUID, BILLTEXTURL){
 
 # Scrape text -------------------------------------------------------------
 bills |> 
-  filter(!(UUID %in% list.files(path = "/Users/josephloffredo/MIT Dropbox/Joseph Loffredo/election_bill_text/data/VENDORS"))) |>
+  filter(!(UUID %in% list.files(path = "/Users/josephloffredo/MIT Dropbox/Joseph Loffredo/election_bill_text/LexisNexis"))) |>
   future_pmap(scrape_text, .progress = T)
