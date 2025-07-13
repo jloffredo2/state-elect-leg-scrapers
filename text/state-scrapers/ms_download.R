@@ -69,7 +69,7 @@ download_text <- function(UUID, session, bill_number){
 
 vrleg_master_file <- readRDS("~/Desktop/GitHub/election-roll-call/bills/vrleg_master_file.rds")
 master <- vrleg_master_file |> 
-  filter(STATE == 'MS' & YEAR %in% c(1995:2014)) |>
+  filter(STATE == 'MS'  & (YEAR %in% c(1995:2010) | YEAR %in% c(2011:2014) & is.na(ls_bill_id))) |>
   mutate(
     bill_id = str_remove_all(UUID, "MS"),
     year = str_extract(bill_id, "^[0-9]{4}"),
@@ -96,6 +96,5 @@ bill_text_files <- data.frame(
   mutate(
     file_name = basename(file_path),
     UUID = str_remove(file_path, file_name) |> basename()) |>
-  filter(UUID %in% master[master$session %in% c('2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010'),]$UUID) |>
   select(UUID, file_path) |>
   write_csv("text/state-scrapers/ms_bill_text_files.csv")

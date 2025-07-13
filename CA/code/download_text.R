@@ -24,7 +24,11 @@ scrape_text <- function(UUID, session, url){
   
   page <- read_html(url)
   
-  text_links <- page |> html_elements("a") |> html_attr("href") |> str_subset("_bill_(?!.*(status|history)).*\\.html$", negate = FALSE)
+  text_links <- page |>
+    html_elements("a") |>
+    html_attr("href") |>
+    str_subset("_bill_(?!.*(status|history)).*\\.htm[l]?$")
+  
   text_links <- glue("http://leginfo.ca.gov{text_links}")
   
   lapply(text_links, function(link) {
@@ -48,4 +52,4 @@ bills <- list.files(path = "CA/output/bill_metadata/", pattern = "*.json", full.
 
 bills |> 
   select(UUID = uuid, session, url = state_url) |>
-  future_pmap(scrape_text)
+  future_pmap(scrape_text, .progress = TRUE)
