@@ -128,14 +128,34 @@ get_bill_sponsors <- function(uuid, session, bill_number, page_links){
     author_text <- str_c(author_text, " ", author_lines[i])
   }
   authors <- str_remove(author_text, "^AUTHOR\\(S\\)\t:") |> str_trim() |> str_squish() |> str_remove("^:") |> str_trim()
-  sponsors <- ifelse(
-    str_detect(authors, "Principal coauthors"),
-    str_extract_all(authors, "(?<=^|\\s)([A-Za-z]+)(?=\\s\\(Principal coauthors)")[[1]],
-    str_extract_all(authors, "(?<=^|\\s)([A-Za-z]+)(?=\\s\\(Coauthors?)")[[1]]
-  )
+  sponsors <- authors |>
+    str_extract("^[^(]+") |>
+    str_remove("[\\s.]+$") |>
+    str_replace_all("\\band\\b", ",") |>
+    str_split(",\\s*") |>
+    (\(x) x[[1]])() |>
+    str_trim()
+  sponsors <- sponsors[nzchar(sponsors)]
   
-  cosponsors <- str_extract_all(authors, "(?<=\\(Coauthors?:?\\s)([^)]+)(?=\\))")[[1]]
-  cosponsors <- paste(cosponsors,collapse = ",") |> str_remove_all("Senators: | and ") |> str_replace_all(", ",",") |> str_squish() |> str_split(",",simplify = T)
+  ## Cosponsors: contents of the first (...) with multiple format fallbacks
+  paren <- str_match(authors, "\\(([^)]*)\\)")[, 2]
+  
+  if (!is.na(paren)) {
+    cosponsors <- paren |>
+      # drop possible titles/prefixes and leading "Coauthors:" forms
+      str_remove("(?i)^\\s*(senators?|reps?|representatives?|members)[:]?\\s*") |>
+      str_remove("(?i)^\\s*coauthors?[:]?\\s*") |>
+      # drop trailing ", coauthor(s)." forms
+      str_remove(",?\\s*(?i)coauthors?\\.?$") |>
+      # normalize "and" to commas, then split
+      str_replace_all("\\band\\b", ",") |>
+      str_split(",\\s*") |>
+      (\(x) x[[1]])() |>
+      str_trim()
+    cosponsors <- cosponsors[nzchar(cosponsors)]
+  } else {
+    cosponsors <- character(0)
+  }
   
   tibble(
     uuid = uuid, 
