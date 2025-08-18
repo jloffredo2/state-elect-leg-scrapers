@@ -45,7 +45,7 @@ bills_df$jurisdiction <- state.abb[match(bills_df$jurisdiction,state.name)]
 bill_actions_df$date <- lubridate::ymd(as.Date(bill_actions_df$date))
 most_recent_action <- bill_actions_df |>
   group_by(bill_id) |>
-  slice(which.min(order)) |>
+  slice(which.max(order)) |>
   mutate(
     last_action_date = date,
     last_action_description = case_when(
@@ -58,8 +58,8 @@ most_recent_action <- bill_actions_df |>
 
 intro_date <- bill_actions_df |> 
   group_by(bill_id) |>
-  slice(which.max(order)) |>
-  mutate(intro_year = year(date)) %>%
+  slice(which.min(order)) |>
+  mutate(intro_year = year(date)) |>
   select(bill_id, intro_date = date, intro_year)
 
 bills_df <- bills_df |>
