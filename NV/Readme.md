@@ -1,85 +1,114 @@
 # Nevada Legislative Data Pipeline
 
-A multi-stage Python toolkit to scrape, parse, and combine Nevada legislative data (bills, summaries, statuses, sponsors, history, votes) into unified JSON outputs. 
+Multi-stage Python script to scrape, parse, and combine Nevada legislative data (including bills, summaries, statuses, sponsors, history, and votes) into unified JSON outputs.
 
 ---
 
-## 🚀 Overview
+## Overview
 
-This repo automates the end-to-end conversion of raw NV legislative webpages into four final JSON datasets:
+This repo automates the end-to-end conversion of raw Nevada legislative webpages into four final JSON datasets:
 
-1. **bill_metadata.json**  
-2. **sponsors.json**  
-3. **bill_history.json**  
+1. **bill_metadata.json**
+2. **sponsors.json**
+3. **bill_history.json**
 4. **votes.json**
 
-It is organized into discrete steps:
-1. **Index → Base Data**  
-2. **Base Data → Metadata**  
-3. **Sponsor Search & Sponsor Parsing**  
+The pipeline is organized into discrete stages:
+
+1. **Index → Base Data**
+2. **Base Data → Metadata**
+3. **Sponsor Search & Sponsor Parsing**
 4. **History Parsing**  
-     Where A -, S -, G -, P - prefixes indicate Assmebly, Senate, Govenor, and Previous action's prefix is likely correct, but it was ambiguous
-5. **Votes Parsing**  
+   Prefixes in history actions indicate chamber/source:
+   - `A -` = Assembly
+   - `S -` = Senate
+   - `G -` = Governor
+   - `P -` = Previous action prefix likely carried forward, though this was sometimes ambiguous in source data
+5. **Votes Parsing**
 6. **Combine All Outputs**
-7. **Query any State Bill**
+7. **Query Any State Bill**
 
-
-Each step lives in `conversion_functions/<step_name>.py` and can be run independently or all at once via the top-level launcher.
+Each step lives in `code/` and can be run independently, or all at once via the top-level launcher.
 
 ---
 
-## ⚙️ Steps
+## ⚙️ Setup and Usage
 
-- Python 3.8+  
-- Install dependencies with a virtual environment:
-  `python -m venv .venv`
-  `.venv\Scripts\activate`
-  `pip install -r requirements.txt`
-- Run start.py with:
-  `python code\start.py`
-  This will take about 15 minutes, with intermediate print outs, then subsequent queries will be instant.
-  I have already ran this for you to generate the intermediate JSONs, but if the conversion scripts are updated, then you must rerun start.py 
-- Query any bill with:
-  # Query by state, session, and bill id
-  `python code\query.py --state NV --session 70th1999 --state_bill_id AB444`
+### Requirements
+- Python 3.8+
 
-  # Query by UUID only and dump to file
-  `python code\query.py --uuid NV70th1999AB444`
+### Install dependencies
+Create and activate a virtual environment, then install requirements:
 
-  With the resulting JSON of the query in `output/query/NV70th1999AB444.json`
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+```
 
+### Run the full pipeline
+```bash
+python code\start.py
+```
 
+The first full run takes about **15 minutes** and prints progress along the way.  
+Subsequent bill queries are effectively instant once the output files have been generated.
 
+> Intermediate JSONs may already be included, but if any conversion script is updated, you should rerun `start.py`.
 
+### Query a bill
+
+Query by state, session, and bill ID:
+
+```bash
+python code\query.py --state NV --session 70th1999 --state_bill_id AB444
+```
+
+Query by UUID only:
+
+```bash
+python code\query.py --uuid NV70th1999AB444
+```
+
+The resulting JSON will be written to:
+
+```text
+output/query/NV70th1999AB444.json
+```
+
+---
+
+## 📁 Project Structure
+
+```text
 .
 ├── code/
-│   └── start.py                # Step 1: Runs all the scripts end-to-end
-│   ├── index_to_json.py        # Step 2: Scrape bill index → JSON
-│   ├── basedata.py             # Step 3: Normalize base JSON
-│   ├── metadata.py             # Step 4: Summaries, statuses, AN ACT titles
-│   ├── sponsorsearch.py        # Step 5a: Scrape primary/cosponsor lists  
-│   ├── sponsors.py             # Step 6b: Adds Sponsors and Cosponsors to their respective bills
-│   ├── history.py              # Step 7: Parse bill history actions, see above for prefix details
-│   ├── votes.py                # Step 8: Parse roll-call votes
-│   └── combiner.py             # Step 9: Stitch everything into 4 big JSONs
-│   └── query.py                # Step 10: Query any bill using either UUID or state, state_bill_id, and session as arguments
+│   ├── start.py          # Runs all scripts end-to-end
+│   ├── index_to_json.py  # Scrape bill index pages → JSON
+│   ├── basedata.py       # Normalize base bill JSON
+│   ├── metadata.py       # Parse summaries, statuses, and AN ACT titles
+│   ├── sponsorsearch.py  # Scrape sponsor / cosponsor listings
+│   ├── sponsors.py       # Attach sponsors and cosponsors to bills
+│   ├── history.py        # Parse bill history actions
+│   ├── votes.py          # Parse roll-call votes
+│   ├── combiner.py       # Stitch outputs into final JSON datasets
+│   └── query.py          # Query a bill by UUID or by state/session/state_bill_id
 │
-├── intermediate/               # ← Default working area
-│   ├── index_to_json/          # raw JSONs outputs from the bill index sites
-│   ├── basedata/               # normalized base data that every bill inherits and reads
-│   ├── metadata/               # bill_metadata_*.json
-│   ├── sponsors/               # sponsor_search + sponsors outputs
-│   ├── history/                # parsed history JSONs
-│   └── votes/                  # parsed vote JSONs
+├── intermediate/         # Working directory for intermediate pipeline outputs
+│   ├── index_to_json/    # Raw bill-index JSON outputs
+│   ├── basedata/         # Normalized base data used by downstream scripts
+│   ├── metadata/         # bill_metadata_*.json outputs
+│   ├── sponsors/         # Sponsor search + sponsor attachment outputs
+│   ├── history/          # Parsed bill history JSONs
+│   └── votes/            # Parsed vote JSONs
 │
-├── output/                     # ← Final combined JSONs
+├── output/               # Final combined JSON outputs
 │   ├── bill_metadata.json
 │   ├── sponsors.json
 │   ├── bill_history.json
 │   ├── votes.json
-│   └── query/                  # ← Final output of Bills you queried, returned as JSONs
-│       └── 
+│   └── query/            # Per-bill query results
 │
 ├── requirements.txt
 └── README.md
-
+```
